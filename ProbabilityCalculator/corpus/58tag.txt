@@ -1,0 +1,1000 @@
+بچہ|NN آج|NN بڑے|ADJ کام|NN کر|VB رہا|AA ہے|TA ۔|SM
+انتظامیہ|NN صرف|ADV چند|Q اعداد|NN حاصل|ADJ کرنے|VB کی|P راہ|NN پر|P گامزن|ADJ ہوتی|VB ہے|TA اور|CC بس|NN ۔|SM
+اور|CC بولنے|VB کی|P سکت|NN نہیں|NEG تبھی|VB تو|SC لکھ|VB رہی|AA ہوں|TA ۔|SM
+"|PM اگر|SC تو|I اس|PP نے|P اسے|PP اطاعت|NN خداوندی|NN کے|P لئے|NN قتل|NN کیا|VB ہو|AA گا|TA تو|I اسے|PP ثواب|NN ملے|VB گا|TA اور|CC مقتول|NN کو|P جہنم|NN میں|P بھیج|VB دیاجائے|AA گا|TA ،|PM اگر|SC کسی|KD انسان|NN کو|P راضی|ADJ کرنے|VB کے|P لئے|NN کیا|VB تھا|TA تو|SC مقتول|NN سے|SE کہا|VB جائے|AA گا|TA کہ|SC تو|I بھی|I اسے|PP ویسے|ADJ ہی|I قتل|NN کر|VB جس|REP طرح|NN اس|PP نے|P تجھے|NN قتل|NN کیا|VB تھا|TA ۔|SM
+الحمدللہ|NN بہت|ADV خوشگوار|ADJ
+وہاں|AP کون|KP کون|KP لوگ|NN موجود|ADJ ہیں|VB اور|CC وہ|PP کیا|VB کر|VB رہے|AA ہیں|TA ‘|ADJ ریاست|NN جانتی|VB ہے|TA اور|CC نہ|NEG ہی|I اردگرد|NN کے|P لوگ|NN ۔|SM
+محفوظات|NN برائے|ADV ”|PN انسٹالر|PN “|PN ٹیگ|PN
+پھر|ADV لال|ADJ مسجد|NN کا|P سانحہ|NN پیش|NN آیا|VB ۔|SM
+اس|PD لئے|NN مکان|NN کو|P ڈھونڈتے|VB ڈھونڈتے|VB گرمی|NN ،|PM تکان|NN اور|CC پیاس|NN کی|P شدت|NN سے|SE نڈھال|ADJ ہو|VB گیا|AA ۔|SM
+سترہویں|ADJ قسط|NN :|PM .|SM
+اگرچہ|SC یہ|PD بحث|NN صرف|ADV 35|CA کے|P قریب|NN صفحات|NN پر|P محیط|ADJ ہے|VB جو|REP دوسری|ADJ کتاب|NN کے|P مقابلہ|NN میں|P کافی|ADV کم|ADJ ہیں|VB ،|PM لیکن|SC پھر|ADV بھی|I افادیت|NN کے|P اعتبار|NN سےبہت|NN زیادہ|Q اہمیت|NN کے|P حامل|ADJ ہیں|VB ۔|SM
+یار|OR 21|CA سال|NN سے|SE برف|NN دیکھ|VB دیکھ|VB کر|KER تنگ|ADJ آگیا|NN ہوں|VB ۔|SM
+3|CA :|PM جب|AP اوبنٹو|PN میں|P گنو|NN ڈیسکٹاپ|PN ہوا|VB کرتا|VB تھا|TA تب|AP اس|PP میں|P ایک|CA عدد|NN اسٹارٹ|PN اپ|PN ایپلیکیشن|PN مینیجر|NN پروگرام|NN ہوتا|VB تھا|TA ۔|SM
+اردو|PN ویب|PN پر|P بھی|I بڑے|ADJ سائز|NN کی|P فائلیں|NN سکرپٹ|NN کے|P ذریعے|NN نہیں|NEG بلکہ|SC فائل|NN ٹرانسفر|NN کے|P ذریعے|NN منتقل|ADJ کی|VB گئی|AA ہیں|TA ۔|SM
+آپ|PP کو|P iso|ADJ فائل|NN سے|SE سی|A ڈی|PN رائٹ|PN کرنی|VB پڑے|AA گی|TA ۔|SM
+ہم|PP اگر|SC ان|PD برطانوی|ADJ اور|CC امریکی|ADJ یونیورسٹیوں|NN میں|P لسانی|NN اور|CC علاقائی|ADJ بنیادوں|NN پر|P طلبا|NN کی|P تنظیمیں|NN بنوا|VB دیں|AA اور|CC طلبا|NN کو|P افریقی|PN ،|PM چینی|NN ،|PM ہسپانوی|PN اور|CC دیگر|NN گروہوں|NN میں|P تقسیم|NN کر|VB دیں|AA اور|CC اگر|SC ہر|Q گروہ|NN دوسرے|ADJ گروہ|NN کی|P چائے|NN کی|P تقریب|NN پر|P حملہ|NN آور|NN ہو|VB جائے|AA تو|SC ان|PD یونیورسٹیوں|NN کی|P ممتاز|ADJ علمی|ADJ حیثیت|NN تھوڑے|Q ہی|I عرصہ|NN میں|P نفاق|NN اور|CC جنگ|NN و|CC جدل|NN کی|P نذر|NN ہو|VB جائے|AA گی|TA ۔|SM
+وہ|PP دفتر|NN جانے|VB کے|P لئے|NN گھر|NN سے|SE نکلنے|VB سے|SE قبل|NN آواز|NN دیتے|VB کہاں|AKP ہے|VB ،|PM میری|G نادیہ|NN ؟|SM
+مزاج|NN شریف|ADJ بخیر|NN ہیں|VB -|PM آپ|PP سنائیں|NN پرچے|NN کٹوانے|VB کی|P تیاریاں|NN صحیح|ADJ جا|VB رہی|AA ہیں|TA ؟|SM
+1|CA :|PM جمعہ|PN کے|P خطبے|NN میں|P
+میرے|G والد|NN ڈاکٹر|NN تھے|VB ،|PM اس|PD لئے|NN یہ|PD نام|NN میرا|G پڑ|AA گیا|AA
+جو|REP جس|REP جگہ|NN پہ|SC تھا|TA وہ|PP وھاں|NN نھیں|VB رھا|PN
+اپنی|GR میٹھی|ADJ پشتو|NN میں|P کچھ|Q غزلیں|NN لکھ|VB "|PM ماری|VB "|PM ہے|VB ۔|SM
+وہ|PP صاحب|NN جاتے|VB ہوئے|AA ہم|PP سے|SE ملنے|VB آئے|AA !|SM ہم|PP نے|P اُن|PP سے|SE پوچھا|VB ‘|NN کیا|QW بیماری|NN تھی|VB آپ|PP کو|P جو|REP عدالت|NN سے|SE غیرحاضر|VB ہوئے|AA ‘|NN
+نہ|NEG کوئی|Q کم|ADJ نا|ADV کاج|NN بس|NN کمپیوٹر|NN تے|VB بیٹھے|VB رئو|NN
+میں|PP چل|VB پڑا|AA ہوں|TA کسی|KD سمت|NN سوچتا|VB بھی|I نہیں|NEG
+ویسے|ADJ اساتزہ|NN کے|P ہاں|INT نہیں|NEG بنے|VB کی|P ردیف|NN میں|P بہت|ADV زیادہ|ADV کہا|VB گیا|AA ہے|TA
+خوش|ADJ آمدید|ADV رانا|VB ۔|SM
+قاصد|PN پلٹ|NN کے|P خْوب|NN رویا|VB کہ|SC تعارف|NN پوچھتے|VB ہیں|TA وہ|PP
+اس|PP پر|P مقدس|NN نے|P یہ|PD لڑی|NN کھولی|VB تھی|TA ۔|SM
+عزم|NN او|PN چوں|NN کوہساراں|NN استوار|ADJ
+توقع|NN کے|P مطابق|NN تمام|Q بندروں|NN نے|P اس|PP کی|P پیروی|NN میں|P اپنی|GR ٹوپیاں|NN زمین|NN پرپھینک|VB دیں|AA ۔|SM
+سب|Q اہلِ|NN دربار|NN کا|P تعظیم|NN کے|P لیے|ADV دست|ADJ بستہ|NN کھڑے|ADJ ہونا|VB ۔|SM
+مبارک|PN ہو|VB پردیسی|NN بھیا|VB ۔|SM
+سر|NN درد|NN دور|NN کرنے|VB کا|P مجرب|NN نسخہ|NN میرے|G پاس|NN ہے|VB ناں|NN ۔|SM
+رمان|PN غنی|PN ,|PM جنوری|PN 27|CA ,|PM 2013|CA
+آپ|PP صرف|ADV یہ|PP بتائیں|VB کہ|SC اگر|SC ان|PP کو|P جانے|VB دیا|AA جاتا|AA تو|SC پاکستان|PN کا|P وہ|PP کونسا|AKP شہر|NN اور|CC قصبہ|NN ہے|VB جہاں|AP لال|ADJ مسجدیں|NN نہ|NEG کھل|VB جاتیں|AA ؟|SM
+اس|PD پیغام|NN کا|P پس|SC منظر|NN یہ|PP ہے|VB کہ|SC جن|REP مغربی|ADJ ممالک|NN میں|P نکاح|NN کے|P بغیر|NN مرد|NN و|CC زن|NN کا|P تعلق|NN عام|ADJ بات|NN ہے|VB ،|PM ان|PP کے|P ہاں|INT یہ|PP کوئی|Q اخلاقی|ADJ خرابی|NN نہیں|NEG ہے|VB ۔|SM
+اب|AP انھوں|NN نے|P بری|ADJ طرح|NN مجھے|PP گھورنا|VB شروع|NN کردیا|VB تھا|TA ۔|SM
+اب|AP اتنا|Q وقت|NN نہیں|NEG کہ|SC آپ|PP کی|P خاطر|NN ثبوت|NN اکھٹے|VB کیے|VB جائیں|AA ۔|SM
+اس|PD (|EXP ان|PP میں|P سے|SE )|CA ہر|Q ایک|CA کی|P قوت|NN رفتار|NN کہ|SC جس|REP قدر|NN اس|PP نے|P کی|P ہوتی|VB یا|CC اس|PP کی|P دید|NN میں|P آیا|VB ہوا|AA واقعہ|NN ہوتا|VB من|U و|CC عن|NN کہہ|VB دیتا|AA ۔|SM
+غزل|NN -|PM ترے|ADJ شہر|NN میں|P یہ|PD کمال|NN ھونا|VB تھا|TA ھو|AA گیا|AA (|EXP احمد|PN فرید|PN )|PN
+اے|PN اہلِ|NN سخن|NN !|SM بہت|ADV بڑا|ADJ ماتم|NN ہے|VB
+جناب|NN زکریا|PN صاحب|I
+لیکن|SC وہ|PP تو|I تب|AP ہوتا|VB ہے|TA جب|AP قریب|ADJ قریب|NN ہوں|VB اور|CC ایکدوسرے|PN کو|P دیکھ|VB رہے|AA ہوں|TA ۔|SM
+نبیل|PN نے|P '|SC روز|NN مرہ|NN کے|P معمولات|NN سے|SE '|SC کی|P ذیل|NN میں|P اس|PD موضوع|NN کا|P آغاز|NN کیا|VB ،|PM فروری|PN 1|CA ,|PM 2011|CA
+ڈرا|VB رہے|AA ہیں|TA جناب|NN کیا|VB
+یہ|PD کچن|NN اور|CC کمپیوٹر|NN کیسے|AKP ساتھ|NN ساتھ|NN ہیں|VB ؟|SM
+لڑیاں|NN از|P :|PM نبیل|NN ,|PM جولائی|PN 12|CA ,|PM 2006|CA ,|PM 69|CA جوابات|NN ,|PM زیر|NN زمرہ|NN :|PM اردو|PN او|PN سی|A آر|PN پر|P تحقیق|NN
+ویسے|ADJ ایک|CA بات|NN کی|P سمجھ|NN نہیں|NEG آئی|VB کیا|QW متحدہ|NN قومی|ADJ مرڈر|NN والے|WALA اسے|PP "|PM دیہاڑی|NN "|PM دیتے|VB ہیں|TA ؟|SM
+ٹارچ|PN کی|P کمی|NN چین|PN کی|P ایل|PN ای|PN ڈیز|NN سے|SE پوری|ADJ ہو|VB رہی|AA ہے|TA ویسے|ADJ بھی|I ۔|SM
+احاديث|NN شاہد|NN ہيں|AA كہ|SC ان|PD سب|Q امور|NN كے|NN مرتكب|NN پر|P لعنت|NN
+کال|NN بیل|PN کی|P آواز|NN پر|P ذیشاں|NN نے|P دروازہ|NN کھولا|VB تو|SC ماموں|NN نے|P اسے|PP دھکیلتے|VB ہوئے|AA اندر|NN داخل|NN ہوتے|VB ہی|I آپا|PN جان|PN آپاجان|PN باآواز|PN بلند|ADJ صدا|NN لگانے|VB لگے|AA ۔|SM
+بہت|ADV سی|A کہانیوں|NN میں|P یہ|PD دائرہ|NN بنتا|VB بھی|I ہے|VB اور|CC کہیں|AKP کہیں|AKP تو|I وہ|PP پرکار|NN کا|P نوکیلا|ADJ سرا|ADJ سختی|NN سے|SE جما|VB کر|VB یوں|AP گہری|ADJ لکیر|NN کھینچتا|VB ہے|TA کہ|SC یہی|PD لکیر|NN کسی|KD نوخیز|ADJ لڑکی|NN کی|P آنکھوں|NN میں|P آنسوؤں|NN سے|SE پھیلنے|VB والے|WALA کاجل|NN کی|P طرح|NN بھلی|ADJ لگتی|VB ہے|TA ۔|SM
+اس|PD ملاقات|NN کی|P ميڈيا|NN ميں|NN رپورٹنگ|NN اور|CC معلومات|NN ميں|NN واضح|ADJ تضادات|NN اس|PD بات|NN کا|P ثبوت|NN ہے|VB کہ|SC ايک|PN متوازن|ADJ رائے|NN قائم|ADJ کرنے|VB کے|P ليے|NN ضروری|ADJ ہے|VB کہ|SC حقائق|NN کو|P شائع|ADJ کرنے|VB سے|SE پہلے|NN ان|PP کی|P تحقيق|NN کر|VB لی|AA جائے|AA ۔|SM
+خیالات|NN بدل|VB لو|AA ،|PM دیکھو|PN دنیا|NN کہاں|AKP سے|SE کہاں|AKP پہنچ|VB گئی|AA ہے|TA ،|PM اب|AP تو|I اپنی|GR بُکل|NN سے|SE باہر|NN آ|VB جاؤ|VB ۔|SM
+بات|NN کرنے|VB والے|WALA کو|P نہ|NEG دیکھ|VB بات|NN کو|P دیکھ|VB ۔|SM
+بہت|ADV خوب|ADJ جناب|I مغل|NN صاحب|NN عمدہ|ADJ غزل|NN ہے|VB
+کببھی|PN اجاتا|VB ہے|TA کبھی|AKP چلا|VB جاتا|AA ہے|TA
+کیونکہ|SC مجھے|PP رات|NN گئے|VB فون|NN نہیں|NEG آتے|VB
+ایک|CA ہی|I ساز|NN سے|SE بات|NN بن|VB جائے|AA گی|TA یا|CC پورا|ADJ بینڈ|NN لانا|VB پڑے|AA گا|TA ؟|SM
+کیا|QW ہی|I اچھا|ADJ ہوتا|VB اگر|SC یہ|PP براؤزر|NN ایک|CA دوسرے|PP کے|P ساتھ|NN کمپیٹیبل|PN آبجیکٹ|PN ماڈلز|PN پر|P مبنی|ADJ ہوتے|VB ۔|SM
+مجھے|PP پتہ|NN ہوتا|VB تو|SC میں|PP ان|PD باتوں|NN میں|P گھنٹے|NN لگا|VB دیتا|AA ۔|SM
+انسان|NN شیطان|NN کو|P قتل|NN کر|VB سکتا|AA ہے|TA اس|PD شرط|NN کے|P ساتھ|NN کہ|SC عید|NN کے|P موقع|NN پر|P آمادہ|ADJ کی|VB گئی|AA روٹی|NN کے|P خمیر|NN سے|SE اچھی|ADJ طرح|NN استفادہ|NN کرے|VB (|EXP عید|NN کی|P روٹی|NN کا|P خمیر|NN غیر|ADJ یہودی|NN کے|P خون|NN سے|SE آمادہ|ADJ کیا|VB جاتا|AA ہے|TA )|EXP ۔|SM
+ملک|NN ایاز|PN کے|P زمانے|NN میں|P یہاں|AP بھٹ|NN قبیلے|NN کے|P لوگوں|NN کو|P رہائش|NN اختیار|NN کرنے|VB کے|P لئے|NN حوصلہ|NN افزائی|NN کی|VB گئی|AA اور|CC انہوں|PP نے|P صدیوں|NN اس|PD دروازے|NN کے|P اندر|NN قیام|NN کیا|VB اور|CC ان|PP کی|P مناسبت|NN سے|SE ہی|I دروازے|NN کا|P نام|NN بھاٹی|ADJ دروازہ|NN مشہور|ADJ ہو|VB گیا|AA ۔|SM
+اچھا|ADJ لگا|VB چان|AA کر|VB
+کچن|PN کارنر|PN کی|P بہترین|ADJ ترکیب|NN
+شگفتگی|NN ہی|I بھلی|ADJ ہے|VB نہ|NEG غنچگی|ADJ دل|NN کی|P
+طوطے|NN اس|PD وقت|NN نجانے|VB کیوں|QW شور|NN مچا|VB رہے|AA ہیں|TA ۔|SM
+’|PN چلو|PN آج|PN کے|P دن|NN کے|P لئیے|ADV تو|I کوئی|Q بھوکا|NN مِلا|VB ‘|ADJ
+یہ|PP خوش|ADJ آئند|ADJ ہے|VB کیوں|QW کہ|SC ہم|PP مسائل|NN کو|P طاقت|NN سے|SE نہیں|NEG بلکہ|SC تبادلہ|NN خیال|NN اور|CC افہام|NN و|CC تفہیم|NN کے|P ذریعہ|NN ہی|I حل|NN کرسکتے|VB ہیں|TA ۔|SM
+عبدالقادر|PN بن|VB محمد|NN بن|VB حسن|NN ابوطالب|PN
+بھلا|ADJ میڈیا|NN نے|P یہ|PP کیسے|AKP جرات|NN کی|VB کہ|SC ایک|CA امریکی|ADJ جاسوس|NN جو|REP سفارت|NN کار|NN تھا|VB اور|CC جاسوسی|PP الات|NN لے|VB کر|KER پسٹلز|NN کےساتھ|PN شاہراہ|NN پر|P صرف|ADV ھیپی|PN ٹریگر|PN ہی|I ہوا|VB تھا|TA بھلا|ADJ یہ|PP بتانے|VB کی|P بات|NN ہے|VB ۔|SM
+"|PM تم|PP نے|P جس|REP سنگار|ADJ دان|NN کے|P پچیس|CA ہزار|CA وصول|ADJ کئے|Q ہیں|VB !|SM وہ|PP ڈیڑھ|PN سو|VB میں|P بھی|I مہنگا|ADJ ہے|VB !|SM "|PM
+ان|PD شاء|NN اللہ|PN ان|PP کی|P طبیعت|NN جلدی|ADV ہی|I پوری|ADJ طرح|NN بحال|ADJ ہو|VB جائے|AA گی|TA ۔|SM
+تو|SC یہاں|AP آنحضور|PN صلی|PN اللہ|PN علیہ|PN وسلم|PN نے|P کسی|KD کتاب|NN کا|P ذکر|NN نہیں|NEG کیا|VB کہ|SC فلاں|Q کتاب|NN سے|SE دیکھ|VB لینا|AA کہ|SC یہود|ADV کی|P کیا|QW مشابہت|NN ہے|VB ۔|SM
+تو|SC کیا|QW انکل|NN کی|P نظر|NN کمزور|ADJ ہوگئ|AA ہے|VB ؟|SM
+کیا|QW عالم|ADJ ہستی|NN اپنی|GR مجموعی|ADJ حیثیت|NN میں|P ایک|CA زندہ|ADJ اور|CC باشعور|ADJ چیز|NN ہے|VB یا|CC مردہ|ADJ اور|CC بے|PN شعور|NN ہے|VB اور|CC انسان|NN کا|P وجود|NN ایک|CA استثنائی|ADJ اور|CC حادثاتی|ADJ وجود|NN ہے|VB ؟|SM
+ذرا|NN بھی|I ڈرنا|VB نہیں|NEG چاہیے|VB ۔|SM
+سارے|ADJ ملک|NN میں|P ہارنے|VB والے|WALA مسلم|PN لیگ|PN قائداعظم|PN کے|P امید|NN وار|PN میر|PN حمل|NN کلمتی|PN نے|P جیوانی|NN میں|P الیکشن|NN میں|P کامیابی|NN حاصل|ADJ کی|VB ۔|SM
+ابنِ|NN بھیا|ADV آپ|PP بھی|I آجائیے|VB ۔|SM
+دھونی|NN کی|P طرز|NN پر|P سری|ADJ لنکا|PN کے|P اوپننگ|ADJ بلے|NN باز|NN تلک|NN رتنا|PN دلشان|NN کو|P تین|CA زمروں|NN میں|P نازدگی|NN حاصل|ADJ ہوئی|VB ہے|TA ۔|SM
+سیماب|PN جی|PN ۔|SM
+جیسے|A برسات|NN میں|P پتنگے|NN نکل|VB آتے|AA ہیں|TA ۔|SM
+کیا|QW آپ|PP ایم|PN این|PN اے|PN بھی|I رہے|VB چکے|AA ہیں|TA پچھلی|ADJ اسمبلی|NN میں|P ؟|SM
+لائبریری|NN اراکین|NN کی|P میٹنگ|NN
+اور|CC اگر|SC ہمارا|G مقابلہ|NN کسی|KD دشمن|NN سے|SE ہو|VB تو|SC ہمیں|PP ثابت|ADJ قدم|NN رکھ|VB ،|PM اور|CC ہم|PP پر|P سکینہ|ADJ نازل|PN فرما|VB ۔|SM
+آپ|PP سب|Q کی|P پرخلوص|ADJ دعاؤں|NN کا|P بہت|ADV بہت|Q شکریہ|NN
+انشاءاللہ|NN کل|Q اس|PP کو|P پرھنے|VB کی|P سعادت|NN نصیب|NN ہو|VB گی|TA
+اجی|NN سنیے|VB !|SM یہ|PP مناسب|ADJ نہیں|NEG کہ|SC آپ|PP میری|G رائے|NN لیے|ADV بغیر|NN ہی|I خورد|NN و|CC برد|NN کا|P سلسلہ|NN جاری|ADJ رکھیں|VB ۔|SM
+ابھی|AP آتی|VB ہوں|TA ہانڈی|NN جل|VB رہی|VB ہے|TA
+اب|AP مجھے|PP لمبی|ADJ ریسرچ|NN کرنی|VB پڑے|AA گی|TA اس|PD تھریڈ|NN کو|P نکالنے|VB کے|P لیئے|VB ۔|SM
+میزائل|NN نے|P ہنٹر|NN کے|P ایندھن|NN والے|WALA حصے|NN کو|P تباہ|ADJ کیا|VB ۔|SM
+ابھی|AP پہچاننے|VB سے|SE بھی|I انکار|NN ؟|SM
+اعجاز|PN بھائی|ADJ 4|CA گھنٹے|NN تو|I بہت|ADV کم|ADJ ہے|VB ۔|SM
+خان|NN صاحب|NN کویت|NN چلے|VB گئے|AA ۔|SM
+خوشی|NN کو|P دکھ|VB واہ|INT
+اللہ|NN بھلا|ADJ ہی|I کرے|VB آپکا|G ۔|SM
+لیکن|SC یہ|PP جان|VB کر|VB بھی|I دکھ|VB ہوا|AA کہ|SC فنڈز|NN کی|P کٹوتی|NN کے|P باعث|NN اس|PD جرنل|PN کی|P مزید|ADJ اشاعت|NN اب|AP خطرے|NN میں|P پڑ|AA گئی|AA ہے|TA اور|CC جرنل|PN کی|P ویب|PN سائٹ|NN پر|P فنڈ|NN ریزنگ|NN کی|P اپیل|NN کی|VB گئی|AA ہے|TA ۔|SM
+جیمز|PN اینڈرسن|PN ،|PM اپنی|GR 300|CA ٹیسٹ|NN وکٹ|NN حاصل|ADJ کرنے|VB کے|P بعد|NN
+ہر|Q سو|CA تیرے|ADJ نام|NN کی|P برکت|NN تیری|ADJ دولت|NN تیری|ADJ رحمت|NN
+السلام|PN علیکم|PN ماہ|NN وش|PN ،|PM کیسی|AKP ہیں|VB آپ|PP ؟|SM
+کہتے|VB ہیں|TA درخت|NN اپنے|GR پھل|NN سے|SE پہچانا|NN جاتا|VB ہے|TA ۔|SM
+کہ|SC جو|REP غزل|NN کا|P ہے|VB محور|NN ،|PM ردیف|NN میرا|G ہے|VB
+عربی|PN میں|P ‘|PN عبد|NN ‘|EXP کا|P مطلب|NN ‘|PM بندہ|NN ‘|VB ہے|VB اور|CC اللہ|NN اللہ|PN ہی|I ہے|VB تو|SC ‘|PN عبد|PN اللہ|PN ‘|PN کا|P مطلب|NN ‘|EXP اللہ|PN کا|P بندہ|NN ‘|NN ہے|VB ۔|SM
+مولانا|PN محمد|PN علی|PN جوہر|PN (|PN م|PN 1931|CA ء|ADJ )|EXP
+انصار|ADJ عباسی|NN سے|SE متعلق|NN آپکی|G مثال|NN ایک|CA خواہش|NN کا|P اظہار|NN زیادہ|ADV لگتی|VB ہے|TA ۔|SM
+اسی|PD طرح|NN گاؤں|NN میں|P رہنے|VB والے|WALA بڑھئی|NN نے|P بھی|I دروازے|NN اور|CC کھڑکیاں|NN وغیرہ|NN تیار|ADJ کرنے|VB کے|P لیے|ADV اپنی|GR خدمات|NN پیش|NN کر|VB دیں|AA ۔|SM
+خدا|NN خدا|NN کر|VB کے|P میں|P اس|PD مشکل|ADJ مرحلے|NN میں|P سرخرو|VB ہوا|AA اور|CC کمرے|NN میں|P امن|NN و|CC امان|NN قائم|ADJ ہوا|VB ۔|SM
+حضور|NN !|SM ڈائن|PN ڈی|PN این|PN ایس|PN ڈاٹ|PN کام|NN پر|P رجسٹریشن|PN کروائیے|NN اور|CC نیا|ADJ ہوسٹ|NN بنا|VB لیجئے|AA ۔|SM
+mfdarvesh|CA ,|PM جنوری|PN 29|CA ,|PM 2010|CA
+ایسے|PP میں|P قدرتی|ADJ آفت|NN سے|SE متاثرہ|ADJ ان|PD مصیبت|NN زدرہ|ADJ علاقوں|NN کے|P لوگوں|NN کو|P اگر|SC بم|NN حملے|NN کا|P بھی|I خوف|NN ہو|VB تو|SC ان|PP کے|P لیے|ADV عید|NN اور|CC خوشی|NN کیا|QW معنی|NN رکھتی|VB ہوگی|TA ؟|SM
+اچھا|ADJ شعر|NN ہے|VB
+اردو|PN وکی|PN پیڈیا|PN کی|P ویسے|ADJ تھوڑی|Q نوک|PN پلک|NN سنوارنے|VB کی|P بھی|I ضرورت|NN ہے|VB ۔|SM
+میرے|G بھائی|NN 11|CA اگست|PN کے|P تقریر|NN کا|P کوئی|Q سرکاری|ADJ ریکارڈ|NN نہیں|NEG ہے|VB .|SM
+1,281|CA تا|ADV 1,300|CA از|P 2,224|CA لڑیوں|NN کی|P نمائش|NN
+"|PM اگر|SC ایک|CA عورت|NN زنا|NN بالجبر|NN کا|P شکار|NN ہو|VB جائے|AA تو|SC اسکیلئے|ADJ خاموشی|NN بہتر|ADJ ہے|VB .|SM "|PM .|SM امیر|ADJ جماعت|NN اسلامی|PN منور|PN حسن|NN
+بچوں|NN کو|P بھولپن|NN اور|CC عورت|NN کو|P نازکی|VB دی|AA
+کوئی|Q بھی|I دکھ|VB یا|CC تکلیف|NN اکیلے|ADJ سہنہ|NN بہت|ADV مشکل|ADJ ہوتا|VB ہے|TA جبکہ|SC بانٹنے|VB سے|SE یہ|PP آدھے|FR رہ|VB جاتے|AA ہیں|TA ۔|SM
+بس|ADV کام|NN ذرا|NN کم|ADJ کرتی|VB ہوں|TA لیکن|SC جب|AP موڈ|NN آئے|VB تو|SC سب|Q کچھ|Q کر|VB لیتی|VB ہوں|TA ۔|SM
+آگاہ|ADJ ہوجا|TA ئیے|TA کہ|SC جو|REP کوئی|Q محبت|NN ِآلِ|NN محمد|NN میں|P مرا|VB وہ|PP مومن|NN اور|CC مکمل|ADJ ایمان|NN کے|P ساتھ|NN مرا|VB ۔|SM
+نظامِ|NN زندگی|NN میں|P کہاں|AKP کیا|KP غلط|ADJ ہے|VB ؟|SM
+اگر|SC یہ|PP عمومی|ADJ بات|NN ہے|VB تو|I میں|PP اپنی|GR پوسٹ|PN پر|P کہی|VB ہوئی|AA بات|NN کی|P طرف|NN رجوع|NN کرتا|VB ہوں|TA ۔|SM
+یا|CC بے|PN ایمانی|PN تیرا|G ہی|I آسرا|PN یہ|PP لیجیے|ADV جواب|NN
+’|PN اچھا|ADJ چھوڑو|NN اس|PD بات|NN کو|P ۔|SM
+تقریب|NN سے|SE میں|P سیدھا|ADJ ریگل|NN چوک|NN کی|P پرانی|ADJ کتابوں|NN کی|P دکانوں|NN پر|P گیا|VB ۔|SM
+بینڈ|NN وڈتھ|NN
+ویسے|ADJ غزل|NN ان|PP کے|P نام|NN کی|P طرح|NN خوبصورت|ADJ تھی|VB ۔|SM
+پ|CA کے|P بھیج|VB دیں|AA تو|SC نوازش|NN ۔|SM
+اور|CC آر|PN کے|P ساتھ|NN نار|ADJ تھا|VB ۔|SM
+انہوں|PP نے|P اپنے|GR کیریئر|PN کا|P آغاز|NN بھی|I پاکستان|PN کے|P خلاف|NN ہی|I مئی|PN 2000|CA ء|NN میں|P کیا|VB تھا|TA جب|AP پاکستان|PN ویسٹ|PN انڈیز|PN کے|P دورے|NN پر|P تھا|VB ۔|SM
+ایک|CA پرندے|NN کی|P طرح|NN نظر|NN آتا|VB ہے|TA ۔|SM
+سلامت|NN رہو|VB پیارے|NN تمھاری|G محبتوں|NN کا|P مقروض|ADJ ہوں|VB ہاشمی|ADJ صاحب|NN سے|SE کوئی|Q سات|CA آٹھ|CA ماہ|NN بعد|NN جز|NN وقتی|ADJ سی|A ملاقات|NN رہی|VB ہے|TA ۔|SM
+چاچو|NN آپ|PP کیسے|AKP ہیں|VB ۔|SM
+مشکل|NN میں|P ہے|VB میرا|G یہ|PP گهر|NN مجھ|PP کو|P بلاتا|VB ہے|TA
+امریکی|ADJ صدر|NN کہتے|VB ہیں|TA کہ|SC ہائی|PN ویلیو|PN ٹارگٹ|PN کو|P نشانہ|NN بنانے|VB کے|P لئے|NN ہر|Q قسم|NN کی|P کاروائی|NN کی|P جاسکتی|VB ہے|TA ۔|SM
+ان|PD محیر|ADJ العقول|ADJ واقعات|NN کو|P بیان|NN کیا|VB جاتا|AA ہے|TA جو|REP ظہورِ|NN قدسی|NN کے|P وقت|NN شہر|NN مکہ|PN اور|CC دنیا|NN کے|P دوسرے|ADJ حصوں|NN میں|P پیش|NN آئے|VB ،|PM جن|REP کا|P تعلق|NN بالواسطہ|ADJ یا|CC بلاواسطہ|ADJ ولادتِ|NN مصطفیٰ|ADJ صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN سے|SE ہے|VB ۔|SM
+کسی|KD یاد|NN کو|P پُکارو|NN کسی|KD درد|NN کو|P جگاؤ|NN
+نام|NN تو|I ٹھیک|ADJ ہے|VB ہاں|INT البتہ|SC تصویر|NN ضرور|ADV مشکوک|ADJ ہے|VB اس|PP سے|SE پہلے|NN کہ|SC ان|PP کے|P خلاف|NN کوئی|Q کاروائی|NN عمل|NN میں|P لائی|VB جاوے|AA یہ|PP جلد|NN ہی|I اپنی|GR اصلی|ADJ حالت|NN میں|P ا|VB جانے|VB چاہیں|AA
+(|PM 1|CA )|EXP اہلِ|NN عانات|NN سے|SE معاہدہ|NN
+چائے|NN پی|VB کر|KER باقی|ADJ سب|Q چلے|VB گئے|AA ،|PM لیکن|SC میں|PP اور|CC حنیف|NN بیٹھے|VB رہے|AA ۔|SM
+راجہ|NN مہدی|NN علی|PN خاں|NN
+تم|PP میں|P سے|SE ہر|Q اس|PD شخص|NN کے|P لیے|ADV جو|REP آگے|NN بڑھنا|VB یا|CC پیچھے|NN رہ|VB جانا|AA چاہے|AA ۔|SM
+کیا|QW لڑکیاں|NN سکول|NN جاسکتی|AA تھیں|VB ؟|SM
+تیسرى|PN نعمت|NN اللہ|PN نے|P حضرت|NN سلیمان|PN علیہ|PN السلام|PN كو|PN یہ|PP عن|PN آیت|NN
+کس|KD قسم|NN کے|P وزرا|NN ہیں|ADV جو|REP اپنے|GR اخراج|NN پر|P اتنا|Q غورو|NN فکر|NN .|SM
+بہت|ADV خوبصورت|ADJ تصاویر|NN ہیں|VB @|EXP محسن|PN وقار|PN علی|PN ۔|SM
+اور|CC دو|CA سال|NN تک|P جب|AP نان|NN سٹاپ|NN پروپیگنڈہ|NN اور|CC جھوٹ|NN و|CC بہتان|NN کو|P پھیلانے|VB کے|P بعد|NN جب|AP آج|NN بھی|I اسی|PD تندہی|NN سے|SE رائیٹ|ADJ ونگ|PN میڈیا|NN یہ|PD جھوٹ|NN بول|VB رہا|AA ہے|TA تو|SC کوئی|Q اعتراض|NN نہیں|NEG ،|PM مگر|SC جب|AP ہم|PP حقائق|NN کو|P دلائل|NN سے|SE ثابت|ADJ کرنا|VB چاہیں|AA تو|SC صرف|ADV ہم|PP سے|SE کہا|VB جائے|AA کہ|SC معاملہ|NN پرانا|ADJ ہے|VB اور|CC اس|PP پر|P انصاف|NN مانگنے|VB کا|P فائدہ|NN کا|P کیا|VB ہے|TA ؟|SM
+یہ|PD اردو|PN محفل|PN فورم|NN فورم|NN میں|P ٹیکنالوجی|NN پارک|NN سے|SE ٹیگ|NN کردہ|ADJ تمام|Q مواد|NN ہے|VB ۔|SM
+اب|AP میں|P کیا|VB کروں|VB
+جنھوں|NN کی|P آن|NN پہنچی|VB ،|PM لڑ|VB موئے|NN وہ|PP ایک|CA چھلے|NN پر|P
+سارہ|NN یہ|PP تو|I دیکھو|VB سُریلے|PN تو|SC ہیں|VB ناں|NN
+انہوں|PP نے|P کہا|VB کہ|SC اب|AP انھیں|PP حکومت|NN کی|P جانب|NN کوئی|Q مدد|NN نہیں|NEG ملی|VB ہے|TA اور|CC وہ|PP حکومت|NN کی|P مدد|NN کے|P منتظر|ADJ ہیں|VB ۔|SM
+ولکس|NN اب|AP تک|P نامعلوم|ADJ مقام|NN پر|P ہے|VB ،|PM کسی|KD کو|P پتہ|NN نہیں|NEG وہ|PP کہاں|AKP ہے|VB ؟|SM
+کن|PN کن|PN فروٹس|PN کا|P قتل|NN عام|ADJ ہوا|VB اور|CC کون|KP کون|KP زندہ|ADJ سلامت|NN ڈالے|VB گئے|AA ؟|SM
+کہ|SC وہ|PP کم|ADJ از|P کم|ADJ مجھ|PP سے|SE لمبے|ADJ بال|NN تو|I رکھے|VB گی|TA
+استعمار|NN کے|P ایجنٹو|PN !|SM کہاں|AKP ہو|VB ؟|SM
+کوئی|Q بتا|VB سکتا|AA ہے|TA جب|AP ہر|Q صحابی|NN کے|P لیے|ADV باب|NN مناقب|NN بیان|NN کر|VB رہے|AA تھے|TA تو|SC معاویہ|NN بن|VB ابی|ADJ سفیان|NN کے|P لیے|ADV مناقب|ADJ نہیں|NEG لکھا|VB ۔|SM
+اگلی|ADJ تخلیق|NN میں|P آپ|PP اپنا|GR "|PM سچ|NN "|PM یکثر|ADJ بدل|NN بھی|I سکتے|AA ہیں|TA ۔|SM
+تیز|ADJ رفتار|NN نظام|NN ہو|VB تو|SC ابھی|AP معلوم|ADJ کر|VB لیجئے|AA ۔|SM
+یاد|NN رہے|VB کہ|SC دو|CA روز|NN قبل|NN ہی|I جلال|PN آباد|ADJ میں|P ایک|CA بینک|NN میں|P شدت|NN پسندوں|NN کے|P حملے|NN کے|P نتیجے|NN میں|P اٹھارہ|CA افراد|NN ہلاک|ADJ ہو|VB گئے|AA تھے|TA ۔|SM
+یوں|AP عندلیب|NN
+دھاگہ|NN کھول|VB کر|KER ادھر|AP چسپاں|NN کر|VB دیتا|AA ہوں|TA ۔|SM
+سو|VB انہوں|PP نے|P خود|RP بنا|VB لی|AA ۔|SM
+خالی|ADJ ترلے|NN ہی|I ہوتے|VB ہیں|TA یا|CC کچھ|Q رشوت|NN بھی|I دینی|VB پڑتی|AA ہے|TA اور|CC یا|CC پھر|ADV اُوپس|NN
+ماں|NN کا|P کیا|VB تھا|TA ،|PM وہ|PP وہیں|AP پڑی|AA رہتی|VB ،|PM لیکن|SC اس|PP کے|P اندر|NN موجود|ADJ خوف|NN خدا|NN نے|P اسے|PP اکیلے|ADJ بھاگنے|VB کی|P اجازت|NN نہین|NEG دی|VB
+لوگ|NN ان|PD مظاہر|NN و|CC آثار|NN کو|P دیکھ|VB کر|KER ششدر|NN ہیں|VB ۔|SM
+اور|CC یہ|PD لوگ|NN اب|AP نجانے|VB کیوں|QW نہیں|NEG آتے|VB ۔|SM
+اس|PP کے|P بعد|NN ہائی|PN لاجک|PN یا|CC کسی|KD دوسرے|ADJ فونٹ|NN میکنگ|ADJ پروگرام|NN میں|P نفیس|CA ویب|PN نسخ|PN کے|P نارمل|ADJ ورژن|NN کو|P کھولیں|VB پھر|SC کسی|KD ایک|CA حرف|NN کو|P سلیکٹ|NN کر|VB کے|P کھولیں|NN اسے|PP غور|NN سے|SE دیکھیں|VB اب|AP اپنے|GR موٹے|NN قط|NN والے|WALA قلم|NN سے|SE وہ|PP حرف|NN کاغذ|NN پر|P بنائیں|VB
+میں|PP جہاں|AP رہتا|VB ہوں|TA وہ|PP دنیا|NN کے|P چند|Q منصفانہ|NN اور|CC خوشحال|NN ترین|ADJ معاشروں|NN میں|P سے|SE ایک|CA ہے|VB ۔|SM
+"|PM یہ|PD نوبت|NN "|PM سے|SE کیامراد|NN ہے|VB بھلا|ADJ ؟|SM
+از|P جاوید|PN چودھری|NN ،|PM زیروپوائنٹ|NN 5|CA
+121|CA .|SM جدید|ADJ مسلمان|PN دین|NN کی|P تعلیم|NN حاصل|ADJ کرنا|VB چاہتا|AA ہے|TA 20267|CA
+اس|PD وقت|NN وزیر|NN داخلہ|NN رحمان|NN ملک|NN نے|P بیان|NN دیا|VB کہ|SC ہم|PP نے|P اس|PD بارے|NN میں|P اپنا|GR احتجاج|NN ریکارڈ|NN کروا|VB دیا|AA ہے|TA ۔|SM
+بظاہر|ADV ہتھیلی|ADJ پہ|SC کچھ|Q لکھا|VB نہیں|NEG تھا|VB صرف|ADV لکیریں|NN تھیں|TA لیکن|SC مجھے|PP اس|PP میں|P "|PM منہ|NN بند|ADJ رکھو|VB "|PM لکھا|VB دکھآئی|AA دیا|AA ۔|SM
+کل|Q مجھے|PP اردو|PN اور|CC اوپن|PN آفس|PN کے|P حوالے|NN سے|SE دو|CA اچھی|ADJ اور|CC اہم|ADJ خبریں|NN نظر|NN آئی|VB ہیں|TA جنہیں|REP میں|P پیش|NN کر|VB رہا|AA ہوں|TA ۔|SM
+اور|CC کمال|NN ہو|VB شمندی|NN سے|SE رہے|VB ۔|SM
+Urdu|PN ،|PM اردو|PN ،|PM شاعری|NN ،|PM عید|NN ،|PM پردیس|NN
+ایچ|PN ای|PN سی|A کو|P ختم|ADJ کیا|VB جارہا|AA ہے|TA جس|REP کے|P لئیے|ADV پورے|ADJ پاکستان|PN میں|P شور|NN پڑا|VB ہوا|AA ہے|TA ،|PM لاکھوں|Q ڈالرز|PN کی|P بھیک|NN دیتے|AA ہیں|TA امریکہ|PN اور|CC یورپ|PN ہمیں|PP تعلیم|NN کی|P مد|NN میں|P تب|AP یہ|PD ادارہ|NN چلتا|VB ہے|TA اور|CC لوگ|NN ہائر|PN ایجوکیشن|PN لے|VB پاتے|VB ہیں|TA اس|PP پر|P احسان|NN فراموشی|PN دیکھو|PN کے|P یہ|PP امریکہ|PN کے|P پیسے|NN سے|SE ہی|I ہائر|PN ایجوکیشن|PN لینے|VB والے|WALA چند|Q مذہب|NN فروش|NN بلیک|PN میلروں|NN کے|P اکسانے|VB پر|P امریکہ|PN کے|P ہی|I خلاف|NN بھونک|VB رہے|AA ہوتے|VB ہیں|TA بھیک|NN بھی|I چاہیئے|ADV حقوق|NN بھی|I چاہئیں|AA آزادی|NN بھی|I چاہئیے|VB ،|PM بھکاری|NN کے|P پاس|NN بارکنگ|PN پوزیشن|PN ہوتی|VB ہے|TA کیا|VB ۔|SM
+اب|AP نہ|NEG کہنا|VB کہ|SC میں|PP نہ|NEG مانو|VB
+اس|PP لیے|ADV یہاں|AP بھی|I تبدیلی|NN کی|P ضرورت|NN ہے|VB ۔|SM
+دوکان|NN آپکی|G اور|CC شمشاد|NN بھائ|NN کی|P اور|CC چائے|NN میں|P پلاؤں|NN خیر|NN بیٹا|NN ۔|SM
+اس|PD آرگینائزیشن|NN کا|P مقصد|NN چیزوں|NN کے|P استعمال|NN کرنے|VB والوں|WALA کی|P حفاظت|NN ہے|VB کیونکہ|SC سارے|ADJ ممالک|NN اس|PD کےممبر|NN ہیں|VB ۔|SM
+واقعہ|NN ،|PM کہانی|NN ،|PM افسانہ|NN ،|PM زبان|NN اور|CC تخلیقی|ADJ آہنگ|NN
+دوبئی|NN میں|P براجمان|NN کسی|KD متمول|ADJ شیخ|NN کے|P نزدیک|NN گھوٹکی|NN محض|ADV سائبیریائی|ADJ پرندوں|NN کی|P شکارگاہ|NN ہے|VB ۔|SM
+ہر|Q ہر|Q مہادیو|PN جےبھوانی|PN جےشیواجی|PN جےمہاکالی|PN سوامی|PN مہاراج|NN کی|P جے|PN ۔|SM
+اللہ|NN رے|PN خاکِ|NN پاک|ADJ مدینہ|NN کی|P آبرو|NN
+محفوظات|NN برائے|ADV ”|PN اینڈرائڈ|PN میں|P اردو|PN “|PN ٹیگ|PN
+ایس|PN اکچھ|PN نہیں|NEG باس|PN اب|AP ریٹائرڈ|ADJ ہو|VB کر|KER گلف|PN کھیلیں|VB گے|TA بس|NN ۔|SM
+یوکلپٹس|PN کی|P اونچی|ADJ اونچی|PN شاخوں|NN سے|SE بھیگتی|ADJ رات|NN کا|P تنہا|ADJ اور|CC خنک|ADJ چاند|NN ہال|NN کے|P پچھلے|ADJ دریچے|NN میں|P سے|SE اندر|NN جھانک|VB کر|VB اوپیرا|ADV کا|P آخری|ADJ نغمہ|NN سننے|VB کی|P کوشش|NN کررہا|VB تھا|TA ،|PM پیانو|NN کے|P گہرے|NN بھاری|ADJ سروں|NN کا|P نغمہ|NN ،|PM جس|REP کی|P لہریں|NN جھلملاتے|VB ہوئے|AA عنابی|NN مخملیں|NN پردوں|NN کے|P پیچھے|NN ڈوبتی|VB جارہی|AA تھیں|VB ۔|SM
+میں|PP سوچتا|VB ہوں|TA کیا|QW ان|PD لوگوں|NN کا|P کسی|KD عورت|NN سے|SE کوئی|Q رشتہ|NN نہیں|NEG ۔|SM
+ان|PD علامات|NN کو|P کسی|KD موجودہ|ADJ سمبلز|ADJ فونٹ|NN میں|P بھی|I شامل|ADJ کیا|VB جا|AA سکتا|AA ہے|TA ۔|SM
+جو|REP دائی|NN کا|P حصہ|NN ہوتا|VB تھا|TA ۔|SM
+چرا|PN بہ|P سنگ|NN و|CC گیا|VB پیچی|ADJ اے|PN زبانۂ|PN طُور|NN
+شعر|NN و|CC شاعری|NN کے|P یہ|PD اسباق|NN بمشکل|ADV دو|CA ماہ|NN ہی|I چلے|VB ہوں|TA گے|TA کہ|SC میرا|G دل|NN اچاٹ|VB ہو|VB گیا|AA ۔|SM
+"|PM الیکشن|NN کی|P دعا|NN "|PM
+سعود|PN بھائی|NN کی|P ترجمہ|NN شدہ|ADJ تھیم|NN زیادہ|ADV دلچسپ|ADJ ہے|VB ۔|SM
+دوست|NN نے|P '|SC برقیانے|VB کیلئے|AA کتب|NN کی|P فرمائش|NN '|SC کی|P ذیل|NN میں|P اس|PD موضوع|NN کا|P آغاز|NN کیا|VB ،|PM اکتوبر|PN 5|CA ,|PM 2007|CA
+اور|CC دوسرے|PP کو|P بھی|I شاید|ADV یہی|PD گمان|NN ہوتا|VB ہو|TA ۔|SM
+ذرا|PN ایم|PN ایس|PN این|PN پر|P آئیے|VB گا|TA حضور|NN میں|P آپ|PP کا|P منتظر|ADJ ہوں|VB ،|PM جواب|NN دیتا|VB ہوں|TA ۔|SM
+قیصرانی|NN تو|I ہیں|VB نہیں|NEG اور|CC میں|P اس|PD سلسلے|NN میں|P آپ|PP کی|P کوئی|Q مدد|NN نہیں|NEG کر|VB سکتا|AA ۔|SM
+میں|PP ابھی|AP سمندر|NN کے|P کنارے|NN کوئی|Q دو|CA گھنٹے|NN گزار|VB کر|KER آیا|AA ہوں|TA ۔|SM
+اُدھر|NN ممّی|NN نے|P جب|AP سبزی|NN میں|P مصالحہ|NN ڈالا|VB تو|SC اس|PP کی|P تیز|ADJ بُو|NN سے|SE مجھے|PP بے|PN ساختہ|ADJ ایک|CA کے|P بعد|NN ایک|CA چھینک|NN آنے|VB لگی|VB ۔|SM
+ان|PP کی|P نوعیت|NN مختلف|ADJ ہوتی|VB ۔|SM
+ایک|CA دفعہ|NN پھر|ADV ان|PP سے|SE بات|NN کریں|VB اور|CC کہیں|AKP اب|AP تو|I عرصہ|NN دراز|ADJ گزر|VB گیا|AA محفل|NN کا|P چکر|NN لگائے|VB ہوئے|AA ۔|SM
+داغ|NN دل|NN گر|VB نظر|NN نہیں|NEG آتا|VB
+ہجرت|NN پر|P میری|G گزارش|NN صرف|ADV اتنی|Q ہے|VB کہ|SC ہجرت|NN خالصتا|ADV دین|NN کے|P لئے|NN نہیں|NEG کی|VB گئی|AA تھی|TA ممکن|ADJ ہے|VB چند|Q لوگوں|NN نے|P ایسا|PP کیا|VB ہو|TA لیکن|SC بڑی|ADJ تعداد|NN کے|P نزدیک|NN یہ|PP مطمع|ADJ نظر|NN نہیں|NEG تھا|VB .|SM
+ہمارے|G ڈائریکٹر|NN جنرل|ADJ آئی|NN ایس|PN آئی|PN جنرل|PN اختر|PN عبدالرحمن|PN کا|P اس|PD جواب|NN پر|P ردعمل|NN قابل|ADJ ستائش|NN تھا|VB ،|PM وہ|PP کسی|KD صورت|NN بھی|I دفتر|NN خارجہ|NN کے|P مشورے|NN پر|P آنکھیں|NN موندلینے|AA کے|P موڈ|NN میں|P نہیں|NEG تھے|VB ۔|SM
+اس|PP کے|P بارے|NN میں|P ایک|CA بات|NN مشہور|ADJ ہے|VB ہم|PP دوستوں|NN میں|P وہ|PP یہ|PP کہ|SC
+اسلیئے|PN انکی|PN لاش|NN اسی|PD طرح|NN دفن|NN کر|VB دی|AA گئی|AA ،|PM آنحضرت|NN ﷺ|NN خود|RP انکی|ADJ قبر|NN میں|P اترے|VB ،|PM اور|CC اپنی|GR سب|Q سے|SE بڑی|ADJ غمگسار|NN کو|P داعی|ADJ اجل|NN کے|P سپرد|NN کیا|VB ،|PM حضرت|NN خدیجہ|ADJ ؓ|PN کی|P قبر|NN حجون|NN میں|P ہے|VB ،|PM (|PN طبقات|NN ابن|PN سعد|PN ج|PN 8|CA ص|NN 11|CA )|EXP اور|CC زیارت|NN گاہ|NN خلائق|NN ہے|TA ،|PM حضرت|NN خدیجہ|ADJ ؓ|PN کی|P وفات|NN سے|SE تاریخ|NN اسلام|PN میں|P ایک|CA جدید|ADJ دور|NN شروع|NN ہوا|VB ۔|SM
+یہ|PP مکمل|ADJ نظم|NN میں|P "|PM شہید|NN ساز|NN "|PM کے|P عنوان|NN سے|SE یہاں|AP پوسٹ|PN کر|VB چکا|AA ہوں|TA ۔|SM
+شین|PN واٹسن|PN
+ہر|Q طرف|NN پھر|ADV رات|NN کا|P آنچل|NN کوئی|Q لہرائے|VB گا|TA
+ان|PP کے|P نو|CA شعری|ADJ مجموعے|NN شائع|ADJ ہوئے|VB ہیں|TA :|PM (|PN 1|CA )|PM منچر|NN ،|PM (|CA 2|CA )|EXP تاش|NN اور|CC نرمان|NN ،|PM (|CA 3|CA )|EXP دھوپ|NN کے|P دھان|NN ،|PM (|EXP 4|CA )|PN شیلا|PN کھنڈ|PN ،|PM (|EXP 5|CA )|PM چمکیلے|PN ،|PM (|EXP 6|CA )|EXP اسدھ|PN کی|P بیتھا|NN ،|PM (|CA 7|CA )|NN میں|P وقت|NN کے|P ہوں|VB سامنے|NN ،|PM (|CA 8|CA )|CA پرتھوی|ADJ کلب|NN ،|PM (|EXP 9|CA )|EXP کلپانتر|PN ۔|SM
+یوں|AP تو|SC اس|PD بلاگ|NN کو|P آپ|PP تک|P پہنچانیں|NN میں|P بہت|ADV سارے|ADJ لوگوں|NN نے|P تعاون|NN کیا|VB ہے|TA قدیر|NN ،|PM ساجد|PN اقبال|PN ،|PM بلاگستان|PN ٹیم|PN ،|PM جہانزیب|NN ،|PM عمار|NN شاکر|PN عزیز|PN اور|CC جگت|NN بھائی|ADJ محب|NN بھائی|PN (|NN کوئی|Q زمانہ|NN تھا|VB کہ|SC محفل|NN کے|P درو|NN دیوار|NN اس|PD نعرے|NN سے|SE گونجا|VB کرتے|VB تھے|TA “|CA ہمارے|G بھائی|NN تمہارے|G بھائی|ADJ محب|NN بھائی|PN محب|NN بھائی|PN “|PN اور|CC محب|NN بھائی|NN ایک|CA بہن|NN کے|P خلاف|NN ہی|I مورچہ|NN زن|NN ہوتے|VB تھے|TA )|NN اور|CC بہت|ADV سے|A چھپے|VB محسن|NN ہیں|TA جنکا|AA آج|NN پھر|ADV شکریہ|NN ادا|NN کرنا|VB چاہتا|AA ہوں|TA ۔|SM
+طیارے|NN کے|P پائلٹ|NN آندرے|PN بورشبرگ|PN نے|P سوئس|PN ہوائی|PN اڈے|NN سے|SE پرواز|NN کرنا|VB تھا|TA اور|CC اسے|PP چوبیس|CA گھنٹے|NN تک|P اڑنا|VB تھا|TA ۔|SM
+بلڈ|PN پریشر|PN چیک|NN کرتے|VB رہیں|AA ۔|SM
+لیکن|SC جیسے|A ہی|I اغیار|NN کو|P اس|PD کاوش|NN کی|P اطلاع|NN ملی|VB تو|SC اس|PD ادارئے|NN پر|P پابندی|NN لگائی|VB گئی|AA جو|REP کہ|SC تاحال|NN برقرار|ADJ ہے|VB ۔|SM
+انہوں|PP نے|P مجھے|PP پانچ|CA ہزار|CA روپے|VB دیئے|VB ہیں|TA ۔|SM
+در|SC غمِ|NN عشقِ|NN تو|SC ما|ADJ را|ADJ خبر|NN از|P عالم|ADJ نیست|NN
+یہ|PP جہادی|ADJ گروپ|NN بھی|I خودکش|ADJ حملوں|NN کے|P بجائے|ADV ’|PN فدائین|PN ‘|ADJ حملوں|NN کو|P ترجیح|NN دیتا|VB ہے|TA جس|REP سے|SE اس|PP کا|P مطلب|NN یہ|PP ہے|VB کہ|SC جسم|NN سے|SE بم|NN باندھ|VB کر|KER خود|RP کو|P اڑانے|VB کے|P بجائے|ADV ’|CA کفار|NN ‘|NN سے|SE لڑتے|VB ہوئے|AA مارے|VB جانا|VB افضل|VB ہے|TA ۔|SM
+اگر|SC چار|CA متقی|NN ،|PM ایماندار|NN اور|CC اچھی|ADJ شہرت|NN کے|P آدمی|NN زنابالجبر|NN ہوتے|VB ہوئے|AA دیکھیں|AA گے|TA تو|SC کیا|QW وہ|PP اسے|PP روکیں|VB گے|TA نہیں|NEG ؟|SM
+پھر|ADV کوئی|Q فرق|NN نہیں|NEG پڑا|VB دوا|NN سے|SE ۔|SM
+اسی|PD سبب|NN مولانا|ADJ شبلی|NN کی|P طرح|NN بنک|NN کے|P سود|NN کو|P ’|ADJ منافع|NN ‘|ADJ قرار|NN دیتے|VB ہیں|TA کیوںکہ|ADV اس|PP میں|P استحصال|NN کا|P ویسا|ADV امکان|NN نہیں|NEG جو|REP ربا|NN کی|P وصولی|NN میں|P ہے|VB ۔|SM
+اور|CC لوگ|NN مجبوراً|ADV اپنے|GR مقاصد|NN حاصل|ADJ کرنے|VB کے|P لیئے|NN پھر|ADV غلط|ADJ طریقے|NN اختیار|NN کرتے|VB ہیں|TA ۔|SM
+ٹیسلا|PN کے|P وائرلیس|PN ٹرانسمیشن|PN تجربات|NN کی|P مدد|NN سے|SE ریڈیو|NN کی|P ایجاد|NN ممکن|ADJ ہو|VB سکی|AA ۔|SM
+مجھے|PP سمجھ|VB نہیں|NEG آتا|VB کہ|SC پاکستان|PN کے|P سارے|ADJ ڈیڑھ|NN ہوشیار|ADJ دین|NN بیزار|ADJ روشن|ADJ خیال|NN کہاں|AKP سے|SE دلیلیں|NN ڈھونڈھ|VB کر|VB لاتے|VB ہیں|TA ،|PM کہ|SC چونکہ|SC امت|NN اپنے|GR نبی|PN صلی|PN اللہ|PN علیہ|NN وسلم|PN کی|P تعلیمات|NN پر|P عمل|NN نہیں|NEG کر|VB رہی|AA اس|PP لیے|ADV اسے|PP توہین|ADJ رسالت|NN پر|P بھی|I خاموش|ADJ رہنا|VB چاہیے|AA .|SM
+اسے|PP لگا|VB کہ|SC وہ|PP زندگی|NN کے|P ساتھ|NN آگے|NN نہیں|NEG بڑھ|VB سکے|AA گا|TA ۔|SM
+ارے|NN یہ|PD گستاخی|NN ہم|PP سے|SE نہ|NEG کرایئے|VB جناب|I ۔|SM
+بالکل|ADV صحیح|ADJ ایسا|PP ہی|I ہوتا|VB ہے|TA یہاں|AP دو|CA بوند|ADJ پڑیں|NN اور|CC لائٹ|NN بند|ADJ
+ویسے|ADJ میں|P اس|PD محفل|NN کی|P لاڈلی|VB ہوں|TA ۔|SM
+اور|CC سلیبل|NN میں|P (|NN از|P روئےاصول|PN )|PN
+یہ|PD شخص|NN قول|NN اور|CC وعدے|NN کا|P سچا|ADJ اور|CC پکا|VB ہے|TA ۔|SM
+تو|SC ہمیں|PP بھی|I آ|VB جانے|AA دیں|AA ناں|NN بٹیا|VB رانی|NN ،|PM پھر|ADV ساتھ|NN ہی|I چلتے|VB ہیں|TA ۔|SM
+جد|ADJ ایہہ|NN گل|NN گلہری|NN نے|P سُن|VB لئی|PN
+“|PN ابھی|AP کون|KP تھا|VB فون|NN پر|P ۔|SM
+لیکن|SC اگر|SC آپ|PP صرف|ADV اپنے|GR آپ|PP کو|P الگ|ADJ کرلیں|VB تو|SC اردو|PN ویب|PN کی|P جو|REP لائبریری|NN ہے|VB ۔|SM
+تین|CA تین|CA بار|NN پوسٹ|PN ہوئی|VB ہے|TA یہ|PP !|SM
+کوئی|Q تازہ|ADJ کلام|NN ہو|VB جائے|AA
+کیا|QW آپ|PP نہیں|NEG جانتے|VB قرآن|PN کی|P آیات|NN جس|REP میں|P واضع|ADJ طور|NN پر|P بتایا|VB گیا|AA ہے|TA کہ|SC کون|KP دوست|NN ہے|VB اور|CC کون|KP دشمن|NN ۔|SM
+ان|PP کی|P اکثریت|NN جنگ|NN سے|SE متائثرین|ADJ یورپیوں|NN کی|VB تھی|TA جو|REP 1950|CA اور|CC 1960|CA کی|P دہائیوں|NN میں|P آئے|VB ۔|SM
+جویریہ|PN غالب|ADJ نے|P اسطرح|NN بھی|I کہا|VB تھا|TA ۔|SM
+اس|PD وقت|NN سب|Q سے|SE اہم|ADJ مسئلہ|NN مسلم|PN نوجوانوں|NN کی|P رہنمائی|NN کا|P بھی|I ہے|VB ۔|SM
+پھر|SC آلو|NN والا|WALA رائتہ|NN کیسا|AKP رہے|VB گا|TA میں|P دہی|NN میں|P چیزوں|NN کو|P مکس|NN بہت|ADV اچھا|ADJ کر|VB لیتی|VB ہوں|TA
+لڑیاں|NN از|P :|PM محمد|PN خلیل|PN الرحمٰن|PN ,|PM اگست|PN 30|CA ,|PM 2013|CA ,|PM 12|CA جوابات|NN ,|PM زیر|NN زمرہ|NN :|PM طنز|NN و|CC مزاح|NN
+آپ|PP جیسی|A فرشتہ|ADJ صفت|NN سے|SE کون|KP ناراض|ADJ ہو|VB سکتا|AA ہے|TA بھلا|ADJ ۔|SM
+پولیس|NN کا|P کہنا|VB ہے|TA کہ|SC اس|PD سلسلے|NN میں|P ایک|CA ان|PP کا|P ایک|CA خفیہ|ADJ آپریشن|NN کئی|Q ماہ|NN سے|SE جاری|ADJ تھا|VB ۔|SM
+دراصل|ADV بارہ|CA مئی|PN کے|P بعد|NN سے|SE کراچی|PN میں|P کچھ|Q لوگ|NN مہاجر|NN پختون|NN فساد|NN کرانے|VB کی|P سازش|NN کررہے|VB ہیں|TA ۔|SM
+تو|SC کیا|QW انکے|VB کرنے|VB کے|P لئے|NN کچھ|Q رہ|VB گیا|AA ہے|TA ؟|SM
+جن|REP لوگوں|NN نے|P یہ|PD کتاب|NN پڑھی|VB ہے|TA انھیں|PP انتہائی|ADJ رنج|NN و|CC افسوس|NN ہے|VB ۔|SM
+نطامنی|PN (|PN نظامی|PN نہیں|NEG )|EXP کو|P بھی|I لکھ|VB دیا|AA ہے|TA کہ|SC ان|PP کے|P بتائے|VB کیریکٹرس|NN پاک|ADJ تائپ|NN اور|CC محفل|PN فانٹس|NN میں|P موجود|ADJ ہیں|VB ۔|SM
+1|CA .|SM سب|Q سے|SE پہلی|OR بات|NN ہے|VB کہ|SC یہ|PD معاملہ|NN اب|AP سائنسی|ADJ یا|CC دنیاوی|ADJ نہیں|NEG بلکہ|SC شریعی|ADJ ہے|VB ۔|SM
+ویسٹ|PN انڈیز|PN کے|P جیروم|PN ٹیلر|PN ہی|I ایک|CA ایسے|PP باؤلر|NN ہیں|VB جنہوں|REP نے|P آئی|VB سی|A سی|A چیمپئنز|PN ٹرافی|NN میں|P ہیٹ|NN ٹرک|PN کر|VB رکھی|VB ہے|TA ۔|SM
+ایم|PN کیو|PN ایم|PN تو|SC ویسے|ADJ بھی|I ان|PD لوگون|NN کو|P کانٹے|NN کی|P طرح|NN کھٹکتی|VB ہے|TA کہ|SC اس|PP نے|P کراچی|VB اور|CC پاکستان|PN پر|P قبضہ|NN کا|P انکا|NN گھناؤنا|PN خواب|NN جو|REP چکنا|VB چور|NN کردیا|VB ہے|TA اب|AP جلے|NN دل|NN کے|P پھپھولے|NN نہ|NEG پھوڑیں|VB تو|I اور|CC کیا|KP کریں|VB سو|CA جگہ|NN جگہ|NN کف|NN اڑاتے|VB پھرتے|VB ہیں|TA اور|CC چند|Q بے|PN وقوف|PN بھی|I واہ|NN واہ|INT کرنے|VB کے|P لیئے|ADV مل|VB ہی|I جاتے|VB ہیں|TA سو|CA لگا|VB رہنے|VB دیں|AA بچوں|NN کو|P زرا|ADJ دل|NN پشوری|ADJ ہی|I تو|I کررہے|VB ہیں|TA !|SM
+ایسے|PP مشکل|ADJ عالم|NN میں|P ،|PM تو|I بھی|I ہم|PP سے|SE دور|NN بہت|ADV
+مہدی|NN نقوی|ADJ حجاز|PN زینہ|NN لگا|VB کر|KER مریخ|NN کا|P رخ|NN کر|VB لیں|AA گے|TA
+لہٰذا|ADV اس|PP کے|P بھروسے|NN حساس|ADJ آلات|NN کو|P سیدھے|ADJ اس|PP سے|SE منسلک|ADJ کر|VB کے|P استعمال|NN کرنے|VB سے|SE گریز|NN کرنا|VB چاہئے|AA ورنہ|SC خراب|ADJ ہونے|VB کا|P خطرہ|NN ہوتا|VB ہے|TA ۔|SM
+لیاقت|ADV بلوچ|NN نے|P کہاکہ|ADV جماعت|NN اسلامی|PN کی|P سیاست|NN امانت|NN و|CC دیانت|NN اور|CC خدمت|NN کی|P سیاست|NN ہے|VB ‘|ADJ جماعت|NN اسلامی|PN کے|P ایک|CA ہزار|CA سے|SE زائدافراد|NN قومی|ADJ و|CC صوبائی|NN اسمبلیوں|NN ‘|ADJ سینیٹ|NN کے|P ممبران|NN اور|CC مقامی|ADJ حکومتوں|NN میںذمہ|ADJ دار|NN رہے|VB مگر|SC کسی|KD کے|P دامن|NN پر|P کرپشن|NN کا|P کوئی|Q داغ|NN نہیں|NEG ‘|CA ان|PP میں|P سے|SE کوئی|Q جعلی|ADJ ڈگری|NN ہولڈر|VB ہے|TA نہ|NEG انہوں|PP نے|P کسی|KD کے|P ساتھ|NN کوئی|Q فراڈ|NN کیا|VB ۔|SM
+افتخار|PN صاحب|I آپ|PP کی|P ایک|CA بات|NN بہت|ADV دل|NN کو|P لگی|VB ہے|TA کہ|SC مغرب|PN نے|P گرجا|NN کے|P نمونے|NN کو|P سامنے|NN رکھ|VB کر|KER اسے|PP مذہب|NN کا|P نام|NN دیا|VB ،|PM گرجا|NN سے|SE یہی|PD اختلاف|NN سیکولر|ADJ ازم|NN کا|P باعث|NN بنا|VB ’|PM ۔|SM
+پھر|SC کیا|QW کریں|VB ؟|SM
+کیا|VB آپ|PP نے|P پی|VB ٖڈی|PN ایف|PN کا|P لنک|PN ہٹا|VB دیا|AA ہےَ|AA ،|PM محترم|ADJ ؟|SM
+ابو|PN لہب|NN کی|P شادی|NN -|PM از|P
+یہ|PP آپ|PP سب|Q کی|P پرخلوص|ADJ دعاؤں|NN کے|P طفیل|NN ہی|I ممکن|ADJ ہوا|VB ہے|TA ۔|SM
+کچھ|Q نئا|ADJ نہیں|NEG ہے|VB
+فارسی|PN غزل|NN شیخ|PN فخرالدین|PN عراقی|PN
+لیک|PN اگر|SC حکم|NN ہوتا|VB بڑے|ADJ بھیا|NN کا|P تو|I جانا|VB پڑتا|AA
+یہ|PP فورس|NN ایک|CA ایسے|ADJ منصوبے|NN پر|P عمل|NN درآمد|NN میں|P مرکزی|ADJ کردار|NN ادا|NN کرے|VB گی|TA جس|REP کے|P خدوخال|NN بڑی|ADJ ہنرمندی|NN سے|SE تیار|ADJ کر|VB لئے|NN گئے|VB ہیں|TA ۔|SM
+"|PM زور|NN لگا|VB کر|KER عالٰی|ADJ شاہ|PN ،|PM زور|NN لگا|VB کر|KER عالٰی|ADJ شاہ|PN ،|PM زور|NN لگا|VB کر|KER عالٰی|ADJ شاہ|PN "|PM ،|PM نوری|ADJ بابا|PN نعرے|NN لگانے|VB لگا|AA ۔|SM
+خوب|NN کہی|VB حضور|NN
+اردو|PN محفل|NN میں|P خوش|ADJ آمدید|ADV !|SM آپ|PP کو|P اردو|PN لکھنے|VB میں|P کوئی|Q مشکل|ADJ درپیش|ADJ ہے|VB بٹیا|AA ؟|SM
+لوڈشیڈنگ|NN کی|P وجہ|NN سے|SE ہو|VB گی|TA یہ|PP اداسی|NN ۔|SM
+ولمے|PN درمان|PN چوبکِ|NN زیرِسنگے|NN
+ایسے|ADJ لوگوں|NN پر|P بھی|I فلمیں|NN بننی|VB چاہییں|AA تاکہ|SC ہمیں|PP انکی|PN فیلنگز|ADJ پتہ|NN چلیں|VB ۔|SM
+urhabib|PN نے|P '|SC تعارف|NN و|CC انٹرویو|NN '|SC کی|P ذیل|NN میں|P اس|PD موضوع|NN کا|P آغاز|NN کیا|VB ،|PM مارچ|PN 13|CA ,|PM 2013|CA
+غمزہ|ADJ نگہ|ADJ کرشمہ|NN کس|KD کس|KP کو|P کہیے|ADV ہمدم|NN
+مالکِ|NN جانِ|NN مؤمن|PN بنایا|VB اُنہیں|PP ،|PM عاشقوں|NN کے|P دلوں|NN میں|P قیام|NN اُن|PP کا|P ہے|VB
+انگلش|PN ٹیم|PN کی|P اس|PD ترقی|NN کی|P وجہ|NN برازیل|PN کا|P جرمنی|PN کے|P ہاتھوں|NN شکست|NN کھانا|NN ہے|VB ۔|SM
+کل|Q رات|NN ایک|CA بزرگ|NN ہاتھ|NN میں|P چراغ|NN لیے|ADV سارے|ADJ شہر|NN میں|P گھوما|VB کیا|VB اور|CC کہتا|VB رہا|AA کہ|SC میں|P شیطانوں|NN اور|CC درندوں|NN سے|SE تنگ|ADJ آ|VB گیا|AA ہوں|TA اور|CC کسی|KD انسان|NN کو|P دیکھنے|VB کا|P آرزومند|ADJ ہوں|VB ۔|SM
+روبوٹس|PN کے|P ڈیزائن|NN کے|P سربراہ|NN پروفیسر|NN لی|VB بیک|PN چو|PN کا|P کہنا|VB ہے|TA کہ|SC روبوٹس|NN کوئی|Q مسئلہ|NN نظر|NN آنے|VB پر|P انسانی|ADJ اہلکاروں|NN کو|P چوکنا|ADJ کریں|VB گے|TA ۔|SM
+نشانہ|NN پنجاب|NN پر|P لگ|VB گیا|AA ۔|SM
+گیند|NN بازی|NN -|PM ٹیسٹ|NN کیریئر|PN پر|P ایک|CA نظر|NN
+ویسے|ADJ عروض|NN اور|CC تقطیع|NN کی|P مبادیات|NN پر|P ،|PM جن|REP پر|P ابتک|ADJ بحث|NN ہوئی|VB ہے|TA ،|PM اگر|SC عبور|NN ہو|VB حاصل|ADJ ہو|VB جائے|AA تو|SC دیگر|NN بحور|NN کو|P سیکھنے|VB میں|P زیادہ|ADV مسئلہ|NN نہیں|NEG ہوگا|VB اور|CC فقط|Q انکے|NN اوزان|NN ہی|I یاد|NN رکھنے|VB پڑیں|AA گے|TA ۔|SM
+محمود|ADJ بھائی|NN میرا|G تذکرہ|NN اگر|SC آیا|VB تھا|TA تو|SC اس|PP کی|P وجہ|NN بھی|I لکھی|VB ہے|TA عمران|NN نے|P ۔|SM
+لاہور|PN ،|PM پاکستان|PN :|PM منہاج|PN القرآن|PN پبلی|PN کیشنز|PN ۔|SM
+زھرا|PN علوی|PN اپیا|PN
+تاہم|SC ہمارا|G فرض|NN ہے|VB کہ|SC ہم|PP اپنی|GR ذمہ|NN داری|NN نبھاتے|VB ہوئے|AA احقاق|NN حق|NN کریں|VB اور|CC قرآن|PN و|CC سنت|NN اور|CC دین|NN و|CC شریعت|NN کی|P روشنی|NN میں|P جو|REP بات|NN صحیح|ADJ ہو|VB
+بنیاد|NN پرست|NN صاحب|NN
+تاہم|SC پولیس|NN کا|P کہنا|VB ہے|TA کہ|SC انہوں|PP نے|P ایمیزونا|PN کی|P ریاست|NN میں|P ہلاکتوں|NN کا|P حکم|NN دیا|VB اور|CC ٹی|PN وی|PN ٹیم|PN کو|P ان|PD مناظر|NN کو|P فلمبند|VB کرنے|VB کے|P لیے|ADV پہلے|NN سے|SE جائے|VB وقوعہ|NN پر|P پہنچنے|VB کے|P لیے|ADV خبردار|ADJ کیا|VB ۔|SM
+پھر|ADV چمچے|NN سے|SE اسی|PP نے|P چائے|NN بھی|I پلائی|NN ۔|SM
+ویسے|ADJ مائکروسافٹ|NN والے|WALA فراخ|ADJ دلی|NN کا|P مظاہرہ|NN نہیں|NEG کر|VB رہے|AA بلکہ|SC لوگوں|NN کو|P اپنے|GR سافٹ|PN ویر|PN کے|P استعمال|NN کا|P عادی|ADJ بنا|VB رہے|AA ہیں|TA تاکہ|SC لوگ|NN لینکس|NN نہ|NEG انسٹال|VB کر|VB لیں|AA
+و|CC تلک|NN نعمه|NN تمنھا|ADJ علی|NN ان|PD عبدت|NN بنی|VB اسرائیل|PN (|PN شعراء|NN ‘|PN 22|CA )|CA
+انھے|NN ہر|Q اک|PN بانس|NN دی|PN ونجلی|PN ،|PM دتی|ADJ ناگ|NN بنا|VB
+اس|PP نے|P اپنے|GR لمبے|ADJ بوٹ|PN پہنے|VB اور|CC کشتی|NN گھسیٹتا|VB ہوا|AA چٹانوں|NN کی|P طرف|NN بڑھا|VB ۔|SM
+ہم|PP اختراعات|NN کے|P لیے|ADV موجودہ|ADJ مارکیٹ|NN کی|P خامیوں|NN سے|SE بھی|I نمٹ|VB سکتے|AA ہیں|TA ۔|SM
+یعنی|PN آپ|PP کی|P شکایت|NN لگانے|VB کا|P ارادہ|NN ملتوی|NN ۔|SM
+تو|I بہتر|ADJ ہوگا|VB
+ماشاء|ADJ اللہ|PN ،|PM آج|NN تو|I لوٹ|VB پوٹ|NN ہو|VB رہی|AA ہیں|TA سازش|NN کی|P کامیابی|NN کے|P بعد|NN اللہ|NN آپ|PP دونوں|OR کو|P بھی|I اسی|PD طرح|NN ہنستا|VB کھیلتا|VB رکھے|VB
+اس|PP کا|P انداذہ|NN صرف|ADV اس|PD بات|NN سے|SE لگایا|VB جا|AA سکتا|AA ہے|TA کہ|SC ایمبڈ|PN شدہ|ADJ فانٹ|NN بہت|ADV آسانی|NN سے|SE کریک|NN کیا|VB جا|AA سکتا|AA ہے|TA ۔|SM
+موم|ADJ بتیاں|NN میں|PP نے|P نہیں|NEG لگائیں|VB کیونکہ|SC لڑکیوں|NN کی|P عمر|NN 17|CA اور|CC 25|CA کے|P درمیان|NN ہی|I رہتی|VB ہے|TA ۔|SM
+دفتروں|NN ،|PM کارخانوں|NN میں|P ،|PM تعلیم|NN گاہوں|NN میں|P جا|VB کر|KER
+بعض|Q خاص|ADJ معاملات|NN (|PM مثلاً|ADV وراثت|NN )|EXP میں|P یہ|PP زیادہ|ADV واضح|ADJ اور|CC مفصل|ADJ ہے|VB ۔|SM
+اس|PD کےلئے|NN ہم|PP چاہتے|VB ہیں|TA کہ|SC آواز|NN اس|PP کی|P ہو|VB مگر|SC میوزک|ADJ گانے|NN کا|P اوریجنل|NN ہو|VB ۔|SM
+ہمارے|G ہاں|INT فیصل|NN آباد|ADJ میں|P لوگ|NN بلال|NN گنج|PN مارکیٹ|NN سے|SE سیکنڈ|OR ہنینڈ|PN جاپانی|ADJ جنریٹر|NN خرید|VB کر|KER گیس|NN کٹ|PN لگوا|VB کر|VB استعمال|NN کر|VB رہے|AA ہیں|TA اور|CC بڑے|ADJ مزے|NN میں|P ہیں|VB
+پھر|ADV اُس|PP کے|P بعد|NN یہی|PD قید|NN خانے|NN لگتے|AA ہیں|TA
+بالکل|ADV اسی|PD طرح|NN جس|REP طرح|NN جیسے|A مرغی|NN تقریبا|ADV ایک|CA انڈہ|NN روزانہ|ADJ دیتی|VB ہے|TA حالانکہ|SC اسے|PP اتنے|Q انڈوں|NN کی|P ضرورت|NN نہیں|NEG ہوتی|VB یا|CC گائے|VB اتنا|Q دودھ|NN دیتی|VB ہے|TA جو|REP اس|PP کے|P بچھڑے|NN کی|P ضرورت|NN سے|SE بہت|ADV زیادہ|ADV ہو|VB تا|CC ہے|TA ۔|SM
+نہ|NEG سمجھوگے|VB تو|SC مٹ|VB جاؤگے|PN اے|PN غافل|PN مسلمانو|PN !|SM
+یونیسکو|PN میں|P ترکی|PN نمائندے|NN کی|P حیثیت|NN سے|SE بھی|I کام|NN کیا|VB ۔|SM
+ٹی|PN پارٹی|NN ہو|VB یا|CC شراب|NN پارٹی|NN جمیعیت|NN والے|WALA مامے|NN لگتے|AA ہیں|TA ؟|SM
+سلمان|PN رشدی|NN کو|P آسکر|NN والوں|WALA نے|P تو|I سر|NN کا|P خطاب|NN نہیں|NEG دیا|VB ۔|SM
+سلام|PN تجھ|NN پر|P اور|CC تیرے|ADJ والدین|NN پر|P اے|PN اعتزاز|PN احسن|NN
+اس|PP سے|SE بھی|I معلوم|ADJ ہوا|VB کہ|SC جمہور|PN امت|NN خواہ|SC وہ|PP مصر|PN کے|P لوگ|NN ہوں|VB یا|CC سعودی|PN کے|P یا|CC کسی|KD اور|CC علاقے|NN کے|P وہاں|AP جمہور|NN اس|PP کے|P عدم|NN جواز|NN پر|P متفق|ADJ ہیں|VB ۔|SM
+دماغ|NN بحث|NN تھا|VB کس|KP کو|P وگر|NN نہ|NEG اے|PN ناصح|NN
+پردیسی|NN نے|P '|SC تہنیتی|ADJ پیغامات|NN و|CC دعائیہ|NN کلمات|NN '|SC کی|P ذیل|NN میں|P اس|PD موضوع|NN کا|P آغاز|NN کیا|VB ،|PM ستمبر|PN 24|CA ,|PM 2005|CA
+"|PM کیا|QW واقعی|ADV ۔|SM
+ٌبہاولپور|NN میں|P رہتا|VB ہوں|TA ۔|SM
+اخبارات|NN کے|P مطابق|NN افغانستان|NN میں|P تعینات|NN امریکی|ADJ فوج|NN کے|P ریکارڈ|NN پر|P مبنی|ADJ یہ|PD معلومات|NN افغان|NN جنگ|NN کی|P خفیہ|ADJ دستاویزات|NN ہیں|VB ۔|SM
+اس|PD وقت|NN واٹسن|PN صرف|ADV 4|CA رنزکے|NN انفرادی|ADJ اسکور|NN پر|P کھیل|VB رہے|AA تھے|TA ۔|SM
+ویسے|ADJ آپ|PP نے|P جانے|VB سے|SE پہلے|NN بتا|VB دیا|AA ہوتا|AA تو|SC ہم|PP بھی|I دعاؤں|NN کی|P درخواست|NN کر|VB لیتے|AA ۔|SM
+کہیں|AKP میری|G شامت|NN تہ|ADJ نہیں|NEG آئی|VB جو|REP میں|P آ|VB پہنچی|VB یہاں|AP
+نانا|PN نے|P اس|PD موقع|NN پر|P فرط|ADJ مسرت|NN سے|SE چھوٹے|ADJ نواسےکو|NN "|PM ابراہیم|PN لوئے|VB دے|AA !|SM ۔|SM
+جات|NN بالا|NN تر|ADV ز|ADJ و|CC ہم|PP جاۂا|VB جاۂا|AA خود|RP ہست|NN بہر|NN پاۂا|PN
+وہ|PP کس|KD قدر|NN مبارک|NN و|CC مسعود|NN گھڑی|NN تھی|TA ،|PM پورے|ADJ مدینہ|NN میں|P سرور|NN و|CC شادمانی|NN کی|P لہر|NN دوڑ|NN رہی|VB تھی|TA ۔|SM
+بعض|Q امور|NN کی|P وجہ|NN سے|SE نماز|NN ناقص|ADJ ہو|VB جاتی|AA ہے|TA یعنی|SC نمازی|NN اَصل|PN اَجر|PN و|CC ثواب|NN اور|CC کمال|NN سے|SE محروم|ADJ رہتا|VB ہے|TA ،|PM انہیں|PP مکروہات|NN کہتے|VB ہیں|TA ۔|SM
+بالکل|ADV درست|ADJ فرمایاآپ|NN نے|P میں|P غالبا|ADV "|PM آپ|PP کے|P "|PM میرے|G "|PM کو|P "|PM مرے|PN "|PM پڑھ|VB گیا|AA ۔|SM
+مگر|SC قرآن|PN پر|P بہت|ADV مہربانی|NN کرے|VB تو|SC کبھی|AKP اس|PP کو|P ترجموں|NN اور|CC وہ|PP بھی|I انگریزی|PN ترجموں|NN کی|P مدد|NN سے|SE پڑھ|VB لے|AA
+اندھیر|ADJ نگر|NN میں|P وحدت|NN کی|P جو|REP جوت|NN جگانے|VB والے|WALA ہیں|TA
+شکریہ|NN فرحت|NN ،|PM انشاءاللہ|NN کوشش|NN کرتا|VB رہونگا|AA ۔|SM
+ناصح|NN اگر|SC آئیں|VB تو|SC ذرا|ADJ سوچ|NN سمجھ|VB کہ|SC
+بالکل|ADV ایسا|PP ہی|I کریں|VB ۔|SM
+گو|SC کہ|SC ان|PD دونوں|OR کی|P رفاقت|NN کو|P کہیں|AKP آگے|NN جانا|VB چاہیے|AA تھا|TA لیکن|SC مصباح|ADJ شنگی|NN ماساکازا|PN کے|P بچھائے|VB گئے|AA جال|NN میں|P پھنس|VB گئے|VB اور|CC کور|NN پر|P کیچ|NN دے|AA گئے|AA ۔|SM
+دوسری|ADJ یہ|PP ہے|VB
+شملہ|NN میں|P تین|CA روزہ|NN اجلاس|NN کے|P اختتام|NN پر|P پارٹی|NN صدر|NN راج|NN ناتھ|PN سنگھ|PN نے|P کہا|VB کہ|SC ڈسپلن|PN یا|CC نظم|NN و|CC ضبط|NN کی|P خلاف|NN ورزی|NN کسی|KD قیمت|NN برداشت|NN نہیں|NEG کی|VB جائے|AA گی|TA اور|CC (|PN جسونت|PN سنگھ|PN کو|P پارٹی|NN سے|SE نکالے|VB جانے|AA کے|P ساتھ|NN ہی|I )|EXP یہ|PD سلسلہ|NN شروع|NN ہوگیا|VB ہے|TA ۔|SM
+میں|PP ترا|VB ہو|TA جاوں|NN پہلے|NN اپنا|GR ہونے|VB دے|AA مجھے|PP
+بلاشبہ|NN تمہارا|G پروردگار|NN (|EXP پاداش|NN عمل|NN کی|P سزا|NN )|EXP دینے|VB میں|P تیز|ADJ ہے|VB ۔|SM
+’|PN بائیس|CA سو|CA صنعتوں|NN کو|P گیس|NN کی|P فراہمی|NN بند|ADJ ‘|NN
+ڈاکٹر|PN تو|SC کلینک|NN میں|P بن|VB کر|KER بیٹھتے|VB ھیں|NN دن|NN کو|P ۔|SM
+لڑائی|NN فوج|NN کی|VB ہے|TA ان|PD جہالت|NN کے|P علمبرداروں|NN سے|SE جو|REP خود|RP کو|P طالبان|NN کہلاتے|VB ہیں|TA ۔|SM
+اور|CC میںآنکھیں|NN موندے|ADJ موندے|NN
+اس|PD قبائلی|ADJ طرز|NN حکومت|NN کی|P ایک|CA تازہ|ADJ مثال|NN دیکھیے|VB ۔|SM
+پس|ADV ثابت|ADJ ہوا|VB کہ|SC آپ|PP اس|PD معاملے|NN میں|P ماہر|NN ہیں|VB
+کسی|KD بھی|I طرح|NN سے|SE وہ|PP اپنے|GR گھروں|NN کو|P واپس|ADJ جانے|VB کے|P لئے|NN تیار|ADJ نہیں|NEG ہیں|VB ۔|SM
+س|CA )|PN گاڑی|NN میں|P بھونپو|NN کیوں|QW لگاتے|VB ہیں|TA ؟|SM
+کیا|QW لباس|NN ایسے|PP بنوانے|VB ہیں|TA تم|PP کو|P ؟|SM
+فیصل|NN آباد|ADJ ابھی|AP اِس|PD دھچکے|NN سے|SE سنبھلا|VB ہی|I نہ|NEG تھا|VB کہ|SC سہیل|PN تنویر|PN نے|P اپنے|GR اگلے|ADJ اوور|NN میں|P محمد|ADJ سلمان|NN کو|P بھی|I آؤٹ|NN کر|VB کے|P فیصلہ|NN کن|KP جھٹکا|NN لگا|VB دیا|AA ۔|SM
+متحدہ|NN قومی|ADJ موومنٹ|NN کے|P مرکز|NN نائن|PN زیرو|PN پر|P پریس|NN کانفرنس|NN کے|P دوران|NN ڈاکٹر|NN فاروق|PN ستار|NN نے|P وفاق|NN اور|CC صوبے|NN میں|P حکومت|NN سے|SE علیحدگی|NN کا|P اعلان|NN کیا|VB ۔|SM
+عید|NN مبارک|ADJ لیکن|SC کونسی|KD والی|WALA ؟|SM
+دوسری|ADJ جانب|NN ،|PM جاپانی|ADJ حادثے|NN کے|P کئی|Q ہفتوں|NN بعد|NN پاکستان|PN نیوکلیر|PN ریگولیٹری|PN اتھارٹی|PN نے|P ایک|CA بیان|NN میں|P کہا|VB ہے|TA :|PM ’|PN پی|PN این|PN آر|PN اے|PN نے|P پاکستان|PN جوہری|ADJ توانائی|NN کمیشن|NN کو|P ہدایت|NN دی|VB ہے|TA کہ|SC کراچی|NN اور|CC چشمہ|NN میں|P جوہری|ADJ بجلی|NN گھروں|NN کے|P حفاظتی|ADJ انتظامات|NN کا|P جائزہ|NN لیا|VB جائے|AA ،|PM خاص|ADJ کر|VB کہ|SC جوہری|ADJ گھر|NN کی|P جگہ|NN ،|PM حفاظتی|ADJ نظام|NN ،|PM آپریٹرز|PN کی|P تربیت|NN اور|CC ہنگامی|ADJ صورتِحال|NN میں|P تیاری|NN کے|P حوالے|NN سے|SE ۔|SM
+دوسرا|OR :|PM اس|PD روایت|NN میں|P اس|PD بات|NN کا|P ذکر|NN نہیں|NEG ہوا|VB ہے|TA کہ|SC اس|PD جادو|NN نے|P پیامبراکرم|PN صلی|PN اللہ|PN علیہ|PN والہ|PN وسلم|PN کے|P اوپر|NN اثر|NN کیا|VB ہے|TA ۔|SM
+خوش|ADJ آمدید|ADV سالک|ADJ زیدی|NN ۔|SM
+روانی|NN اور|CC سہولت|NN کے|P ہیں|ADV ایک|CA ذاتی|ADJ رائے|NN ۔|SM
+مرے|PN خدا|NN مجھے|PP اپنے|GR امان|NN میں|P رکھنا|VB
+والدین|NN کا|P تعلق|NN ہندوستان|PN سے|SE ہے|VB جنھوں|NN نے|P اپنی|GR خوابوں|NN کی|P سرزمین|PN پاکستان|PN کو|P پانے|VB کے|P لئے|NN دو|CA دفعہ|NN ہجرت|NN کی|VB ۔|SM
+نہیں|NEG وہ|PP سارہ|NN والی|WALA بات|NN نہیں|NEG ہے|VB ۔|SM
+پھر|ADV چکر|NN کم|ADJ لگے|VB گا|TA
+شکر|NN گذار|VB ہوں|VB گا|TA اگر|SC کوئی|Q دست|ADJ تعاون|NN بڑھائے|VB تو|SC
+اب|AP یہ|PD عمار|NN کون|KP کہاں|AKP سے|SE ڈھونڈ|VB کر|KER دوبارہ|ADV سے|SE لائے|VB البتہ|SC ایسا|PP ہوسکتا|VB ہے|TA کہ|SC آپکا|G اپنا|GR بیٹا|NN جب|AP ہو|VB ،|PM تو|I وہ|PP ہوُ|ADJ بہوُ|PN چھوٹا|ADJ عمار|NN ہی|I نکلے|VB ۔|SM
+اے|NN اللہ|PN ہم|PP درویشوں|NN کی|P بھی|I سن|VB لے|AA ۔|SM
+جی|PN تو|I دوستو|ADJ آج|NN میری|G طرف|NN سے|SE بھی|I ایک|CA چھوٹی|ADJ سی|A دعوت|NN .|SM
+میں|PP تو|I کٹھ|NN پُتلی|PN جیسا|A اِک|PN ڈوری|NN دار|ADJ کھلونا|VB تھا|TA
+مٹر|PN قیمہ|NN ،|PM اچار|NN ،|PM چپڑی|VB ہوئی|AA روٹیاں|NN اور|CC پراٹھے|NN
+ورنہ|SC دو|CA لیٹر|ADJ دودھ|NN میں|P دو|CA سو|VB گرام|NN condensed|CA milk|NN تو|I کچھ|Q خاص|ADJ میٹھا|NN نہیں|NEG کرپاتا|VB ۔|SM
+کیسی|AKP ہیں|TA ننھی|NN پر|P ،|PM جویریہ|NN بٹیا|PN ،|PM کیسے|AKP ہیں|VB عمر|NN بھائی|VB ،|PM فلک|PN شیر|PN بھائی|NN اور|CC دیگر|NN احباب|NN ؟|SM
+خیال|NN رہے|VB کہ|SC پاکستان|PN قبائلی|ADJ علاقوں|NN میں|P ڈرون|PN حملوں|NN کے|P خلاف|NN امریکہ|PN سے|SE احتجاج|NN کرتا|VB رہا|AA ہے|TA تاہم|SC اس|PP کے|P باوجود|NN ان|PD حملوں|NN کا|P سلسلہ|NN جاری|ADJ ہے|VB ۔|SM
+یہ|PD آج|NN پہلا|OR دن|NN تھا|VB کہ|SC حامد|NN کے|P ساتھ|NN ایک|CA عزیزہ|NN نے|P چھوت|NN چھات|NN نہیں|NEG برتی|VB اور|CC منہ|NN کا|P سانس|NN منہ|NN پر|P لیا|VB ۔|SM
+مسائل|NN پاکستان|PN ۔|SM
+سعودی|PN عرب|PN کا|P بادشاہ|NN اس|PP کا|P افتتاح|NN کرتا|VB ہے|TA ۔|SM
+فاطمہ|NN اور|CC گھر|NN کے|P کام|NN ؟|SM
+ان|PD اتخابات|NN میں|P کئی|Q منفرد|ADJ اور|CC طویل|ADJ عرصے|NN تک|P زندہ|ADJ رہنے|VB والے|WALA نعرے|ADJ وجود|NN میں|P آئے|VB ،|PM جن|REP میں|P سب|Q سے|SE اہم|ADJ اور|CC منفرد|ADJ سیاسی|ADJ نعرہ|NN پیپلز|PN پارٹی|NN نے|P دیا|VB ،|PM جس|REP کی|P تکمیل|NN آج|NN بھی|I پیپلز|PN پارٹی|NN پر|P واجب|NN ہے|VB ۔|SM
+واہ|NN یہ|PP تو|I بہت|ADV خوشی|NN کی|P بات|NN ہے|VB یعنی|SC آپ|PP کا|P لکھتے|VB چلا|VB جانا|AA ،|PM میری|G خوہ|PN مخواہ|ADJ نادم|NN ہو|VB رہا|AA تھا|TA کہ|SC آپ|PP کو|P سوالات|NN سے|SE تکلیف|NN پہنچائی|VB
+اگر|SC اس|PP میں|P کوئی|Q سازش|NN پائی|VB جاتی|AA ہے|TA تو|SC پاکستان|PN کرکٹ|PN بورڈ|PN کو|P بقیہ|ADJ دورہ|NN نا|ADV مکمل|ADJ چھوڑنے|VB کے|P اختیار|NN پر|P بھی|I غور|NN کرنا|VB چاہیے|AA یا|CC کم|ADJ از|P کم|ADJ اس|PP کی|P تفتیش|NN مکمل|ADJ ہونے|VB تک|P میچ|NN کھیلنے|VB سے|SE انکار|NN کر|VB دینا|AA چاہئیے|AA ۔|SM
+اور|CC آپ|PP پر|P اپنی|GR رحمتوں|NN کی|P بارش|NN کریں|VB ۔|SM
+ایک|CA اچھے|ADJ مسلمان|NN ہیں|VB اور|CC ایک|CA اچھے|ADJ عالم|NN ہیں|VB ۔|SM
+درد|NN ،|PM بدنام|NN تو|I نہیں|NEG ہوگا|VB
+غارت|ADJ ہوں|VB اگر|SC ہم|PP کو|P بدی|NN نے|P ہو|VB چھوا|VB بھی|I
+پہلے|NN آ|VB کر|KER سلام|NN کرتے|VB ہیں|TA عینی|ADJ مینی|NN کی|P بچی|NN
+یہ|PD اردو|PN محفل|PN فورم|NN فورم|NN میں|P تصاویر|NN سے|SE ٹیگ|NN کردہ|ADJ تمام|Q مواد|NN ہے|VB ۔|SM
+مُڑا|NN اور|CC تیسرے|OR کام|NN کی|P طرف|NN چل|VB دیا|AA ۔|SM
+نکل|VB کر|KER حلقۂ|NN اہلِ|NN اثر|NN سے|SE بھاگ|VB جاؤں|NN میں|P ۔|SM
+ہاشم|PN آملہ|NN سے|SE معذرت|NN .|SM
+مگر|SC بحیثیت|ADV اک|NN سیاسی|ADJ پارٹی|NN اس|PP کے|P منشور|NN سے|SE صرف|ADV نظر|NN نہیں|NEG کیا|VB جا|AA سکتا|AA ۔|SM
+ایک|CA ڈالی|VB سے|SE دوسری|ADJ ڈالی|VB پھدکتی|VB ہوئی|AA رنگ|NN برنگی|NN چڑیوں|NN کے|P چہچہانے|VB کی|P آواز|NN جنگل|NN میں|P گونج|VB رہی|VB تھی|TA ۔|SM
+بنت|NN عائشہ|NN نے|P '|SC پسندیدہ|ADJ کلام|NN '|SC کی|P ذیل|NN میں|P اس|PD موضوع|NN کا|P آغاز|NN کیا|VB ،|PM اپریل|PN 8|CA ,|PM 2013|CA
+By|NN :|PM باپ|NN اور|CC بیٹے|NN میں|P فرق|NN ||PN Muhammad|PN Saleem|PN
+کیونکہ|SC اگر|SC پونا|PN میں|P ہم|PP نہیں|NEG اُتارے|VB گئے|AA تو|SC پھر|ADV اس|PD رُخ|NN پر|P احمد|ADJ نگر|NN کے|P سوا|NN اور|CC کوئی|Q جگہ|NN نہیں|NEG ہو|VB سکتی|AA ۔|SM
+اس|PP میں|P مسئلہ|NN وہی|PP تھا|VB کہ|SC فائل|NN کافی|ADJ بڑی|ADJ ہوگئی|AA تھی|TA اور|CC وولٹ|NN اس|PP کو|P کمپائل|NN نہیں|NEG کرسکتا|VB تھا|TA ۔|SM
+حد|NN یہ|PP ہے|VB کہ|SC تعلیمی|ADJ اداروں|NN میں|P اس|PD روز|NN انتظامیہ|NN بے|PN بس|NN ہو|VB جاتی|AA ہے|TA ،|PM لَو|PN برڈز|PN کے|P لیے|ADV ،|PM لَو|PN جیلز|PN کا|P اہتمام|NN کالجوں|NN میں|P ہی|I نہیں|NEG ،|PM تقریباً|ADV ہر|Q انگریزی|PN سکول|NN میں|P ہونا|VB لازم|NN قرار|NN پایا|VB ہے|TA ،|PM جن|REP میں|P ایک|CA لڑکے|NN لڑکی|NN کو|P مقید|NN کردیا|VB جاتا|AA ہے|TA ۔|SM
+حکومت|NN چھانگا|PN مانگا|PN کی|P خوبصورتی|NN کو|P بحال|ADJ کرنا|VB چاہتی|AA ہے|TA ۔|SM
+پردہء|NN سری|NN کھلا|ADJ ہے|VB جس|REP اوپر|NN
+تیلے|ADJ شاہ|PN ,|PM مارچ|PN 22|CA ,|PM 2006|CA
+آج|NN کے|P دور|NN میں|P پاکستانی|ADJ سکول|NN کے|P طلبہ|NN کے|P لیے|ADV اشتیاق|ADJ احمد|PN معیاری|ADJ مصنف|NN نہیں|NEG ۔|SM
+حضرت|NN ابو|NN موسیٰ|PN رضی|PN اللہ|PN عنہ|NN فرماتے|VB ہیں|TA کہ|SC لوگ|NN ابھی|AP کجاوے|NN کھول|VB ہی|I رہے|VB تھے|TA کہ|SC وہ|PP راہب|NN ان|PP کے|P درمیان|NN چلنے|VB لگا|AA یہاں|AP تک|P کہ|SC حضور|PN نبی|PN اکرم|PN صلی|PN اللہ|PN علیہ|PN وآلہ|PN وسلم|PN کے|P قریب|NN پہنچا|VB اور|CC آپ|PP صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN کا|P دستِ|NN اقدس|NN پکڑ|VB کر|KER کہا|VB :|PM یہ|PP تمام|Q جہانوں|NN کے|P سردار|NN اور|CC رب|PN العالمین|PN کے|P رسول|NN ہیں|TA ۔|SM
+جب|AP ملاقات|NN ہوئی|VB تو|SC ترجمان|NN نے|P کہا|VB کہ|SC اس|PP میں|P پاکستان|PN کے|P سیاسی|ADJ امور|NN یا|CC پرویز|NN مشرف|NN کے|P بارے|NN میں|P کوئی|Q بات|NN نہیں|NEG ہوئی|VB بلکہ|SC ان|PP کی|P ملکی|ADJ اور|CC علاقائی|ADJ سلامتی|NN کے|P امور|NN پر|P بات|NN ہوئی|VB ہے|TA ۔|SM
+مرچ|NN مصالحے|NN نہیں|NEG کھانے|VB ۔|SM
+افسوس|NN کہ|SC ان|PD اشعار|NN کو|P کوئی|Q نمایاں|NN نہیں|NEG کرتا|VB نہ|NEG اس|PP کے|P پوسٹر|NN لگتے|AA ہیں|TA !|SM
+یہ|PP تو|I جو|REP چباتے|VB ہیں|TA ان|PP سے|SE پوچھو|VB ۔|SM
+نثر|NN میں|P شیخ|NN بو|PN علی|PN سینا|PN کی|P حکمت|NN فارسیہ|PN وغیرہ|NN ۔|SM
+افلاس|NN کی|P وجہ|NN سے|SE انسان|NN کی|P شکل|NN قیدیوں|NN جیسی|A ہو|VB جاتی|AA ہے|TA ۔|SM
+باقی|ADJ فلم|NN فلاپ|NN میاں|NN
+یہ|PP سنی|VB سنائ|ADJ بات|NN ہے|VB یا|CC پریکٹیکل|NN ؟|SM
+پی|PN ایس|PN جی|PN (|PN فرانس|PN )|PN
+فلم|NN ڈان|PN میں|P بھی|I وہ|PP ویلن|PN ہی|I تو|I بنے|VB تھے|TA لیکن|SC اگر|SC یہ|PD خبر|NN جو|REP گشت|NN کر|VB رہی|AA ہے|TA صحیح|ADJ ہے|VB تو|SC خان|NN صاحب|NN ایک|CA بار|NN پھر|ADV ویلن|PN بننے|VB کی|P تیاری|NN میں|P ہیں|VB اور|CC اس|PD مرتبہ|NN وہ|PP دھوم|NN پارٹ|PN تھری|PN میں|P ویلن|PN کا|P رول|NN کریں|VB گے|TA ۔|SM
+عیدی|NN کیوں|QW دی|VB جاتی|AA ہے|TA ؟|SM
+جو|REP جی|PN میں|P آئے|VB ،|PM جب|AP جی|PN میں|P آئے|VB لکھیے|VB ۔|SM
+گزشتہ|ADJ بیس|CA سال|NN سے|SE لالو|ADJ پرساد|NN کی|P خبریں|NN کور|NN کرنے|VB والے|WALA سینیئر|ADJ صحافی|NN اے|PN کے|P پانڈے|NN بتاتے|VB ہیں|TA ہیں|TA کہ|SC لالو|PN نے|P شروع|NN میں|P بھی|I کبھی|AKP عوامی|ADJ جلسوں|NN میں|P اس|PD ایکویشن|NN کی|P بات|NN نہیں|NEG کی|VB مگر|SC ان|PP کی|P نجی|ADJ نشستوں|NN میں|P اس|PP کا|P چرچا|NN ضرور|ADV ہوتا|VB تھا|TA ۔|SM
+جب|AP یہ|PP کہا|VB کسی|KD نے|P کہ|SC منٹو|NN گزر|VB گیا|AA
+جس|REP جگہ|NN بیٹھ|VB گئے|AA ۔|SM
+جاوید|NN بھائی|PN زنا|NN ،|PM شراب|NN ،|PM طوائفوں|NN کے|P مجرے|NN ،|PM تار|NN کو|P ڈور|NN کے|P طور|NN پر|P استعمال|NN کرنا|VB ان|PP کی|P کب|AKP حمایت|NN کی|VB ہے|TA میں|PP نے|P اور|CC ان|PD سب|Q کا|P بسنت|NN ،|PM بیساکھی|PN ،|PM مہندی|NN ،|PM مایوں|NN وغیرہ|NN سے|SE کیا|QW تعلق|NN ہے|VB ؟|SM
+نام|NN کیوں|QW بدل|VB دیا|AA ۔|SM
+ایک|CA سوال|NN کے|P جواب|NN میں|P انہوں|PP نے|P کہا|VB کہ|SC وہ|PP سکیورٹی|NN کے|P پیش|NN نظر|NN یہ|PP نہیں|NEG بتا|VB سکتے|AA کہ|SC آج|NN کل|Q میں|P بھی|I کوئی|Q خاندان|NN واپس|ADJ جانے|VB والا|WALA ہے|VB یا|CC نہیں|NEG ۔|SM
+جیسے|A الف|PN ،|PM بڑی|ADJ یے|AA ،|PM چھوٹی|ADJ ی|NN ،|PM واؤ|NN والے|WALA الفاظ|NN ۔|SM
+اپنی|GR تدریسی|ADJ زندگی|NN کا|P آغاز|NN انھوں|NN نے|P 1972|CA میں|P پاکستان|PN فضائیہ|NN کے|P کالج|NN چکلالہ|NN راول|PN پنڈی|NN سے|SE بحیثیت|ADV لیکچرر|VB کیا|VB ۔|SM
+قصے|NN توقرآن|NN میں|P بھی|I ہیں|VB ۔|SM
+فوراً|ADV تالاب|NN میں|P کودا|VB ۔|SM
+ای|PN میل|U یا|CC میسنجر|ADJ وغیرہ|NN کی|P میں|P کوئی|Q گارنٹی|PN نہیں|NEG دے|VB سکتا|AA ۔|SM
+سیاست|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM جمہوریت|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM قانون|NN بھی|I طاقتور|ADJ کے|P پاس|NN اور|CC عدالت|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM عزت|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM خوشحالی|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM راحت|NN و|CC آرام|NN اور|CC چین|PN اور|CC سکون|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM حفاظت|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM الیکشن|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM ایوان|NN بھی|I طاقتور|ADJ کے|P پاس|NN ،|PM حکومت|NN بھی|I طاقتور|ADJ کے|P پاس|NN اور|CC اقتدار|NN بھی|I طاقتور|ADJ کے|P پاس|NN ہے|VB ۔|SM
+2006|CA میں|P سے|SE سے|SE خوبصورت|ADJ قرار|NN دی|VB جانے|AA والی|WALA بچی|NN
+میرے|G خیال|NN میں|P اب|AP اس|PD بحث|NN کو|P ختم|ADJ کردیا|VB جائے|AA اور|CC ہمیں|PP اپنے|GR اگلے|ADJ کام|NN کے|P بارے|NN میں|P سوچنا|VB چاھئے|PN
+میں|PP نے|P چڑیا|NN چارپائی|NN پر|P رکھ|VB کر|KER ایک|CA اور|CC چڑيا|NN بنانا|VB شروع|NN کر|VB دی|AA ۔|SM
+میرے|G گھر|NN کے|P فون|NN پر|P فون|NN کرنے|VB والے|WALA کا|P جلی|VB ہندسوں|NN میں|P نمبر|NN آجاتا|VB ہے|TA اور|CC نام|NN بھی|I کیونکہ|SC اس|PP میں|P نمبر|NN نام|NN کے|P ساتھ|NN ریکارڈ|NN کرنے|VB کی|P سہولت|NN ہے|VB ۔|SM
+خام|ADJ تیل|NN میں|P ایک|CA عشاریہ|PN آٹھ|CA فیصد|NN کی|P کمی|NN واقع|ADJ ہوئی|VB ہے|TA ۔|SM
+اب|AP اس|PD وقت|NN "|PM خوابوں|NN کا|P شہزادہ|NN "|PM ہی|I یاد|NN آئےگا|VB ناکہ|SC میلی|PN بنیان|PN اور|CC شلوار|NN میں|P خرّاٹے|NN مارتا|VB ہوا|AA دہوش|NN ۔|SM
+فرانس|PN کے|P وزیر|NN خارجہ|NN نے|P امریکہ|PN میں|P بات|NN کرتے|VB ہوئے|AA کہا|VB کہ|SC انہیں|PP یقین|NN ہے|VB کہ|SC مغربی|ADJ ممالک|NN ایسی|AD قرارداد|NN کی|P حمایت|NN کریں|VB گے|TA ۔|SM
+ڈاکٹر|PN مشاہد|PN رضوی|PN الف|PN عین|PN محمد|PN یعقوب|ADV آسی|PN
+یہی|PD فرق|NN ہے|VB نہ|NEG ہم|PP کچھ|Q کچھ|Q کھاتے|VB ہیں|TA سب|Q نہیں|NEG کھا|VB جاتے|AA
+ابھی|AP تو|I جلن|NN باقی|ADJ ہے|VB میرے|G ان|PD زخموں|NN میں|P
+امن|NN ،|PM مجھے|PP تو|I یہ|PP گانا|NN پورا|ADJ نظر|NN آیا|VB تھا|TA ۔|SM
+"|PM سلسلہ|NN دوبارہ|ADV مل|VB گیا|AA ہے|TA جناب|NN ۔|SM
+جب|AP ابراہیم|NN کو|P پتہ|NN چلا|VB یہاں|AP دال|NN نہیں|NEG گلنے|VB والے|WALA تو|SC اس|PP نے|P کہاں|AKP اگریمنت|NN میں|P پیسے|NN کم|ADJ لکھے|VB ہوئے|AA ہیں|TA تم|PP پیسے|NN زیادہ|ADV لکھو|VB یعنی|PN 15|CA کی|P جگہ|NN 30|CA لکھو|PN عابد|PN صاحب|I چاہتے|VB تھے|TA یہ|PD مسئلہ|NN ختم|ADJ ہو|VB انھوں|NN نے|P کہا|VB میں|P 15|CA کی|P جگہ|NN 20|CA لکھ|VB دیتا|AA ہوں|TA
+حافظ|PN ابن|PN حجر|PN رحمہ|PN اللہ|PN کہتے|VB ہیں|TA
+خوش|ADJ آمدید|ADV الطاف|NN ۔|SM
+"|PM ابی|NN "|PM بھی|I اسی|PD فہرست|NN میں|P ہوگا|VB ،|PM شعیب|PN سعید|NN "|PM شوبی|PN "|PM بھی|I اسی|PD فہرست|NN میں|P آ|VB گئے|AA
+پھر|ADV جب|AP یہ|PP ویڈیو|NN بنانے|VB والی|WALA خاتون|NN دوسری|ADJ دفعہ|NN آتی|VB ہیں|TA تو|SC انہیں|PP پتا|NN چلتا|VB ہے|TA کہ|SC ان|PP میں|P سے|SE ایک|CA عورت|NN کا|P پھر|ADV سے|SE باقاعدہ|ADJ عقد|NN المتعہ|PN ہو|VB گیا|AA ہے|TA اور|CC وہ|PP پچھلے|ADJ 6|CA ماہ|NN سے|SE باقاعدہ|ADJ ایک|CA گھر|NN میں|P اچھی|ADJ زندگی|NN گذار|VB رہی|AA ہے|TA ۔|SM
+تنگ|ADJ نکلا|VB حلقہِ|NN دام|NN آشیاں|NN کہنا|VB پڑا|AA
+ذوالفقار|ADJ نقوی|PN ,|PM دسمبر|PN 9|CA ,|PM 2013|CA
+رسید|NN حاضر|ADJ ہے|VB مقدور|NN بھر|VB گزارشات|NN پیش|NN کرتا|VB ہوں|TA ۔|SM
+اس|PD سلسلے|NN میں|P انشاءاللہ|NN ماہنامہ|ADJ سرگذشت|NN میں|P شائع|ADJ ہونے|VB والا|WALA ایک|CA تفصیلی|ADJ مضمون|NN جلد|ADV پیش|NN کروں|VB گا|TA ۔|SM
+ان|PD بے|PN سکون|NN لوگوں|NN کے|P لیے|ADV تھوڑا|Q سا|A سکون|NN چاھیے|VB
+بڑی|ADJ سازش|NN
+ان|PD شاء|NN اللہ|PN آپ|PP امتیازی|ADJ کامیابی|NN حاصل|ADJ کریں|VB گی|TA ۔|SM
+اس|PP کو|P چھوڑو|VB ،|PM وہ|PP بندہ|ADJ برآمد|ADJ ہو|VB گیا|AA ہے|TA ،|PM میں|PP نے|P کر|VB لیا|AA ہے|TA ۔|SM
+انڈیا|PN حیدرآباد|PN کے|P لوگ|NN ق|NN کو|P خ|NN کی|P طرح|NN بولتے|VB ھیں|AA ۔|SM
+’|NN مزید|ADJ آنکہ|NN جین|PN صاحب|I کی|P نظر|NN ایک|CA مسلمان|NN کی|P تصنیف|NN ’|PN پدماوت|NN ‘|PM پر|P نہیں|NEG گئی|VB جس|REP میں|P ایک|CA مسلمان|PN بادشاہ|NN کا|P رومان|NN پدماوتی|NN سے|SE دکھایا|VB گیا|AA ہے|TA اور|CC مسلمان|PN مصنف|NN نے|P مسلمان|PN بادشاہ|NN ہی|I کوموردِ|NN الزام|NN ٹھہرایا|VB ہے|TA ۔|SM
+چلیں|VB ،|PM میں|P کوشش|NN کرتا|VB ہوں|TA کہ|SC عوام|NN کے|P پُرزور|ADJ اصرار|NN پر|P ’|PM دوسری|ADJ قسط|NN ‘|NN تیار|ADJ کی|VB جائے|AA !|SM
+اہ|NN اب|AP سمجھا|VB
+خود|RP بنانا|VB حلوہ|NN پھر|ADV مزہ|NN آئے|VB گا|TA کھانے|NN میں|P بھی|I
+موجودہ|ADJ زمانے|NN میں|P آزادیِ|NN وجدان|NN کے|P تحت|NN شیعوں|NN کو|P بھی|I اپنے|GR عقائد|NN پر|P آزادانہ|ADJ عمل|NN پیرا|VB ہونے|VB کا|P پورا|ADJ حق|NN ہے|VB ۔|SM
+عالمی|ADJ تجارتی|ADJ تنظیم|NN کے|P ضابطوں|NN کے|P مطابق|NN کسی|KD فصل|NN کی|P تجارت|NN پر|P اس|PP کے|P پیدا|NN کرنے|VB والے|WALA ملک|NN کو|P خصوصی|ADJ حقوق|NN حاصل|ADJ ہوتے|VB ہیں|TA جو|REP ایک|CA طرح|NN سے|SE تجارتی|ADJ اجارہ|NN داری|NN حاصل|ADJ ہونے|VB کے|P مترادف|ADJ ہے|VB ۔|SM
+مبارک|VB ہو|VB کاشف|ADJ عمران|PN
+جس|REP میں|P ایک|CA ارب|NN 16|CA کروڑ|NN 58|CA لاکھ|NN 62|CA ہزار|CA روپے|PN پٹرولیم|PN لیوی|PN (|PN ایل|PN ای|PN وائی|PN )|PN اور|CC 38|CA کروڑ|NN 89|CA لاکھ|NN 79|CA ہزار|CA روپے|NN سیلز|NN ٹیکس|NN کی|P مد|NN میں|P صارفین|NN سے|SE وصول|ADJ کئے|Q جا|VB رہے|AA ہیں|TA ۔|SM
+اسرائیل|PN نے|P شام|NN کے|P اس|PD جوہری|ADJ مرکز|NN کو|P 2007|CA میں|P ایک|CA میزائل|ADJ حملے|NN میں|P تباہ|ADJ کر|VB دیا|AA تھا|TA ۔|SM
+آپ|PP کا|P ہر|Q مرید|NN زیور|PN علم|NN سے|SE آراستہ|ADJ تھا|VB ۔|SM
+اس|PD بند|ADJ سے|SE آگے|NN قادر|PN پور|PN کی|P طرف|NN آئے|VB تو|SC بند|ADJ کے|P دونوں|OR کناروں|NN پر|P متاثرین|NN کی|P تعداد|NN اتنی|Q تھی|VB کہ|SC بمشکل|ADV گاڑی|NN درمیان|NN سے|SE گزر|VB رہی|AA تھی|TA ۔|SM
+ضروری|ADJ ہے|VB ناں|NN کہ|SC تیار|ADJ شیار|NN ہو|VB کر|VB آئیں|VB ،|PM ایسے|PP ہی|I تھوڑا|Q نہ|NEG آئیں|VB گے|TA ۔|SM
+کچھ|Q دیر|NN بعد|NN اس|PP کے|P بیٹے|NN اور|CC بھائی|NN اس|PP کو|P دیکھنے|VB کے|P لئے|NN نکلے|VB تو|SC انہوں|PP نے|P متوفی|ADJ کا|P کمبل|NN اور|CC دیگر|NN اشیا|NN دیکھیں|VB ۔|SM
+آج|NN ہوگی|VB کل|Q ہوگی|VB پھر|ADV ختم|ADJ ۔|SM
+صوبہ|NN سرحد|NN کے|P ضلع|NN سوات|NN میں|P طالبان|NN نے|P مبینہ|ADJ طور|NN پر|P جس|REP لڑکی|NN کو|P سرعام|ADJ کوڑوں|NN کی|P سزا|NN دی|VB تھی|TA اس|PP کی|P شناخت|NN ہوگئی|VB ہے|TA اور|CC عینی|ADJ شاہدین|PN کا|P کہنا|VB ہے|TA کہ|SC واقعہ|NN امن|NN معاہدے|NN کے|P بعد|NN پیش|NN آیا|VB ہے|TA جبکہ|SC طالبان|NN نے|P سزا|NN دینے|VB کے|P بعد|NN لڑکے|NN اور|CC لڑکی|NN کا|P زبردستی|NN نکاح|NN بھی|I پڑھوا|VB دیا|AA ہے|TA ۔|SM
+ڈرتی|VB نہیں|NEG ہوں|VB کھلے|ADJ عام|ADJ سچ|NN بات|NN کہنے|VB سے|SE
+یہ|PD اردو|PN محفل|PN فورم|NN فورم|NN میں|P دینی|VB جماعتیں|NN سے|SE ٹیگ|ADJ کردہ|ADJ تمام|Q مواد|NN ہے|VB ۔|SM
+مقامی|ADJ لوگوں|NN کے|P مطابق|NN اپر|NN کرم|NN کے|P علاقے|NN مٹہ|ADJ سنگر|PN میں|P پاک|ADJ افغان|PN سرحد|NN کے|P قریب|NN غزگئی|NN کے|P مقام|NN پر|P افغانستان|NN میں|P تعینات|NN افواج|NN نے|P بمباری|NN کی|VB ۔|SM
+ماتم|ADJ کدے|NN میں|P ؟|SM
+واقعی|ADV یہ|PD بات|NN تو|I پتے|NN کی|VB ہے|TA پر|P اس|PD غزل|NN میں|P کوسنے|VB بھی|I تو|I بہت|ADV ہیں|VB ۔|SM
+عقلمند|ADJ وزیر|NN
+ایران|PN اور|CC اقوامِ|NN متحدہ|PN کی|P سلامتی|ADJ کونسل|NN کے|P پانچ|CA مستقل|ADJ اراکین|NN کے|P ساتھ|NN جرمنی|PN کے|P نمائندے|NN 20|CA نومبر|PN کو|P جنیوا|NN میں|P دوبارہ|ADV مذاکرات|NN کے|P لیے|ADV اکٹھے|ADJ ہوں|VB گے|TA ۔|SM
+ویسے|ADJ یہ|PP آپ|PP کا|P پہلا|OR ہی|I جنم|NN ہے|VB نا|ADV ایسا|PP لگتا|VB ہے|TA کہ|SC اک|NN عمر|NN پہلے|NN بھی|I گذار|NN کے|P دوبارہ|ADV آئے|VB ہین|PN اس|PD جہان|NN میں|P ۔|SM
+کہ|SC وہ|PP کام|NN اچھا|ADJ کریں|VB تب|AP بھی|I انہیں|PP خواہ|SC مخواہ|NN نکال|VB ہی|I دوں|NN اور|CC نئے|ADJ امیدواروں|NN کا|P بلاضرورت|NN تجربہ|NN کروں|VB ۔|SM
+لیکن|SC اس|PD طرح|NN مجھے|PP تو|I معلوم|ADJ ہی|I نہیں|NEG ہو|VB سکے|AA گا|TA ،|PM یہیں|PP بتا|VB دینا|AA تھا|TA
+شجر|NN سایہ|NN دار|NN
+کہ|SC اپنی|GR تو|I دعا|NN ہی|I ہے|VB
+جب|AP انھوں|NN نے|P یہ|PD جرائم|NN کیےتھے|VB اس|PD وقت|NN ان|PP کی|P عمر|NN 17|CA سال|NN سے|SE چھ|CA ماہ|NN کم|Q تھی|VB اس|PP لیے|ADV وہ|PP قانونی|ADJ طور|NN پر|P نابالغوں|NN کے|P زمرے|NN میں|P شمار|NN ہوتے|VB ہیں|TA ۔|SM
+ان|PP کا|P کہنا|VB ہے|TA کہ|SC ان|PP کی|P فرانس|PN کی|P شہریت|NN کے|P کاغذات|NN بھی|I ان|PP کے|P والدین|NN نے|P چھین|ADJ لیے|ADV ہیں|VB اور|CC ان|PP کی|P زندگیاں|NN پاکستان|PN میں|P محفوظ|ADJ نہیں|NEG ہیں|VB ۔|SM
+آج|NN صبح|NN سے|SE یہ|PP ویڈیو|NN مختلف|ADJ جگہ|NN پر|P دیکھ|VB رہا|AA ہوں|TA میرے|G خیال|NN میں|P یہ|PP ویڈیو|ADJ لڑکی|NN کو|P کوڑے|NN مارنے|VB والی|WALA ویڈیو|NN کی|P طرح|NN انجینئرڈ|VB ہے|TA ۔|SM
+اگر|SC میڈیا|NN کی|P وجہ|NN سے|SE ایک|CA غریب|ADJ اور|CC معصوم|ADJ بچی|NN کی|P جان|NN بچ|VB گئی|AA تو|SC کیا|QW یہ|PP غلط|ADJ تھا|VB ؟|SM
+پس|SC میرے|G محبوب|PN پیغمبر|PN کا|P تمہاری|G طرف|NN مبعوث|VB ہونا|VB تم|PP پر|P اللہ|NN کا|P فضل|NN بن|VB گیا|AA کہ|SC اس|PP کی|P آمد|NN کے|P صدقے|NN تمہیں|PP ہدایت|NN نصیب|VB ہوئی|AA اور|CC تم|PP شیطان|NN کی|P پیروی|NN اور|CC گمراہی|NN سے|SE بچ|VB گئے|AA ۔|SM
+ہاں|INT شاید|ADV شاکر|NN آنے|VB والے|WALA ہوں|TA ،|PM مراد|NN دوست|NN نہ|NEG کہ|SC شاکر|NN القادری|PN
+سٹڈی|ADJ روم|NN کی|P ایک|CA دیوار|NN پر|P کتابیں|NN رکھنے|VB والی|WALA شیلف|NN کے|P خانے|NN تھے|TA ۔|SM
+اقبال|PN ہر|Q اس|PD فن|NN و|CC ہنر|NN کے|P مخالف|ADJ ہیں|VB جو|REP زندگی|NN سے|SE دور|NN لے|VB جاتا|AA ہے|TA اور|CC انفرادیت|NN کو|P کچلتا|VB ہے|TA اور|CC جس|REP میں|P انسان|NN تابع|ADJ مہمل|NN اور|CC کائنات|NN گوہر|NN مقصود|NN ہوتی|VB ہے|TA ،|PM وہ|PP موجودہ|ADJ تمثیل|NN ،|PM تھیٹر|PN اور|CC ڈرامہ|NN کے|P اسی|PD لیے|ADV خلاف|NN ہیں|VB کہ|SC وہ|PP مصنوعی|ADJ پن|NN ،|PM انقالی|PN اور|CC بہروپ|NN کے|P سوا|NN کچھ|Q نہیں|NEG جس|REP میں|P انسان|NN "|PM تماشا|NN "|PM اور|CC کائنات|NN تماش|NN بین|NN بن|VB جاتی|AA ہے|TA :|PM ۔|SM
+النہضہ|NN ان|PD الزامات|NN کی|P سختی|NN سے|SE تردید|NN کرتی|VB ہے|TA ۔|SM
+آللا|PN حافظ|PN
+ٹرانسمٹر|PN اب|AP ریسور|NN سے|SE جواب|NN کا|P انتظار|NN کرتا|VB ہے|TA کے|P مسیج|NN ملا|VB یا|CC نہیں|NEG ۔|SM
+مگر|SC ابھی|AP وسائل|NN نہ|NEG تھے|VB کہ|SC سفر|NN کر|VB سکوں|NN ۔|SM
+صدائے|ADJ احتجاج|NN بلند|ADJ کرنے|VB والوں|WALA کو|P قیدو|NN بند|ADJ کی|P صعبوبتیں|NN اٹھانی|VB پڑیں|AA ۔|SM
+وہی|PP ہورہی|PN دیکھو|VB اب|AP بھی|I بحث|NN و|CC تکرار|NN ہوبہو|VB
+لہذا|SC ہم|PP یہ|PP محسوس|ADJ کرتے|VB ہیں|TA کہ|SC صحابۂ|ADJ کرام|PN ۔|SM
+اپنے|GR تمام|Q معاملوں|NN کو|P اس|PD تناظر|NN میں|P دیکھنے|VB کی|P ضرورت|NN ہے|VB کہ|SC بالاخر|ADV امریکہ|PN پاکستان|PN کی|P سرعت|NN انگیز|PN تباہ|ADJ کن|ADJ حملہ|NN کہ|SC صلاحیت|NN کو|P چھین|ADJ لینا|VB چاہتا|AA ہے|TA تاکہ|SC بے|PN دست|NN و|CC پا|VB کرکے|NN فائدہ|NN اٹھاتا|VB رہے|AA ۔|SM
+صبح|NN صبح|NN اٹھ|VB کر|VB ناشتہ|NN بنانا|VB انہی|PD کے|P فرائض|NN میں|P شامل|ADJ ہے|VB اور|CC آفس|NN سے|SE واپسی|NN پر|P برتن|NN وغیرہ|NN دھو|VB کر|VB کھانے|NN کی|P تیاری|NN شروع|NN کر|VB لیتے|AA ہیں|TA ۔|SM
+جعفر|PN بھائی|PN اینٹ|NN تو|I خوب|ADJ بخا|VB ہوا|AA ہے|TA لیکن|SC ؟|SM
+یاد|NN ہے|VB نشے|NN دا|PN وگدا|PN دریااوس|PN دریا|PN وِ|PN چ|CA دُوجے|NN کئی|Q لوکاں|NN وانگ|NN میں|P وی|PN ڈُب|VB گیا|AA ساں|NN ۔|SM
+لیکن|SC مجھے|PP ایک|CA بات|NN کی|P سمجھ|NN نہیں|NEG آ|VB رہی|AA کہ|SC کفیل|NN نے|P پاسپورٹ|NN اپنے|GR پاس|NN کیوں|QW رکھ|VB لیا|AA ہے|TA ۔|SM
+یہ|PP آپ|PP لوگوں|NN کو|P اس|PD لیئے|ADV بتایا|VB گیا|AA تاکہ|SC آپ|PP کو|P غلی|NN سے|SE نجات|NN پانے|VB کا|P طریقہ|NN آ|VB جائے|AA ۔|SM
+اک|NN شخص|NN کتابوں|NN جیسا|A تھا|VB وہ|PP شخص|NN زبانی|ADJ یاد|NN ہوا|VB
+راجہ|NN رینٹل|NN سے|SE ڈاکٹر|NN رینٹل|PN تک|P کا|P سفر|NN ۔|SM
+جی|PN جناب|I بس|NN آپ|PP آگے|NN آگے|NN دیکھتے|VB جائیےگا|AA
+تعلیم|NN :|PM سول|PN انجینئرنگ|NN ڈگری|NN کورس|NN 1966|CA ئ|PN انسٹی|PN ٹیوٹ|PN آف|PN انجینئرز|PN پاکستان|PN ڈھاکہ|PN ایم|PN ۔|SM
+ابھی|AP بتا|VB رہی|AA ہوں|TA نا|ADV ۔|SM
+میں|P اس|PD دھاگہ|NN کو|P چیک|NN کرتا|VB ہوں|TA ،|PM دعاؤں|NN میں|P یاد|NN رکھیئے|VB گا|TA
+کیا|QW بنا|VB ہے|TA آج|NN کھانے|NN میں|P بھلا|ADJ ؟|SM
+بہت|ADV خوب|ADJ
+ہو|VB سکتا|AA ہے|TA کہ|SC انہیں|PP اس|PD طرح|NN سے|SE ہاتھ|NN لگانے|VB میں|P ،|PM چھونے|VB میں|P کچھ|Q محسوس|ADJ ہوتا|VB ہو|TA ۔|SM
+اپنی|GR باتوں|NN میں|P کسی|KD اور|CC کے|P حوالے|NN رکھنا|VB
+ملائکہ|NN نے|P '|SC فیشن|NN اور|CC ملبوسات|NN '|SC کی|P ذیل|NN میں|P اس|PD موضوع|NN کا|P آغاز|NN کیا|VB ،|PM دسمبر|PN 31|CA ,|PM 2012|CA
+(|NN یہ|PD کام|NN تو|I خود|RP ان|PP کا|P ہے|VB )|CA
+اوسکے|ADJ جنوب|PN اور|CC شمال|PN کو|P حجرے|NN متعدد|ADJ دو|CA گہے|NN اور|CC دالان|NN بنے|VB ہوئے|AA ہین|PN اور|CC جانب|NN شرق|NN دروازہ|NN ہے|VB ترپولیہ|NN کے|P طور|NN پر|P اور|CC جانب|NN ٖغرب|NN نری|ADJ سنگ|NN سرخ|ADJ کی|P مسجد|NN ہے|VB اور|CC مسجد|NN کے|P دونون|ADJ پہلو|NN مین|PN کچھ|Q صحن|NN چھوڑ|VB کر|KER دالان|NN ہین|PN ۔|SM
+نواسۂ|NN رسول|PN ﷺ|PN ،|PM جگر|PN گوشۂ|PN بتولؓ|PN حضرت|I امام|NN حسینؓ|PN اور|CC آپؓ|NN کے|P جانثاروں|NN کی|P قربانی|NN کو|P خراج|ADJ عقیدت|NN پیش|NN کیجئے|VB ۔|SM
+کلیک|NN آپ|PP نے|P یقینا|ADV استعمال|NN کیا|VB ہوگا|TA ؟|SM
+خیر|NN شاعروں|NN کی|P طرف|NN سے|SE تو|I یقیناً|ADV کوئی|Q اعتراض|NN نہ|NEG ہوگا|VB ،|PM گھوڑوں|NN کی|P رضا|ADJ مندی|NN حاصل|ADJ کرنا|VB آپ|PP کا|P کام|NN
+ادھر|AP ریاست|PN مغربی|ADJ بنگال|NN میں|P اہلکاروں|NN کا|P کہنا|VB ہے|TA کہ|SC پولیس|NN اور|CC ماؤ|NN نواز|ADJ باغیوں|NN کے|P درمیان|NN جھڑپیں|NN ہوئی|VB ہیں|TA تاہم|SC ان|PP میں|P کسی|KD ہلاکت|NN کی|P خبر|NN نہیں|NEG ہے|VB ۔|SM
+نگہ|ADJ واں|NN خشک|ADJ نم|NN تے|NN برتری|NN ہندی|NN
+مسخ|NN ہونے|VB کے|P سبب|NN اب|AP تک|P ان|PD لاشوں|NN کی|P شناخت|NN نہیں|NEG ہو|VB پائی|AA ہے|TA ۔|SM
+دوست|NN تمہاری|G جیسی|A بات|NN میرے|G ایک|CA دوست|NN نے|P کہی|VB تھی|TA تو|SC میں|PP نے|P اس|PP کو|P کہا|VB تھا|TA کہ|SC پہلے|NN ایک|CA ایسا|PP کمپیوٹر|NN لے|VB لو|AA جو|REP وسٹا|ADJ چلا|VB سکے|AA اس|PP کے|P بعد|NN بات|NN کرنا|VB
+کیا|QW اسلام|NN آیت|NN اللہ|PN کے|P افعال|NN سے|SE جانا|VB جاتا|AA ہے|TA یا|CC قرآن|PN اور|CC حدیث|NN کی|P تعلیمات|NN سے|SE ؟|SM
+آپ|PP ویسے|ADJ تھے|VB کہاں|AKP ؟|SM
+جنکو|PN حرام|NN ہلال|PN کا|P فرق|NN نہ|NEG پتا|NN نہ|NEG ہو|VB ۔|SM
+اللہ|PN کرےحرمتِ|NN قرطاس|PN و|CC قلم|NN اور|CC ۔|SM
+گھر|NN پہ|SC بیٹھیں|VB گے|TA مسکرائیں|VB گے|TA
+اور|CC شعر|NN میں|P تھوڑی|Q سی|A ترمیم|NN کرکے|NN میرا|G نام|NN ڈال|VB دیں|AA نا|ADV استاد|NN محترم|ADJ ۔|SM
+لہذا|SC ان|PD آثار|NN و|CC باقیات|NN کو|P سائنسدان|NN مختلف|ADJ قسموں|NN یا|CC ذیلی|ADJ خاندانوں|NN اور|CC مختلف|ADJ ادوار|NN میں|P تقسیم|NN کرکے|NN ان|PP کی|P ایک|CA تاریخ|NN مرتب|ADJ کر|VB رہے|AA ہیں|TA ۔|SM
+سوال|NN یہ|PP ہے|VB کہ|SC جب|AP آپ|PP پاکستان|PN میں|P رہنا|VB پسند|NN نہیں|NEG کرتے|VB ،|PM پاکستان|PN میں|P اپنا|GR پیسا|NN رکھنا|VB پسند|NN نہیں|NEG کرتے|VB ،|PM اپنے|GR بچوں|NN کو|P پڑھوانا|VB پسند|NN نہیں|NEG کرتے|VB ،|PM پاکستان|PN میں|P کاروبار|NN کرنا|VB پسند|NN نہیں|NEG کرتے|VB تو|SC پھر|ADV یکدم|PN اور|CC اچانک|ADV آپکو|PN پاکستان|PN آکرکمی|PN کمینوں|NN کے|P پھڈے|NN میں|P ٹانگ|NN اڑانے|VB یا|CC کسی|KD ادارے|NN یا|CC فرد|NN کی|P ٹوپی|NN اچھالنے|VB کی|P ًاچھاً|ADV کیونکر|AKP پیدا|NN ہوئی|VB ؟|SM
+داغِ|NN دل|NN گر|VB نظر|NN نہیں|NEG آتا|VB
+یہی|PD میں|P کہہ|VB رہی|AA تھی|TA کہ|SC اجازت|NN کی|P کیا|QW بات|NN ہے|VB ۔|SM
+ایڈونس|PN کے|P لہو|NN کے|P قطروں|NN سے|SE جو|REP سرخ|ADJ پھول|NN اُگ|VB آئے|VB تھے|TA ان|PP پر|P اس|PP کے|P آنسوؤں|NN کے|P قطرے|NN پڑے|VB اور|CC سرخ|ADJ سفید|ADJ پھولوں|NN سے|SE ایک|CA چمن|NN وجود|NN میں|P آ|VB گیا|AA ۔|SM
+کس|KP کو|P ماریں|VB گی|TA
+چلو|PN اچھا|ADJ کیا|QW کام|NN مندا|VB ہے|TA اسی|PP پر|P دو|CA چار|CA دیہاڑیاں|NN لگائیں|VB گے|TA ویسے|ADJ بھی|I عید|NN قریب|NN ہے|VB !|SM
+خرید|NN کر|VB تو|SC رکھ|VB ہی|I لیتا|VB ہے|TA انسان|NN
+اسلام|PN آباد|ADJ سے|SE ہمارے|G نامہ|NN نگار|NN شہزاد|NN ملک|NN نے|P بتایا|VB کہ|SC وزیر|NN داخلہ|NN رحمان|NN ملک|NN نے|P کہا|VB ہے|TA کہ|SC سوات|NN میں|P صورتحال|NN سیکورٹی|PN فورسز|NN کے|P کنٹرول|NN میں|P ہے|VB اور|CC وہاں|AP پر|P شدت|NN پسند|NN پسپائی|NN اختیار|NN کر|VB رہے|AA ہیں|TA ۔|SM
+نیلم|PN جہلم|PN منصوبہ|NN 2015|CA تک|P مکمل|ADJ کرنے|VB کا|P حکم|NN
+قطع|NN کلام|NN معاف|NN
+آپ|PP [|CA اور|CC کسی|KD حد|NN تک|P خاور|ADJ برادر|NN ]|EXP جمعیت|NN کے|P ان|PD منفی|ADJ پہلووں|NN کے|P دفاع|NN کے|P لیے|ADV مسلسل|ADJ یہاں|AP پر|P متحدہ|NN کی|P آڑ|NN لے|VB رہے|AA ہیں|TA کہ|SC صحیح|ADJ بات|NN نہیں|NEG ہے|VB ۔|SM
+ہم|PP نے|P زبان|NN اور|CC ثقافت|NN کے|P مسئلے|NN کو|P اپنے|GR طور|NN پر|P دسترساز|ADJ اسمبلی|NN میں|P حل|NN کر|VB لیا|AA اور|CC قانع|NN ہو|VB گئے|AA ۔|SM
+انھوں|NN نے|P بتایا|VB کہ|SC ویلتھ|PN ٹیکس|NN لیوی|NN سے|SE حاصل|ADJ ہونے|VB والی|WALA رقم|NN کسی|KD اور|CC مد|NN میں|P خرچ|NN نہیں|NEG کی|VB جائے|AA گی|TA ۔|SM
+صدر|PN اوباما|PN جمعرات|PN کو|P بوسٹن|PN میں|P ایک|CA ماتمی|ADJ تقریب|NN میں|P شرکت|NN کریں|VB گے|TA ۔|SM
+بس|NN قابو|NN پانا|VB ہمارا|G کام|NN ہے|VB ۔|SM
+اور|CC اس|PD جان|NN کو|P مارنا|VB جس|REP کا|P مارنا|VB اللہ|PN تعالیٰ|NN نے|P حرام|NN کیا|VB ہے|TA ،|PM لیکن|SC حق|NN پر|P مارنا|VB درست|ADJ ہے|VB ۔|SM
+اس|PP کا|P مقصد|NN ہے|VB ہی|I یہ|PP کہ|SC یہاں|AP اس|PD قسم|NN کے|P مسائل|NN جو|REP خود|RP انسان|NN کو|P درپیش|ADJ ہوں|TA زیر|NN کلام|NN لائے|VB جائیں|AA تاکہ|SC جس|REP کا|P مسلہ|NN ہو|VB اس|PP کا|P بھی|I بھلا|ADJ ہو|VB اور|CC بعد|NN میں|P جو|REP پڑھے|VB وہ|PP بھی|I اس|PP سے|SE کچھ|Q سیکھ|VB سکے|AA
+اگر|SC یہ|PD اشارہ|NN ہمارے|G معاشرے|NN کے|P مذہبی|ADJ لوگوں|NN اور|CC علما|NN کی|P طرف|NN ہے|VB تو|SC اس|PP کی|P ہمیں|PP تو|I کوئی|Q بڑی|ADJ مثال|NN نظر|NN نہیں|NEG آئی|VB ۔|SM
+"|PM اور|CC کیا|KP بے|PN سلفے|NN کی|P لاٹ|NN کو|P کون|KP نہیں|NEG جانتا|VB ۔|SM
+دیکھ|VB کر|KER خلوت|NN سرائے|VB یار|PN کہتے|VB ہیں|TA فقیر|NN
+اور|CC جناب|NN ،|PM میرے|G پاس|NN تو|SC ٹیلی|ADJ نار|NN کی|P کھال|NN میں|P زونگ|NN کا|P نمبر|NN ہے|VB ۔|SM
+ARHAM|PN ,|PM مئی|PN 25|CA ,|PM 2008|CA
+جائے|ADV جن|REP کا|P وار|PN نہ|NEG خالی|ADJ
+نازل|NN ہو|VB گئے|AA ؟|SM
+صدق|NN دل|NN سے|SE جب|AP انسان|NN اللہ|NN تعالٰی|NN کی|P راہ|NN میں|P نکل|VB پڑا|VB تو|I وہ|PP اس|PD عمل|NN کے|P اجر|NN کا|P مستحق|ADJ ہوگیا|VB ،|PM خواہ|SC گھر|NN سے|SE نکلتے|VB ہی|I موت|NN اس|PP سے|SE وقت|NN عمل|NN چھین|VB لے|AA اور|CC اسے|PP اس|PD عمل|NN کا|P موقع|NN نہ|NEG دے|VB ،|PM بجائے|ADV عمل|NN کے|P اس|PP کا|P اخلاص|NN ہی|I اس|PP کے|P لیے|ADV کافی|ADJ ہوگیا|VB ،|PM اللہ|PN تعالٰی|NN تو|I لوگوں|NN کے|P ارادوں|NN اور|CC دلوں|NN کو|P دیکھتا|VB ہے|TA ۔|SM
+ان|PP کے|P شکریہ|NN کے|P ساتھ|NN شامل|ADJ محفل|NN کر|VB رہا|AA ہوں|TA
+میری|G مصروفیات|NN مجھے|PP اردو|PN محفل|NN میں|P ہر|Q روز|NN آنے|VB اور|CC اس|PP پر|P دو|CA کتابیں|NN پوسٹ|PN کرنے|VB کی|P اجازت|NN ہر|Q گز|U نہیں|NEG دیتیں|VB ۔|SM
+نہ|NEG تو|I مے|PN لعلِ|PN یار|PN کے|P مانند|NN
+پھوپھی|ADJ زاد|NN بہن|PN سردار|PN بیگم|PN کا|P جیٹھ|ADJ نمبر|NN 1|CA ۔|SM
+میں|PP ابھی|AP تک|P فوٹوبکٹ|NN اور|CC ٹائنی|ADJ پک|PN کا|P استعمال|NN کیا|VB ہوا|AA ہے|TA اور|CC دونوں|OR سے|SE ہی|I بہت|ADV آسانی|NN سے|SE لگ|VB جاتی|AA ہے|TA ۔|SM
+ڈھوانی|ADJ زاویہ|NN کسی|KD طرح|NN کم|ADJ کیا|VB جائے|AA تاکہ|SC بین|NN السطور|ADJ وقفہ|NN کم|ADJ کیا|VB جا|AA سکے|AA
+سیریز|NN میں|P عمر|NN اکمل|PN نے|P بہت|ADV اچھی|ADJ کارکردگی|NN دکھائی|VB اور|CC 58.33|CA کی|P بہترین|ADJ اوسط|NN سے|SE 175|CA رنز|NN بنائے|VB اور|CC اس|PP کے|P لیے|ADV انہوں|PP نے|P صرف|ADV 157|CA گیندیں|NN کھیلیں|VB ۔|SM
+دوسرا|OR ٹیب|NN لے|VB آؤٹ|NN کا|P ہے|VB ۔|SM
+کیا|VB یہ|PP کھلا|ADJ تضاد|NN نہ|NEG .|SM
+مالی|ADJ سال|NN 13|CA ءکے|NN بقیہ|ADJ عرصے|NN کے|P دوران|NN سٹیٹ|PN بینک|NN کو|P آئی|VB ایم|PN ایف|PN کے|P قرضوں|NN کی|P مد|NN میں|P مزید|ADJ 838|CA ملین|CA ڈالر|NN واپس|ADJ کرنا|VB ہیں|TA جبکہ|SC رواں|ADJ مالی|ADJ سال|NN کی|P پہلی|OR تین|CA سہ|VB ماہیوں|NN میں|P 2.2|CA ارب|NN ڈالر|NN ادا|NN کیے|VB جا|AA چکے|AA ہیں|TA ۔|SM
+اس|PP سے|SE ہمیں|PP پولیس|NN حکام|NN کی|P اہلیت|NN پر|P بھی|I شک|NN ہوگیا|VB ہے|TA ۔|SM
+لبنٰی|PN مرزا|PN
+اور|CC دوسرا|OR افسوس|NN یہ|PP کہ|SC آج|NN کل|Q عموما|NN فقط|Q اہل|ADJ تشیع|NN ہی|I اس|PD زہریلے|ADJ پروپیگنڈہ|NN کا|P بہت|ADV بڑے|ADJ پیمانے|NN پر|P شکار|NN ہیں|VB ۔|SM
+اے|PN ٹی|PN ایس|PN کے|P مطابق|NN اب|AP انہیں|PP اس|PD کیس|NN کو|P صحیح|ADJ سمت|NN میں|P حل|NN کرنے|VB اور|CC ملزمین|NN کے|P خلاف|NN ثبوت|NN کو|P عدالت|NN میں|P ثابت|ADJ کرنے|VB میں|P مدد|NN ملے|VB گی|VB ۔|SM
+مرحوم|ADJ کو|P جنت|NN الفردوس|PN میں|P اعلیٰ|ADJ مقام|NN عطا|NN فرمائے|VB ۔|SM
+’|PN حضرت|NN انس|PN بن|VB مالک|NN رضی|NN اللہ|NN عنہ|NN بیان|NN کرتے|VB ہیں|TA کہ|SC ہمارے|G پاس|NN حضور|NN نبی|ADJ اکرم|PN صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN تشریف|PN لائے|VB ،|PM اور|CC قیلولہ|NN کے|P لئے|NN آرام|NN فرما|VB ہو|VB گئے|AA ،|PM آپ|PP صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN کو|P پسینہ|NN آیا|VB ،|PM میری|G والدہ|NN ایک|CA شیشی|NN لے|VB کر|VB آئیں|VB ،|PM اور|CC آپ|PP صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN کا|P پسینہ|NN مبارک|PN پونچھ|PN پونچھ|PN کر|VB اس|PP میں|P ڈالنے|VB لگیں|VB ،|PM تو|SC حضور|NN نبی|ADJ اکرم|PN صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN بیدار|ADJ ہو|VB گئے|AA آپ|PP صلی|PN اللہ|PN علیہ|NN وآلہ|PN وسلم|PN نے|P فرمایا|VB :|PN اے|PN امّ|PN سلیم|PN !|SM یہ|PP کیا|VB کر|VB رہی|AA ہو|TA ؟|SM
+2|CA -|PM محمد|PN برزنجی|PN نے|P اپنی|GR کتاب|NN الاشاعۃ|PN لاشراط|PN الساعۃ|PN میں|P کہا|VB ہے|TA کہ|SC :|PM (|CA تیسرا|OR باب|NN قیامت|NN کی|P بڑی|ADJ شرطوں|NN اور|CC قریبی|ADJ نشانیوں|NN کے|P متعلق|NN ہے|VB جسکے|NN بعد|NN قیامت|NN آئے|VB گی|TA اور|CC وہ|PP بہت|ADV زیادہ|ADV ہیں|VB :|PM ان|PP میں|P سے|SE سب|Q سے|SE پہلی|OR مہدی|NN کا|P ظہور|NN ہے|VB ،|PM اور|CC آپ|PP کو|P یہ|PD علم|NN ہونا|VB چاہئے|AA کہ|SC اس|PP کے|P متعلق|NN جو|REP احادیث|PN وارد|PN ہیں|VB باوجود|NN روایات|NN میں|P اختلاف|NN ہونے|VB کے|P اتنی|Q زیادہ|Q ہیں|VB کہ|SC ان|PP کا|P شمار|NN مشکل|ADJ ہے|VB )|EXP ۔|SM
+مفتعلن|PN مفاعلن|PN /|EXP مفتعلن|PN مفاعلان|PN
+ایک|CA ہی|I جیسے|A رات|NN دن|NN کب|AKP تک|P
+پیری|ADJ مریدی|NN کے|P خلاف|NN بھلے|NN ہی|I سہی|VB ،|PM یہ|PP بھی|I تو|I فرما|VB گئے|AA کہ|SC تین|CA کوس|PN دور|NN خسرو|NN کی|P قبر|NN پر|P کیوں|QW گئے|VB ،|PM میرے|G پچھواڑے|NN کے|P پیپل|NN کی|P پیپلیاں|NN کھا|VB لیتے|AA تو|SC چودہ|CA طبق|NN روشن|ADJ ہو|VB جاتے|AA ،|PM اللہ|PN اللہ|PN ،|PM سبحان|PN اللہ|PN ۔|SM
+گدائے|PN شاہ|PN دو|CA عالم|ADJ ہوں|VB فکر|NN کاہے|NN کی|P
+کرو|VB مشورہ|NN ۔|SM
+نام|NN بتانے|VB میں|P تھوڑی|Q سی|A غلطی|NN ہو|VB گئی|AA ہے|TA ۔|SM
+میں|PP نے|P یہ|PD پیغام|NN جنوری|PN 2005|CA میں|P اپنے|GR عزیز|NN و|CC اقارب|NN کو|P نئے|ADJ سال|NN کیلئے|NN بھیجا|VB تھا|TA ۔|SM
+اور|CC ویسے|ADJ آپ|PP بھی|I تو|I ٹیم|NN میں|P شامل|ADJ ہیں|VB :|PM )|CA
+تمام|Q مسلمانوں|NN کو|P مبارک|ADJ باد|NN ۔|SM
+شگفتہ|NN بہن|PN ۔|SM
+ورنہ|SC کب|AKP کے|P ایک|CA لاکھ|NN پیغامات|NN ہوگئے|VB ہوتے|VB ۔|SM
+ارمنی|ADJ نسل|NN کشی|NN کا|P معاملہ|NN اور|CC امریکہ|PN کی|P حکمت|NN عملی|NN
+میں|PP ایک|CA وقت|NN میں|P ایک|CA ہی|I کو|P کندھے|NN پر|P اٹھا|VB کر|KER لاسکتا|VB تھا|TA ،|PM سوچا|VB کہ|SC شعیب|NN کو|P کون|KP چوری|NN کر|VB کے|P لے|VB جائے|AA گا|TA ،|PM اس|PP لیے|ADV ہرن|INT ساتھ|NN لے|VB آیا|AA ۔|SM
+سورۃ|PN النور|PN
+کیر|PN تھر|PN پارک|NN کا|P محلِ|NN وقوع|NN ۔|SM
+اس|PD بار|NN ارادہ|NN ہے|VB کہ|SC اپنے|GR بھانجے|NN کے|P یہاں|AP شاہدرہ|ADV ٹھہروں|VB گا|TA ۔|SM
+میری|G -|PM تحریر|NN -|PM عبدالباسط|NN /|EXP دھرتی|VB -|PM ماں|NN /|EXP 330872596933315|CA
+کاگاپیاکی|PN خبریالاوے|NN ۔|SM
+زیک|PN ,|PM جولائی|PN 12|CA ,|PM 2007|CA
+85|CA خون|NN سے|SE گل|NN خاکِ|NN صفا|PN ہاں|INT ہوئی|VB کانپ|NN اُٹھی|PN تختگہِ|NN ہند|PN بھی|I
+آئی|VB ایم|PN ہیپی|PN ود|PN وٹ|PN آئی|PN ایم|PN ڈوئنگ|PN
+اس|PD دوران|NN بھوک|NN ہڑتال|NN پر|P بیٹھے|VB وکلاء|NN نے|P الزام|NN لگایا|VB کہ|SC ایک|CA منصوبہ|NN بند|ADJ سازش|NN کے|P تحت|NN دانشور|NN اور|CC بالخصوص|ADV وکلاء|NN کو|P گرفتار|ADJ کرکے|NN سلاخوں|NN کے|P پیچھے|NN دھکیلاگیاہے|VB تاکہ|SC بشری|ADJ حقوق|NN کی|P پامالیوں|NN کے|P خلاف|NN کوئی|Q آواز|NN نہ|NEG اُٹھائے|VB اور|CC نہ|NEG ہی|I تنازعہ|NN کشمیر|NN کو|P حل|NN کرنے|VB کا|P مطالبہ|NN کرتے|VB ہوئے|AA اس|PP کے|P حق|NN میں|P سڑکوں|NN پر|P آکر|NN کوئی|Q احتجاج|NN کریں|VB ۔|SM
+جہاں|AP چ|CA ۔|SM
+ہم|PP نے|P انہی|PD باتوں|NN کی|P وجہ|NN سے|SE تعلیم|NN چھوڑی|VB تھی|TA
+جب|AP تلک|ADJ دل|NN میں|P رہا|VB تو|SC شبنمی|ADJ انداز|NN تھا|VB
+24|CA .|SM سو|VB آپ|PP انہیں|PP دردناک|ADJ عذاب|NN کی|P بشارت|NN دے|VB دیں|AA
+بھارتی|PN کپتان|PN مہندر|PN سنگھ|PN دھونی|PN کو|P بھی|I اس|PD بات|NN کا|P بخوبی|ADV اندازہ|NN ہے|VB کہ|SC ان|PP کے|P پاس|NN بھی|I ایک|CA ہی|I موقع|NN رہ|VB گیا|AA ہے|TA کہ|SC وہ|PP جنوبی|ADJ افریقہ|PN کو|P شکست|NN دیں|VB ۔|SM
+واہ|INT بہت|ADV خوب|ADJ اتنی|Q اچھی|ADJ معلوماتی|ADJ تصویریں|NN شریک|ADJ محفل|NN کرنے|VB کا|P بہت|ADV شکریہ|NN ۔|SM
+پر|P کیا|VB ہے|TA کہ|SC یہ|PP پلئیر|NN بھی|I تبھی|VB چلے|VB گا|TA گر|VB آپ|PP کی|P ونڈوز|NN میں|P ڈاٹ|PN نیت|NN تھری|PN انسٹالیڈ|PN ہوگا|VB ۔|SM
+وہابی|ADJ اہل|ADJ حدیث|NN کا|P فتویٰ|NN
+کہ|SC ہر|Q گمان|NN پہ|SC آخر|ADJ یقین|NN غالب|ADJ ہے|TA
+کچھ|Q سمجھ|NN نہیں|NEG آرہی|VB آجکل|AA میرا|G کوئی|Q بھی|I کام|NN کرنے|VB کو|P جی|PN کیوں|QW نہیں|NEG کر|VB رہا|AA ۔|SM
+الغرض|PN اقبال|PN کا|P کلام|NN میں|P بیشک|NN بہت|ADV ہی|I عمدہ|ADJ مضامین|NN اور|CC باتیں|NN وعظ|NN اور|CC نصیحت|NN ہیں|ADV ایسی|AD گہری|ADJ سوچ|NN و|CC افکار|NN ہیں|VB جسے|REP بڑے|ADJ مفکر|NN اور|CC علماء|ADJ دین|NN بھی|I منبر|NN پر|P بیٹھ|VB کر|KER حوالہ|NN بناتے|VB ہیں|TA ،|PM مثالیں|NN دیتے|VB ہیں|TA ۔|SM
+اچھی|ADJ نیند|NN لیجیئے|VB گا|TA ۔|SM
+'|SC بھلا|ADJ میں|P تمہیں|PP موت|NN کے|P منہ|NN میں|P جانے|VB کی|P اجازت|NN کس|KP طرح|NN دے|VB سکتا|AA ہوں|TA ؟|SM
+شیعہ|NN مسلمان|PN کا|P ماننا|VB ہے|TA کہ|SC اس|PP کی|P اجازت|NN مذہب|NN میں|P دی|VB گئی|AA ہے|TA جبکہ|SC سنی|VB مسلمانوں|NN کا|P کہنا|VB ہے|TA کہ|SC یہ|PP حرام|NN ہے|VB ۔|SM
+یہ|PD کنایہ|NN نشانہ|NN پر|P جا|VB بیٹھا|AA ۔|SM
+کتاب|NN کا|P سرورق|NN دیکھ|VB کر|KER ہنستے|VB ہوئے|AA فرمانے|VB لگے|AA :|PM کتاب|NN کا|P نام|NN آپ|PP نے|P بہت|ADV اچھا|ADJ اور|CC معنی|NN خیز|VB رکھا|AA ہے|TA "|PM یوسف|PN کا|P بکا|VB جانا|AA "|PM ۔|SM
+ہر|Q ایک|CA قوم|NN میں|P گھوڑ|NN دوڑ|NN ہے|VB ترقی|NN کی|P
+فف|NN دو|CA پلیسی|ADJ ب|PN جنید|PN خان|NN 41|CA 107|CA 2|CA 0|CA
+اس|PP کے|P آنکھیں|NN اور|CC منہ|NN ناک|NN بند|ADJ تھا|VB ۔|SM
+جی|PN بالکل|ADV یہی|PD بات|NN ہے|VB زیک|AA ۔|SM
+حسن|NN ،|PM مائی|PN ڈیر|PN "|PM یو|PN آر|PN موسٹ|PN ویلکم|PN "|PM
+وہ|PP کردار|NN جو|REP ہندی|ADJ فلموں|NN میں|P عموماً|ADV جونی|PN لیور|PN ادار|PN کرتا|VB ہے|TA ۔|SM
+خوش|ADJ آمدید|ADV طارم|NN ۔|SM
+بہت|ADV اچھی|ADJ ہے|VB ؟|SM
+اس|PP کے|P ذریعے|NN انسانیت|NN کو|P ایسا|PP نور|NN عطا|NN ہوا|VB جس|REP سے|SE جہالت|NN کی|P تاریکیاں|NN چھٹ|VB گئیں|AA اور|CC اِنسان|PN شرف|NN و|CC تکریم|NN کے|P اُجالوں|NN میں|P اپنے|GR اصل|ADJ مقام|NN کا|P نظارہ|NN کرنے|VB لگا|AA ۔|SM
+ہمشیرہ|PN صاحبہ|NN آپ|PP کے|P کہنے|VB کو|P بہت|ADV اچھا|ADJ سمجھتی|VB ہیں|TA ۔|SM
+پس|SC جس|REP کے|P لئے|NN موت|NN کا|P فیصلہ|NN کردیتا|VB ہے|TA اسے|PP روک|VB رکھتا|VB ہے|TA اور|CC دوسری|ADJ کو|P ایک|CA معین|ADJ مدت|NN تک|P کے|P لئے|NN (|EXP واپس|ADJ )|NN بھیج|VB دیتا|AA ہے|TA ۔|SM
+میں|P کھانے|NN کا|P انتظار|NN کر|VB رہا|AA ہوں|TA ۔|SM
+مست|NN و|CC بیخود|NN بنائے|VB جاتے|AA ہیں|TA
+یہاں|AP بے|PN راہ|NN روی|NN عام|ADJ ہے|VB اور|CC اب|AP جب|AP انٹر|PN نیٹ|PN کا|P دور|NN ہے|VB کوئی|Q مسئلہ|NN نہیں|NEG کسی|KD کو|P ۔|SM
+پانی|NN یہاں|AP کا|P نہایت|ADV خنک|NN ہے|TA ،|PM پھل|NN ہر|Q قسم|NN کے|P باافراط|NN ملتے|VB ہیں|VB مثلاً|ADV انگور|NN ،|PM انجیر|NN ،|PM آرڑو|PN ،|PM سیب|NN ،|PM امرود|NN ،|PM بہی|NN ،|PM خوبانی|ADJ ،|PM شہتوت|NN ،|PM زرد|ADJ آلو|NN وغیرہ|NN ۔|SM
+اسکا|G ہوم|PN ورک|PN کروا|VB دیں|AA
+مدیحہ|PN کو|P 6|CA مارچ|PN کو|P ڈسچارج|PN کردیا|VB گیا|AA تھا|TA لیکن|SC مزید|ADJ معائنوں|NN کیلئے|VB وہ|PP ہندوستان|PN میں|P مقیم|ADJ تھیں|VB ۔|SM
+گجندر|PN نے|P بول|VB چال|NN سنی|VB تو|SC جان|NN میں|P جان|PN آئی|VB ،|PM سمجھے|VB گھر|NN میں|P جاگ|NN ہو|VB گئی|AA ،|PM لپک|VB کر|VB کمرے|NN کے|P دروازے|NN پر|P آئے|VB اور|CC بولے|VB ۔|SM
+پانچ|CA سال|NN سے|SE کم|ADJ اور|CC ڈھائی|VB /|EXP تین|CA سال|NN سے|SE زیادہ|ADV عرصہ|NN ہے|VB شادی|NN خانہ|NN (|EXP آبادی|NN یا|CC بربادی|NN )|NN منعقد|ADJ ہونے|VB میں|P ۔|SM
+ان|PD الزامات|NN کے|P تحت|NN انھیں|PP دس|CA سال|NN قید|NN کی|P سزا|NN ہو|VB سکتی|AA ہے|TA
+پاؤں|NN کے|P ساتھ|NN جہاں|AP چلنے|VB کے|P محاورات|NN آتے|VB ہیں|TA جو|REP انسان|NN کے|P اہم|ADJ تجربات|NN میں|P سے|SE ہیں|VB اس|PP کی|P اہم|ADJ ضرورت|NN ہے|VB وہاں|AP نہ|NEG چلنے|VB کے|P ساتھ|NN بھی|I بہت|ADV سے|A محاورات|NN وابستہ|ADJ ہیں|VB مثلاً|ADV پیڑ|NN توڑ|VB کر|KER بیٹھنا|AA پیر|NN کی|P کیفیات|NN کو|P ظاہر|ADJ کرتے|VB ہیں|TA ضرورت|NN کو|P ظاہر|ADJ کرتے|VB ہیں|TA بیٹھنے|VB کے|P علاوہ|NN پیروں|NN کے|P جمنے|VB اور|CC ٹھہرے|VB کے|P بارے|NN میں|P محاورات|NN انسانی|ADJ کردار|NN اور|CC سماجی|ADJ ضرورت|NN کی|P طرف|NN نئے|ADJ نئے|ADJ پہلوؤں|NN سے|SE اشارہ|NN کرتے|VB ہیں|TA مثلاً|ADV قدم|NN جمانا|VB ،|PM قدم|NN جمنا|VB جیسے|A ہم|PP دوسرے|ADJ لفظوں|NN میں|P پیر|NN جمنا|VB ،|PM اور|CC پیر|PN جمانا|PN ،|PM کہتے|VB ہیں|TA یہ|PP مستقل|ADJ مزاجی|NN کی|P طرف|NN اشارہ|NN کرنے|VB والے|WALA محاورے|NN ہیں|VB جن|REP کے|P مقابلہ|NN میں|P قدم|NN اکھڑنا|VB اور|CC قدم|NN اکھاڑنا|VB آتے|AA ہیں|TA ۔|SM
+اس|PD گڑھے|NN کی|P دیوار|NN میں|P وادیوں|NN کا|P ایک|CA جال|NN دیکھا|VB جا|AA سکتا|AA ہے|TA جو|REP ممکنہ|ADJ طور|NN پر|P باہر|NN سے|SE پانی|NN داخل|NN ہونے|VB کے|P نتیجے|NN میں|P بنا|VB ہوگا|TA ۔|SM
+دونوں|OR آنکھوں|NN کے|P باہر|NN کیطرف|NN کناروں|NN پر|P
+ادھر|AP ایک|CA ماہ|NN کے|P عرصے|NN میں|P اوپر|NN تلے|NN تین|CA خواتین|NN کی|P خودنوشتیں|NN شائع|ADJ ہوئی|VB ہیں|TA ۔|SM
+صرف|ADV یہی|PD نہیں|NEG بلکہ|SC اس|PD نوع|NN کی|P نعتیہ|ADJ محفلوں|NN میں|P سامعین|NN کا|P داد|NN کا|P انداز|NN بھی|I وہی|PP ہوتا|VB ہے|TA جو|REP ڈسکو|PN محفلوں|NN کا|P خاصا|ADJ ہے|VB اور|CC جس|REP کا|P ذکر|NN میں|PP نے|P ابھی|AP کیا|VB ہے|TA بلکہ|SC اب|AP جدید|ADJ طرز|NN کے|P نعت|NN خوان|NN حضرات|NN شوبز|PN نس|NN کے|P فنکاروں|NN ایسا|PP شوخ|ADJ و|CC شنگ|NN لباس|NN بھی|I پہنتے|VB ہیں|TA ۔|SM
+مولانا|PN آزادصرف|PN 35|CA سال|NN کی|P عمر|NN میں|P کانگریس|PN کے|P صدر|NN بن|VB گئے|VB لیکن|SC بنگال|PN کےمسلمانوں|NN نے|P انہیں|PP وہ|PP عزت|NN و|CC تکریم|NN نہ|NEG دی|VB جو|REP مولانا|PN آزادکو|PN ہندو|PN دیتے|VB تھے|TA ۔|SM
+اس|PD رات|NN کو|P اب|AP میں|P شبِ|NN غم|NN کہہ|VB نہیں|NEG سکتا|AA
+ان|PD انتخابات|NN میں|P
+سمندری|ADJ پہاڑوں|NN کے|P معاملے|NN میں|P بھی|I ہلکا|ADJ موادپہاڑوں|NN کے|P نیچے|NN زمین|NN میں|P جڑ|NN کے|P طورپر|NN قوت|NN پکڑتاہے|VB لیکن|SC سمندری|ADJ پہاڑوں|NN کے|P معاملے|NN میںایک|NN خاص|ADJ بات|NN یہ|PP ہے|VB کہ|SC یہ|PP گرم|ADJ ہوتا|VB ہے|TA اس|PP لیے|ADV قدرے|ADJ پھیلا|VB ہو|AA اہو|TA تا|CC ہے|TA اور|CC پہاڑوں|NN کو|P سہارا|NN دینے|VB کا|P کام|NN کرتاہے|VB ۔|SM
+تاریخیں|NN تو|I اتنی|Q یاد|NN ہی|I نہیں|NEG کرنی|VB پڑتی|AA ہم|PP تاریخ|NN کے|P ایونٹ|NN اور|CC اسکے|NN analyses|NN پر|P زیادہ|ADV توجہ|NN رکھتے|VB ہیں|TA
+اور|CC اب|AP شمشاد|NN چاء|CA آپ|PP بھی|I غصہ|NN بھول|VB جائیں|AA (|EXP میں|P اپنے|GR اصلی|ADJ والے|WALA چچاؤں|NN کو|P چاء|NN کہتی|VB ہوں|TA ۔|SM
+اچھا|ADJ آئس|NN کریم|NN کھائیں|VB گے|TA بھیا|SC وہ|PP بھی|I تصویری|NN ؟|SM
+‘|PN وہ|PP حیران|ADJ رہ|VB گئی|AA ۔|SM
+جس|REP جس|REP لڑکی|NN کو|P دیکھتا|VB ہوں|TA یا|CC کسی|KD بھی|I لڑکی|NN سے|SE ملاقات|NN ہوتی|VB ہے|TA وہ|PP سب|Q کی|P سب|Q مجھے|PP پری|NN لگتی|VB ہیں|TA ۔|SM
+ڈیڑھ|ADJ بجنے|VB میں|P ایک|CA گھنٹہ|NN ابھی|AP باقی|ADJ ہے|VB
+54|CA اسکور|NN چاہیے|ADV فالوآن|NN ہونے|VB سے|SE بچنے|VB کے|P لیے|ADV
+لیکین|PN ھماری|PN دعاء|NN ھے|PN کہ|SC پاکستان|PN کو|P بھی|I امریکی|ADJ چنگل|NN سے|SE نجات|NN حاصل|ADJ ھو|NN
+کہہ|VB دو|CA غم|NN حسین|ADJ منانے|VB والوں|WALA کو|P
+”|PN حسن|PN بیٹا|NN ہم|PP کہیں|AKP کے|P نہ|NEG رہیں|VB گے|TA ۔|SM
+وفاقی|ADJ کابینہ|NN پہلے|NN ہی|I کراچی|ADJ آتشزدگی|NN سے|SE متاثرہ|ADJ افراد|NN کے|P لیے|ADV ایک|CA ارب|NN روپے|NN کی|P امداد|NN کی|P اعلان|NN کر|VB چکی|AA ہے|TA ۔|SM
+اور|CC پاؤں|NN میں|P قینچی|ADJ چپل|NN پہنی|VB ہوئی|VB ہے|TA اور|CC وہ|PP جمبو|PN جٹ|PN چلانے|VB کے|P لیے|ADV کاک|ADJ پٹ|NN میں|P آنے|VB کی|P کوششیں|NN کرتا|VB ہے|TA ۔|SM
+میری|G خواہش|NN ہے|VB کہ|SC اس|PD کام|NN کو|P آپ|PP کے|P تعاون|NN کے|P ساتھ|NN مکمل|ADJ کر|VB پاؤں|NN ۔|SM
+قبلہ|ADJ آج|NN ہمیں|PP اس|PD طوطے|NN کی|P اصلیت|NN کے|P بارے|NN میں|P بتا|VB دیجئے|AA ۔|SM
+جنرل|ADJ مشرف|PN نے|P 1999|CA میں|P وزیر|NN اعظم|NN نواز|ADJ شریف|ADJ کی|P حکومت|NN کا|P تختہ|NN الٹ|VB دیا|AA تھا|TA اور|CC وہ|PP 2008|CA تک|P پاکستان|PN کے|P سربراہ|NN رہے|VB ۔|SM
+شگفتہ|NN ،|PM میرا|G آپ|PP سے|SE رابطہ|NN ممکن|ADJ نہیں|NEG ہو|VB رہا|AA
+پیپلز|PN پارٹی|NN کے|P چیئرمین|NN بلاول|ADV بھٹو|NN زرداری|ADJ ،|PM جمعیت|NN علمائے|PN اسلام|PN (|PN ف|PN )|NN کے|P رہنماءمولانا|VB فضل|PN الرحمان|PN سمیت|NN مختلف|ADJ سیاسی|ADJ رہنماﺅں|NN نے|P دھماکے|NN کی|P شدید|ADJ مذمت|NN کی|VB ہے|TA ۔|SM
+پنجاب|PN کو|P توڑنے|VB سے|SE کیا|QW ملے|VB گا|TA
+مگر|SC پھر|ADV اِدھر|NN اُدھر|NN کی|P باتیں|NN کرکے|NN گھر|NN لوٹ|VB آیا|AA ۔|SM
+لاہور|PN میں|P مال|NN روڈ|NN پر|P پھرتے|VB ہوئے|AA مجھے|PP ایک|CA بک|NN سٹال|PN کے|P باہر|NN اشتہار|NN نظر|NN آیا|VB جس|REP پر|P لکھا|VB ہوا|AA تھا|TA کہ|SC سب|Q رنگ|NN کا|P نیا|ADJ شمارہ|NN شائع|ADJ ہو|VB گیا|AA ۔|SM
+یہ|PD لوگ|NN سارا|ADJ سال|NN روزانہ|NEG ڈیڑھ|PN ارب|PN (|PN 1500000000|CA )|EXP روپیہ|NN کے|P حساب|NN سے|SE دولت|NN اُڑا|VB رہے|VB ہیں|TA
+اضافی|ADJ رنز|NN نقصان|NN دے|VB گے|TA
+چاہا|AA کہ|SC اُٹھ|VB کر|VB يہ|ADJ چيزيں|NN واپس|ADJ کر|VB آؤں|NN مگر|SC والدہ|NN نے|P روکا|VB اور|CC کہا|VB :|PM خدا|NN کو|P يہی|I منظور|ADJ ہے|VB تو|SC ہم|PP کيا|PN کريں|NN سب|Q کچھ|Q سہنا|VB ہوگا|TA ۔|SM
+بھئی|ADJ یہ|PP ہندوستان|PN کے|P لوگوں|NN کے|P بولنے|VB کے|P انداز|NN کا|P مسئلہ|NN لگتا|VB ہے|TA ۔|SM
+شمشاد|NN بھائی|PN ٹائپنگ|NN کی|P غلطی|NN تھی|VB اب|AP ٹھیک|ADJ کردیا|NN ہے|TA
+ہن|PN دو|CA گالھیں|NN توڑے|NN ہک|NN نہ|NEG من|U بے|PN وقت|NN سجن|PN کوں|NN اک|NN نہ|NEG کر|VB
+کامروس|PN کے|P نائب|ADJ صدر|NN نے|P کہا|VB کہ|SC طیارہ|NN کا|P ملبہ|NN تلاش|NN کیا|KP جارہا|AA ہے|TA مسافروں|NN کے|P نزدہ|ADJ بچ|VB جانے|AA کے|P متعلق|NN کچھ|Q نہیں|NEG کہا|VB جاسکتا|AA ۔|SM
+وہ|PP تو|I خدا|NN کا|P شکرہے|NN کہ|SC وہ|PP ڈرامے|NN دیکھتی|VB ہے|TA ‘|CA حالانکہ|SC ہر|Q ڈرامے|NN میں|P ایک|CA ہی|I کہانی|NN ہے|VB معاشقہ|NN ،|PM شادی|NN اور|CC طلاق|NN ‘|NN جس|REP طرح|NN ہمارے|G مزاحیہ|ADJ ’|ADJ شاعر|NN ‘|ADJ پڑوسن|NN سے|SE آگے|VB جانے|AA کو|P تیار|ADJ نہیں|NEG ،|PM اسی|PD طرح|NN ہمارے|G ڈرامہ|NN نگار|ADJ عورت|NN اور|CC شادی|NN کے|P سوا|NN کسی|KD موضوع|NN پر|P نہیں|NEG لکھ|VB سکتے|AA ۔|SM
+چمن|NN میں|P خوش|ADJ نوایانِ|NN چمن|NN کی|P آزمائش|NN ہے|VB
+پندرہ|CA فیصد|NN پانی|NN کی|P کٹوتی|NN کے|P بعد|NN جب|AP آج|NN صبح|NN پانی|NN بالکل|ADV نہیں|NEG آیا|VB تو|SC انہیں|PP پانی|NN لینے|VB کے|P لیے|ADV ٹینکر|NN سے|SE پانی|NN لانے|VB کے|P لیے|ADV گھر|NN سے|SE باہر|NN نکلنا|VB پڑا|AA ۔|SM
+چکر|NN تو|SC آئیں|VB گے|TA ویسےاللہ|NN تمہیں|PP کامیابی|NN عطا|NN فرمائے|VB ۔|SM
+لڑکیوں|NN کا|P نہیں|NEG کچھ|Q آپ|PP کو|P دھیان|NN
+سوپور|NN میں|P پولیس|NN کا|P کہنا|VB ہے|TA کہ|SC تھانے|VB پر|P عسکریت|NN پسندوں|NN کے|P حملے|NN میں|P ایک|CA راہگیر|ADJ ہلاک|ADJ جبکہ|SC دو|CA پولیس|NN اہلکار|NN اور|CC تین|CA شہری|NN زخمی|ADJ ہوگئے|AA ۔|SM
+عید|NN کی|P چهٹیاں|NN چاہیئں|AA
+حرم|PN ،|PM پیرِ|NN حرم|PN کی|P کم|ADJ نگاہی|NN کے|P باعث|NN نہیں|NEG ،|PM ہم|PP جیسے|A کبوتران|NN حرم|PN کے|P آنکھیں|NN بند|ADJ کرنے|VB کی|P وجہ|NN سے|SE رسوا|VB ہوا|AA ہے|TA ،|PM گو|SC کہ|SC رسوا|NN نہیں|NEG ہوا|VB !|SM
+چلیں|VB اب|AP آپ|PP تو|I یہاں|AP تشریف|NN رکھیں|VB گے|TA مجھے|PP چلنا|VB ہے|TA کزنز|NN کا|P اصرار|NN ہے|VB کہ|SC آئسکریم|NN کھانے|NN چلا|VB جائے|AA
+آپکا|G بے|PN حد|NN شکریہ|NN اسر|ADJ ڈھیر|NN ساری|ADJ مبارکباد|NN .|SM دعا|NN ہے|VB کہ|SC پاک|ADJ اردو|PN انسٹالر|PN جلد|ADV ہی|I میک|PN بک|PN پر|P بھی|I میسر|ADJ ہوگا|VB آمین|NN
+خمیوں|NN کے|P دروازے|NN کھلے|VB تھے|TA ۔|SM
+باہر|NN کا|P موسم|NN تو|I اچھا|ADJ ہی|I ہے|VB ۔|SM
+وعلیکم|PN السلام|PN مغل|PN لالہ|NN !|SM
+خط|NN کہانی|NN (|EXP 2|CA )|EXP
+میر|ADJ صاحب|NN کو|P جو|REP تاؤ|NN آیا|VB تو|SC گھوڑے|NN کو|P رخ|NN سے|SE مار|VB دیا|AA ۔|SM
+یہ|PP اردو|PN ایڈیٹر|NN کو|P کیا|VB ہورہا|VB ہے|TA ۔|SM
+کیونکہ|SC انہوں|PP نے|P لکھا|VB
+یقینا|ADV ہمارے|G پاس|NN (|NN ان|PP کے|P لیے|ADV )|ADJ بیڑیاں|NN ہیں|VB اور|CC ایک|CA سلگتی|ADJ آگ|NN ہے|VB ۔|SM
+ہ|SC اس|PD دن|NN کے|P حوالے|NN سے|SE کوئی|Q یادگار|ADJ تحفہ|NN جو|REP اب|AP بھی|I آپ|PP کے|P ساتھ|NN ہو|VB ؟|SM
+"|PM لو|PN لاک|PN "|PM دراصل|ADV اس|PD حدیثِ|NN قدسی|NN کی|P طرف|NN اشارہ|NN ہے|VB جسکا|PN مفہوم|NN یہ|PP ہے|VB کہ|SC "|PM مخلوق|NN میں|P اگر|SC آپ|PP نہ|NEG ہوتے|VB تو|I میں|P کائنات|NN کی|P تخلیق|NN بھی|I نہ|NEG کرتا|VB "|PM
+بھیا|PN جی|PN ہماری|G دعائیں|NN اور|CC نیک|ADJ تمنائیں|NN آپ|PP کے|P ساتھ|NN ۔|SM
+امید|NN ہے|VB کلین|PN ٹچ|PN والے|WALA اسکا|G سورس|PN بھی|I فراہم|ADJ کر|VB دیں|AA گے|TA !|SM
+"|PM بیس|CA تانگے|NN "|PM کسی|KD نے|P اچانک|ADV زور|NN سے|SE کہا|VB ۔|SM
+مبارک|VB ہو|VB بہت|ADV بہت|ADV خوشی|NN بھی|I ہو|VB رہی|AA ہے|TA اور|CC "|PM ہمدردی|NN "|PM بھی|I
+کوئی|Q ان|PD جگہوں|NN پر|P گھوم|VB پھر|CA کر|VB کرے|VB گا|TA بھی|I کیا|VB
+ابھی|AP مجھے|PP اپنے|GR پیجز|NN بھی|I کرنے|VB ہیں|TA ۔|SM
+مزے|NN کی|P بات|NN یہ|PP ہے|VB کہ|SC سندھ|NN کی|P ثقافت|NN پر|P عربوں|NN نے|P اتنا|Q حیرت|NN انگیز|ADJ اثر|NN نہیں|NEG چھوڑا|VB جتنا|Q سندھیوں|NN نے|P عرب|PN ثقافت|NN پر|P چھوڑا|VB ہے|TA ۔|SM
+(|ADJ نسیم|NN اختر|PN )|PN
+میں|P یاد|NN کرا|VB دیتا|AA ہوں|TA جناب|I کو|P !|SM
+میں|PP نے|P تقریباً|ADV سب|Q کو|P ایس|PN ایم|PN ایس|PN کر|VB کے|P پوچھا|VB ۔|SM
+مختلف|ADJ شہروں|NN میں|P حزب|ADJ اختلاف|NN کے|P رہنماؤں|NN نے|P عوام|NN سے|SE اپنے|GR خطاب|NN میں|P منموہن|ADJ سنگھ|PN کی|P عوام|NN مخالف|ADJ پالیسیوں|NN کے|P لیے|ADV سخت|ADJ نکتہ|NN چینی|NN ۔|SM
+نیوز|PN چینلز|NN پر|P تو|I دکھایا|VB ہی|I گیا|VB تھا|TA اسے|PP ۔|SM
+اس|PP نے|P حضور|PN نبی|PN اکرم|PN صلی|PN اللہ|PN علیہ|PN وآلہ|PN وسلم|PN کے|P ساتھ|NN نماز|NN پڑھی|VB ۔|SM
+میں|PP بھی|I کسی|KD کو|P مس|PN کر|VB رہی|AA ہوں|TA پر|P بتاؤں|VB گی|TA نہیں|NEG کہ|SC کس|KP کو|P
+کبھی|AKP غلطی|NN سے|SE نہیں|NEG دیکھا|VB کسی|KD خادمہ|NN نے|P کچھ|Q اچھا|ADJ پہن|VB رکھا|VB ہر|Q ہمیشہ|ADV گندے|ADJ کپڑے|NN جس|REP میں|P شخصیت|NN مسخ|VB رہے|AA رکھا|AA جاتا|AA ہے|TA ۔|SM
+مشہور|ADJ مؤرخ|NN احمد|NN بن|VB یحییٰ|PN بلاذری|NN کے|P بقول|NN حضرت|I عمرؓ|NN نے|P اپنے|GR دور|NN میں|P اونٹوں|NN کی|P کھال|NN سے|SE درہم|NN بنانے|VB کا|P ارادہ|NN کر|VB لیا|AA تھا|TA مگر|SC اس|PD خدشے|NN سے|SE اِرادہ|ADJ ترک|NN کر|VB دیا|AA کہ|SC اس|PD طرح|NN تو|I اونٹ|NN ہی|I ختم|ADJ ہو|VB جائیں|AA گے|TA ۔|SM
+قومی|ADJ اسمبلی|NN کے|P ان|PD انتخابابی|ADJ حلقوں|NN میں|P ڈیرہ|NN غازی|ADJ خان|NN ،|PM راجن|PN پور|PN ،|PM مظفر|PN گڑھ|PN ،|PM لیہ|PN ،|PM پہاولپور|NN اور|CC رحیم|NN یار|PN خان|NN کے|P اضلاع|NN شامل|ADJ ہیں|VB ۔|SM
+راولپنڈی|PN میں|P لال|NN کرتی|VB اور|CC چھائونی|NN میں|P بھی|I ایسا|PP ہی|I تھا|VB ۔|SM
+آپ|PP ہی|I نے|P تو|I کہا|VB ہے|TA کہ|SC ہم|PP "|PM شریف|ADJ "|PM ہیں|VB تو|SC ہماری|G "|PM شرافت|NN "|PM کا|P کوئی|Q ناجائز|ADJ فائدہ|NN اٹھائے|VB اس|PP سے|SE پہلے|NN .|SM
+تا|CC ہم|PP انھوں|NN نے|P دعوت|NN الی|ADJ اللہ|PN کا|P سلسلہ|NN جاری|ADJ رکھا|VB ۔|SM
+سمجھا|VB کریں|VB نا|ADV ۔|SM
+کتنی|Q بار|NN ایک|CA ہی|I بکواس|NN کروں|VB یار|NN میں|P تو|I تھک|VB گیا|AA لوگون|NN میں|P عقل|NN بانٹ|NN بانٹ|VB کر|VB
+اس|PD سیلاب|NN میں|P ڈوب|VB رہا|AA تھا|TA ۔|SM
+حال|NN ہی|I میں|P دونوں|OR ممالک|NN کے|P درمیان|NN حالات|NN اس|PD وقت|NN کشیدہ|ADJ ہوگئے|AA تھے|TA جب|AP ارونا|VB چل|VB پردیش|NN کے|P مسئلے|NN پر|P بھارت|NN نے|P سخت|ADJ رخ|NN اختیار|NN کرتے|VB ہوئے|AA کہا|VB تھا|TA ’|PM ارونا|VB چل|VB پردیش|ADJ بھارت|NN کا|P اٹوٹ|NN حصہ|NN ہے|VB ‘|NN اور|CC بھارت|NN نے|P چین|PN سے|SE پاکستان|PN کے|P زیر|NN انتظام|NN کشمیر|NN ميں|NN اپنے|GR منصوبے|NN بند|ADJ کرنے|VB کی|P بھی|I بات|NN کہی|VB تھی|TA ۔|SM
+ان|PP کا|P مزید|ADJ کہنا|VB تھا|TA ’|CA تین|CA دن|NN سے|SE ہمیں|PP آٹا|NN دستیاب|ADJ نہیں|NEG تھا|VB اس|PP لیے|ADV سب|Q آج|NN بیکری|PN گئے|VB تھے|TA ۔|SM
+پھر|ADV ایک|CA ایک|CA آیت|NN کے|P بالمقابل|ADV اس|PP کا|P ترجمہ|NN پڑھیں|VB ،|PM اور|CC آخر|NN میں|P قرآن|PN کے|P اس|PD پورے|ADJ حصے|NN کا|P ترجمہ|NN مسلسل|ADJ ایک|CA عبارت|NN کے|P طور|NN پر|P پڑھ|VB ڈالیں|VB ،|PM تاکہ|SC اچھی|ADJ طرح|NN یہ|PD بات|NN ذہن|NN نشین|NN ہو|VB جائے|AA کہ|SC آج|NN آپ|PP نے|P جتنا|Q قرآن|PN پڑھا|VB ہے|TA اس|PP کا|P مطلب|NN کیا|VB ہے|TA ۔|SM
+جب|AP بیٹھنے|VB کے|P قریب|NN ہوں|VB تب|AP بدن|NN سے|SE کپڑا|NN ہٹائیں|VB ۔|SM
+یہ|PP تو|I زین|NN کی|P سالگرہ|NN کا|P دھاگہ|NN ہے|VB ۔|SM
+اس|PD کتاب|NN 200|CA مشہور|ADJ ضعیف|ADJ احادیث|NN کو|P آن|PN لائن|NN پڑھنے|VB یا|CC ڈاؤن|PN لوڈ|NN کرنے|VB کے|P لیے|ADV یہاں|AP کلک|NN کریں|VB
+280|CA رنز|NN کے|P ہدف|NN کے|P تعاقب|NN میں|P بھارت|NN کے|P اوپنرز|PN شیکھر|PN دھاون|PN اور|CC روہیت|NN شرما|PN نے|P 50|CA رنز|NN کا|P سست|ADJ آغاز|NN فراہم|ADJ کیا|VB لیکن|SC دو|CA مسلسل|ADJ اوورز|NN میں|P اوپنرز|NN کے|P آؤٹ|NN ہونے|VB کے|P بعد|NN بھارت|NN کو|P منزل|NN تک|P پہنچانے|VB کا|P کارنامہ|NN کوہلی|NN اور|CC راہانے|NN نے|P انجام|VB دیا|AA ۔|SM
+کیا|QW سمجھ|VB کر|KER بولے|VB جارہی|VB ہو|TA آپ|PP ؟|SM
+جی|PN ،|PM ہمارے|G ہاں|INT بھی|I دوسروں|PP کا|P درد|NN محسوس|ADJ کرنے|VB والوں|WALA کی|P کمی|NN ہرگز|ADV نہیں|NEG ہے|VB مگر|SC بعض|Q اوقات|NN خودنمائی|NN کی|P خواہش|NN غالب|ADJ آ|VB جاتی|AA ہے|TA ہمارے|G لوگوں|NN پر|P ۔|SM
+الف|PN نظامی|NN ,|PM جولائی|PN 15|CA ,|PM 2008|CA
+میں|PP پارکوں|NN اور|CC مسجدوں|NN میں|P بیٹھتا|VB ہوں|TA اور|CC دیکھتا|VB ہوں|TA کہ|SC لوگ|NN مجھے|PP ذرا|NN بھی|I توجہ|NN نہیں|NEG دیتے|VB بلکہ|SC دیکھتے|VB تک|P نہیں|NEG ۔|SM
+واہ|INT جی|PN یہاں|AP تو|I نیا|ADJ رنگ|NN روغن|NN ہو|VB گیا|AA ،|PM بہت|ADV اچھا|ADJ لگ|VB رہا|AA ہے|TA ۔|SM
+انھوں|NN نےمزید|PN لکھا|VB :|PM ’|NN میں|P تو|I اس|PD وقت|NN بھی|I رائلٹی|NN لیتی|VB تھی|TA لیکن|SC میں|PP چاہتی|VB تھی|TA کہ|SC سب|Q گلوکاروں|NN کے|P لیے|ADV رائلٹی|VB ہو|TA ۔|SM
+کم|ADJ از|P کم|ADJ کراچی|NN والا|WALA مشاہدہ|NN تو|SC بالکل|ADV ٹھیک|ADJ ہے|VB ۔|SM
+میرا|G اُردو|PN محفل|NN میں|P سب|Q سے|SE پہلا|OR پیغام|NN اس|PD فونٹ|NN کے|P حصول|NN کے|P لئے|NN تھا|VB ۔|SM
+اک|NN مسئلہ|NN محب|NN ہم|PP جس|REP کا|P ٹھہر|VB گئے|VB ہیں|TA
+مسلمان|PN سائنس|NN دانوں|NN نے|P علومِ|NN جدیدہ|PN کی|P بنیاد|NN رکھتے|VB ہوئے|AA سائنٹیفک|PN سوچ|NN کے|P دروازوں|NN پر|P پڑے|VB قُفل|ADJ توڑے|NN اور|CC ذِہنِ|NN جدید|ADJ کو|P کشادگی|NN اور|CC وُسعت|NN کے|P جواہر|NN سے|SE آراستہ|ADJ کیا|VB ۔|SM
+بتائیں|ADV اس|PP کے|P لئے|NN ہم|PP کہاں|AKP گدگدی|NN لگائیں|VB آپ|PP کو|P ؟|SM
+گروجی|NN -|PM 0|CA
+میری|G آنکھوں|NN کو|P عادت|NN ہو|VB گئی|AA ہے|TA
+میرے|G اردگرد|NN کا|P حال|NN کچھ|Q یوں|AP ہے|VB کہ|SC رات|NN کے|P دس|CA بجنے|VB والے|WALA ہیں|VB اور|CC سونے|VB کی|P تیاری|NN ہو|VB رہی|AA ہے|TA ۔|SM
+اوہ|INT بہت|ADV شکریہ|NN آپکا|VB ۔|SM
+مکرمی|PN جناب|I شاکر|PN القادری|PN صاحب|I شکریہ|NN
+مگر|SC صاحب|NN ،|PM ہندو|PN رشوت|NN لینے|VB میں|P بھی|I ایسی|AD نمرتا|NN (|PN انکسار|PN )|PN ایسا|PP اخلاق|NN اور|CC اعتدال|NN برتتا|VB ہے|TA کہ|SC واللہ|ADJ دوبارہ|ADV دینے|VB کو|P جی|PN چاہتا|VB ہے|TA ۔|SM
+گوگل|PN انڈیا|PN نے|P بھارت|NN میں|P ادارے|NN کی|P تشہیر|NN کے|P لیے|ADV ایک|CA عدد|NN اشتہار|NN Reunion|NN بنایا|VB ہے|TA کہ|SC جس|REP میں|P گوگل|PN سرچ|PN کی|P سہولیات|NN مثلاً|ADV موسم|NN کا|P حال|NN جاننے|VB ،|PM پروازوں|NN کا|P شیڈول|NN معلوم|ADJ کرنے|VB کا|P طریقہ|NN اور|CC گوگل|ADJ پلس|NN وغیرہ|NN کی|P افادیت|NN کو|P بہت|ADV اچھے|ADJ انداز|NN میں|P پیش|NN کیا|VB گیا|AA ہے|TA ۔|SM
+کھانا|NN کھانے|NN کے|P بعد|NN دانتوں|NN کا|P خلال|NN کرتے|VB ہیں|TA یا|CC نہیں|NEG ؟|SM
+دل|NN کو|P خوش|ADJ رکھنے|VB کو|P خیال|NN اچھا|ADJ ہے|VB جھولا|AA لگا|VB ہوا|AA ہے|TA تمہارے|G گھر|NN میں|P ۔|SM
+4|CA میں|P پطرس|PN بخاری|ADJ روڈ|PN پر|P واقع|ADJ ہے|VB ۔|SM
+اپنی|GR زبان|NN سے|SE ہے|VB عزت|NN جہاں|AP میں|P اپنی|GR
+اور|CC عید|NN کی|P کیا|QW تیاری|NN ہے|VB ۔|SM
+خیر|NN !|SM شیخ|NN چلی|VB کیا|KP بیچتا|VB ہے|TA ہمارے|G سامنے|NN ؟|SM
+عصمت|NN انبیاء|NN کے|P معنی|NN یہ|PP ہیں|VB کہ|SC انبیاء|PN کرام|PN کے|P لئے|NN اللہ|ADJ تعالی|NN کی|P طرف|NN سے|SE حفاظت|NN کا|P وعدہ|NN ہے|VB ۔|SM
+’|PN (|PN اللہ|PN )|PN وہی|PP ہے|VB جو|REP (|EXP ماؤں|NN کے|P )|ADJ رحموں|NN میں|P تمہاری|G صورتیں|NN جس|REP طرح|NN چاہتا|VB ہے|TA بناتا|VB ہے|TA ۔|SM
+ہاں|INT آپ|PP کی|P اس|PD بات|NN سے|SE تو|I میں|P سو|CA فیصد|NN متفق|ADJ ہوں|VB ،|PM تو|SC پھر|ADV آپ|PP حلیم|ADJ بنانے|VB کا|P وقت|NN لے|VB لیجئے|AA اور|CC کسی|KD استاد|NN کی|P تلاش|NN شروع|NN کر|VB دیں|AA ۔|SM
+میری|G ایک|CA چھوٹی|ADJ بہن|NN انٹر|PN (|PN سیکنڈ|OR یر|PN )|PN ہوم|PN اکنامکس|PN میں|P ہے|VB اور|CC ایک|CA چھوٹی|ADJ بہن|NN تیسری|OR جماعت|NN میں|P ہے|VB
+یہ|PD بات|NN تحقیق|NN طلب|NN ہے|VB کہ|SC اقبال|NN کو|P تصور|NN پاکستان|PN کے|P خالق|NN کے|P طور|NN پر|P کب|AKP اور|CC کہاں|AKP شروع|NN کیا|VB گیا|AA ۔|SM
+ممنون|PN ہوں|TA اسامہ|NN بھائی|NN
+اوئے|VB ہوئے|AA لگتاہے|TA دل|NN کو|P گہرا|ADJ زخم|NN لگا|VB ہے|TA ;|PM -|PM )|EXP
+اور|CC ذرا|NN یہ|PP بھی|I بتائیں|VB کہ|SC مرزا|ADJ صاحب|NN پر|P جو|REP اوپر|NN آپ|PP نے|P کنزالعمال|NN میں|P تحریف|NN کا|P سراسر|ADJ ناپاک|ADJ الزام|NN لگایا|VB تھا|TA ،|PM اب|AP امام|NN جلال|PN الدین|PN سیوطی|PN رحمہ|PN اللہ|PN پر|P بھی|I لگانے|VB کی|P جسارت|NN کریں|VB گے|TA ؟|SM
+منی|ADJ بھون|NN جہاں|AP صدر|NN اوباما|PN مہاتما|PN گاندھی|PN کو|P خراج|ADJ عقیدت|NN پیش|NN کرنے|VB جائیں|AA گے|TA اسے|PP چار|CA نومبر|PN سے|SE ہی|I بند|ADJ کر|VB دیا|AA گیا|AA ہے|TA ۔|SM
+ابھی|AP تو|I نیند|NN نہیں|NEG آ|VB رہی|AA ،|PM جب|AP نیند|NN آ|VB جائے|AA گی|TA ،|PM سو|VB جائیں|AA گے|TA ان|PD شاء|NN اللہ|PN ۔|SM
+سکیٹنگ|PN بوٹ|PN استعمال|NN کریں|VB
+فرشتہ|NN ہو|VB ،|PM خُدا|NN ہو|VB ،|PM کچُھ|NN بھی|I ہو|VB ،|PM اِنساں|NN نہیں|NEG ہوتا|VB
+پیارے|NN بھائی|PN ،|PM جو|REP لنک|PN پسند|NN ہو|VB وہی|PP دیکھ|VB لو|PN ۔|SM
+661|CA تا|ADV 680|CA از|P 1,040|CA لڑیوں|NN کی|P نمائش|NN
+ایک|CA بھی|I چلی|VB نہیں|NEG دکھائی|VB دے|AA رہی|AA
+یہ|PD مسئلہ|NN کیسے|AKP حل|NN ہو|VB گا|TA ؟|SM
+اُسکی|G یہ|PP محفل|NN عصر|NN سے|SE پہلے|NN سجتی|VB تھی|VB اور|CC مہمانوں|NN کے|P آنے|VB جانے|AA کا|P سلسلہ|NN عشاء|PN کے|P بعد|NN تک|P چلتا|VB تھا|TA ۔|SM
+کچھ|Q مرے|PN جینے|VB کی|P صورت|NN نکل|VB آئی|AA ہوتی|VB
+وارث|PN بھائی|NN یہ|PP کیا|QW کہانی|NN ہے|VB ؟|SM
+انہوں|PP نے|P کہا|VB کہ|SC درآل|ADJ ندی|NN بحرین|PN شہر|NN کے|P درمیان|NN سے|SE گزرتی|VB ہے|TA اور|CC اس|PD ندی|NN کے|P دونوں|OR جانب|NN آٹھ|CA دیہات|NN کے|P ہزاروں|Q افراد|NN آباد|ADJ ہیں|VB ۔|SM
+ویسے|ADJ شاید|ADV اس|PP کے|P پیچھے|NN بھی|I وہی|PD انسان|NN “|EXP پر|P از|P طمع|ADJ فطرت|NN “|VB ہے|TA ۔|SM
+ریگِ|NN صحرا|VB ہے|TA رواں|ADJ اور|CC ہوا|VB ساکن|ADJ ہے|VB
+اور|CC ان|PP کے|P زیرانتظام|NN علاقوں|NN میں|P رہنے|VB والے|WALA تمام|Q شہریوں|NN کو|P تسلیم|NN کرنا|VB پڑے|AA گا|TA کہ|SC اسلام|NN وہی|PP ہے|VB ۔|SM
+اس|PD دوران|NN ان|PP کے|P بھائ|PN ہوسٹن|PN ٹيکسس|PN ميں|NN ملازمت|NN کر|VB رہے|AA تھے|TA ۔|SM
+ظلم|NN ہو|VB گا|TA اگر|SC اس|PD ننھی|ADJ سی|A کار|NN پر|P طویل|ADJ سفر|NN کیا|VB جائے|AA ۔|SM
+حاضر|ADJ ہوں|VB دل|NN و|CC جاں|NN سے|SE گرچہ|NN جگنو|VB ہوں|TA ذرا|NN سا|A
+ناگپور|NN میں|P ہیں|VB یا|CC حیدر|ADJ آباد|ADJ چلے|VB گئے|AA ہیں|TA ؟|SM
+امریکی|ADJ صدر|NN کے|P سامنے|NN جس|REP طرح|NN ”|EXP چٹیں|NN “|NN پڑھی|VB جا|AA رہی|AA تھیں|TA ہے|TA نہ|NEG ،|PM جہاں|AP تک|P طارق|ADJ ملک|NN کا|P تعلق|NN ہے|VB تو|SC وہ|PP شکر|NN ادا|NN کریں|VB عدلیہ|NN اور|CC میڈیا|NN اُن|PP کے|P ساتھ|NN کھڑے|ADJ ہوگئے|AA ہیں|TA ۔|SM
+آل|PN راؤنڈر|PN فواد|NN عالم|ADJ اور|CC اوپنر|PN عمران|PN فرحت|PN سلیکٹرز|PN کا|P اعتماد|NN حاصل|ADJ کرنے|VB میں|P کامیاب|ADJ نہیں|NEG ہو|VB سکے|AA ہیں|TA ۔|SM
+بس|PN اِس|PD طاقت|NN کو|P مجتمع|NN ،|PM متحد|ADJ اور|CC متحرک|ADJ کرنے|VB کی|P دیر|NN ہے|VB ،|PM تواِس|PN کار|NN خیر|NN میں|P اب|AP دیر|NN کاہے|NN کی|P ؟|SM
+وہ|PP کیا|VB ہے|TA اس|PD نئے|ADJ دور|NN میں|P پرانی|ADJ باتیں|NN نہیں|NEG کرنی|VB چاہیئے|AA اس|PP میں|P ہی|I ہم|PP سب|Q کی|P بھلائی|NN ہے|TA ۔|SM
+ارے|NN او|PN جفاؤں|NN پہ|SC چپ|NN رہنے|VB والو|PN
+اور|CC ہو|VB بھی|I تو|I ہم|PP اس|PP سے|SE کیا|VB لینا|AA دینا|AA
+تن|NN پر|P اس|PP کی|P روشنی|NN آنکھوں|NN میں|P اس|PP کی|P لَو|NN
+تو|SC کیا|QW بھیا|VB کے|P بچے|NN بھی|I ہیں|VB ؟|SM
+بہت|ADV مزے|NN کا|P موسم|NN ہے|VB ۔|SM
+دو|CA بجے|NN نکل|VB رہا|AA ہوں|TA ۔|SM
+لیکن|SC یہ|PD بات|NN صرف|Q بیٹوں|NN تک|P ہی|I محدود|ADJ نہیں|NEG
+اطائب|PN الاکسیر|PN فی|Q علم|NN التکسیر|PN (|NN 1296|CA ھ|CA )|PN
+شمشاد|NN بھائی|NN نظر|NN آ|VB رہے|AA ہیں|TA آ|VB جائیں|AA جناب|I
+جڑ|NN نہ|NEG سکا|AA تو|SC کیا|VB ہو|AA گا|TA
+فلک|PN نے|P انکو|PN عطا|NN کی|VB ہے|TA خواجگی|NN کہ|SC جنہیں|REP
+مجھے|PP ڈھونڈ|VB دل|NN کی|P تڑپ|NN میں|P تو|I مجھے|PP دیکھ|VB روئے|ADJ نگار|NN میں|P
+بے|PN شک|NN الله|PN مسلمانوں|NN سے|SE راضی|ADJ ہوا|VB جب|AP وہ|PP آپ|PP سے|SE درخت|NN کے|P نیچے|NN بیعت|NN کر|VB رہے|AA تھے|TA پھر|SC اس|PP نے|P جان|PN لیا|VB جو|REP کچھ|Q ان|PP کے|P دلو|NN ں|VB میں|P تھا|VB پس|SC اس|PP نے|P ان|PP پر|P اطمینان|NN نازل|MUL کر|VB دیا|AA اور|CC انہیں|PP جلد|ADV ہی|I فتح|NN دے|VB دی|AA
+پائتھون|PN شیل|PN پر|P کوئی|Q بھی|I چیز|NN ٹائپ|PN کرکے|PN فورا|PN اس|PP کا|P نتیجہ|NN دیکھا|VB جا|AA سکتا|AA ہے|TA ،|PM یہ|PP syntax|NN چیک|NN کرنے|VB اور|CC سادہ|ADJ حساب|NN کتاب|NN کے|P لیے|ADV تو|I ٹھیک|ADJ ہے|VB مگر|SC اگر|SC پروگرام|NN کسی|KD فائل|NN میں|P لکھا|VB ہے|TA تو|SC وہ|PP شیل|PN کی|P طرح|NN اظہاریے|NN نہیں|NEG دکھائے|VB گا|TA ۔|SM
+بہت|Q سے|A لوگ|NN برسوں|NN سے|SE kde|CA اور|CC نوم|NN کے|P منصوبوں|NN پر|P نام|NN لکھوائے|VB بیٹھے|VB ہیں|TA ،|PM مگر|SC ان|PP کی|P تکمیل|NN کبھی|AKP قریب|NN نہیں|NEG آتی|VB ۔|SM
+ایتھے|ADJ دنیا|NN وچ|PN انھیرا|PN ہے|TA
+وفا|PN کا|P عہد|NN تھا|VB -|PM احسان|NN دانش|NN
+چلیں|VB اب|AP قیصرانی|ADJ بھائی|NN کو|P ہی|I بولتے|VB ہیں|TA کہ|SC وہ|PP اپنے|GR اسمارٹ|NN دور|NN کی|P دو|CA ایک|CA تصاویر|NN لگا|VB ماریں|NN
+اعجاز|PN اختر|PN صاحب|NN کا|P نام|NN بھی|I شام|NN کر|VB لیں|AA انہوں|PP نے|P کئ|PN اردو|PN کیبورڈ|PN بنائے|VB ہیں|TA ۔|SM
+ہماری|G اسکول|NN میں|P مختلف|ADJ لڑکوں|NN سے|SE گہری|ADJ دوستی|NN تھی|VB ان|PP میں|P ایک|CA ظہیر|ADJ الدین|ADJ بابر|PN بھی|I تھے|VB ۔|SM
+کیا|QW یہ|PP خطرناک|ADJ ہوتی|VB ہیں|TA ؟|SM
+البتہ|SC پہلے|NN مجھے|PP یہ|PP دیکھنا|VB ہوگا|TA کہ|SC اس|PP کی|P ضرورت|NN بھی|I ہے|VB یا|CC نہیں|NEG ۔|SM
+اللہ|NN عزوجل|PN ان|PP کے|P درجات|NN بلند|ADJ فرمائے|VB
+بنی|VB اسرائیل|PN کو|P عطا|NN کردہ|ADJ نعمت|NN
+بس|NN اس|PD بڑھیا|ADJ کو|P برق|NN بنا|VB ہوا|AA دیکھ|VB کر|KER پنجہ|NN کمر|NN میں|P دے|VB کر|KER اڑا|VB اور|CC یہاں|AP لشکر|NN میں|P غل|VB ہوا|VB کہ|SC لیے|ADV جاتکا|VB ہے|TA مگر|SC حسب|NN ہدایت|NN قران|NN کسی|KD نے|P مقابلہ|NN نہیں|NEG کیا|VB ۔|SM
+مجھے|PP یہ|PD بتائیں|VB کہ|SC یہپیج|PN /|EXP مسیج|NN میں|P اپنی|GR بہن|NN کو|P کیسے|AKP میل|U کروں|VB
+شمشاد|NN بھائی|PN ،|PM نو|CA وکٹیں|NN باقی|ADJ ہیں|VB ،|PM چانس|PN لیں|VB ،|PM اگر|SC دیکھیں|VB کہ|SC خزاں|NN رت|NN آ|VB رہی|AA ہے|TA تو|SC اپنے|GR بابے|NN مصباح|NN اور|CC یونس|PN کب|AKP کم|ADJ آئیں|VB گے|TA
+نعمان|NN ،|PM میں|P بہت|ADV ادب|NN کے|P عرض|NN کرنا|VB چاہوں|AA گا|TA کہ|SC یا|CC تو|SC آپ|PP لاعلم|VB ہیں|VB یا|CC پھر|ADV آپ|PP دوسروں|NN کے|P کہے|VB گئے|AA جھوٹ|NN کو|P دہرا|VB رہے|AA ہیں|TA ۔|SM
+کسی|KD نے|P پائیں|VB سراب|NN آنکھیں|NN
+ویسے|ADJ یہ|PP جتنے|Q برساتی|ADJ مینڈک|NN ٹرا|VB رہے|AA ہیں|TA خصوصا|ADJ محمد|PN علی|PN درانی|PN سب|Q سیاسی|ADJ ڈرامے|NN بازی|NN ہے|TA ورنہ|SC اس|PD ملک|NN میں|P جانے|VB کیا|KP کچھ|Q ہو|VB چکا|AA ہوتا|VB ۔|SM
+ممبئی|ADJ حملے|NN ایک|CA اور|CC زاویے|NN سے|SE "|PM انڈین|PN روزنامہ|ADJ سیاست|NN سے|SE ایک|CA خبر|NN "|PM
+شمشاد|NN چاچو|PN میسینگ|PN یو|PN
+مزاحیہ|ADJ خبرنامہ|NN لکھنے|VB میں|P جواب|NN نہیں|NEG رکھتا|VB ،|PM محفل|NN پر|P الیکشن|NN اور|CC موسم|NN کی|P خبریں|NN اس|PP کا|P جیتا|VB جاگتا|VB ثبوت|NN ہیں|VB ۔|SM
+ابھی|AP تو|I اُسے|PP آکسیجن|NN کے|P لالے|NN پڑیں|VB گے|TA !|SM ابھی|AP تو|I اُسے|PP اُس|PD قبر|NN پر|P بھی|I ٹیکس|NN ادا|NN کرنا|VB ہوگا|TA جس|REP میں|P دفن|NN ہونے|VB کیلئے|AA وہ|PP بے|PN تاب|NN ہے|VB !|SM
+11|CA رنز|NN دے|VB کر|KER حریف|NN کے|P 6|CA بلے|NN بازوں|NN کو|P پویلین|NN لوٹانا|VB ان|PP کی|P بہترین|ADJ کارکردگی|NN تھی|VB ۔|SM
+بکرا|NN رسا|NN کھلتے|VB ہی|I پہاڑی|NN کی|P طرف|NN پگڈنڈی|NN پر|P بھاگ|VB نکلا|VB ۔|SM
+ویب|PN ڈیولپمنٹ|PN کا|P مجھے|PP بالکل|ADV زیرو|ADJ تجربہ|NN ہے|VB اس|PD لئے|NN پایئتھن|NN ،|PM روبی|ADJ وغیرہ|NN میں|PP نے|P نہیں|NEG سیکھیں|VB ۔|SM
+جنگ|NN میدان|NN میں|P ہوتی|VB ہے|TA
+بائبل|ADV کی|P باقاعدہ|ADJ سوسائٹی|NN موجود|ADJ ہے|VB ان|PP سے|SE کیوں|QW نہیں|NEG رابطہ|NN کرکے|NN اسے|PP یونیکوڈ|PN میں|P بھی|I شائع|ADJ کرنے|VB کا|P کہا|VB جاتا|AA ۔|SM
+ابھی|AP تو|I ٹورنامنٹ|PN کے|P ابتدائی|ADJ دن|NN ہیں|VB ۔|SM
+بہت|ADV شکریہ|NN ظفری|NN اور|CC لطف|NN کی|P بات|NN یہ|PP ہے|VB کہ|SC یہی|PD شعر|NN میرا|G بھی|I پسندیدہ|ADJ ہے|VB
+آہنگ|ADJ طرب|NN پر|P جھک|VB جانا|AA
+مجھے|PP کیا|QW پتا|NN میں|P تو|I اپکو|PN نومبر|PN کے|P آخر|NN میں|P بتا|VB سکتا|AA ہوں|TA کہ|SC ہوا|VB کیا|KP تھا|TA
+گفتگو|NN نہیں|NEG کرتا|VB ،|PM صبح|NN بخیر|VB تو|SC پھر|ADV بھی|I کر|VB لیتا|AA !|SM
+ہم|PP کو|P اس|PP میں|P فلورنس|NN کے|P فدا|NN کارِ|NN حقیقت|NN گلیلیو|NN کا|P نام|NN بھی|I ملتا|VB ہے|TA ،|PM جو|REP اپنی|GR معلومات|NN و|CC مشاہدات|NN کو|P اس|PP لیے|ADV جھٹلا|VB نہ|NEG سکا|AA کہ|SC وقت|NN کی|P عدالت|NN کے|P نزدیک|NN انکا|NN اظہار|NN جرم|NN تھا|VB ۔|SM
+اسکے|G علاوہ|NN جہاں|AP بھی|I مجھ|PP سے|SE ممکن|ADJ ہو|VB سکا|AA ڈنمارک|NN کی|P شرانگیزی|NN کی|P مخالفت|NN جاری|ADJ رکھوں|VB گا|TA ۔|SM
+اگلے|ADJ دن|NN اس|PP نے|P پیسہ|NN پورا|ADJ کر|VB کے|P بیٹے|NN کے|P لئے|NN نئی|ADJ بائیسکل|NN خرید|VB دی|VB ۔|SM
+کنیزوں|NN کی|P طرح|NN اپنی|GR رفیقوں|NN کو|P لیے|ADV
+مجھے|PP حیرت|NN اس|PD بات|NN کی|VB ہے|TA کہ|SC اس|PD اسلام|NN مخالف|ADJ فلم|NN کے|P خالقین|NN ،|PM فنڈنگ|PN کرنے|VB والے|WALA سب|Q کے|P سب|Q صیہونی|NN یہود|ADV ہیں|VB ،|PM اسکے|G باوجود|NN امریکی|PN سفارت|NN خانوں|NN پر|P ہلہ|NN بولنے|VB کی|P کیا|QW منطق|NN ہے|VB ؟|SM
+یہ|PP چھ|CA ہزار|CA پسندیدگیاں|NN اور|CC اس|PP سے|SE زیادہ|Q پسندیدگی|NN کے|P مراسلے|NN ہمارے|G لیے|ADV بیش|ADJ قیمت|NN سرمایہٗ|NN حیات|NN ہیں|VB ۔|SM
+20|CA واں|NN اوور|NN 7|CA سکور|NN
+میں|PP نے|P ایسی|AD کیا|QW بات|NN لکھ|VB دی|AA ؟|SM
+یہ|PP جو|REP ہر|Q مسلمان|NN کی|P جیب|NN میں|P دو|CA دو|CA موبائل|NN فون|NN بج|VB رہے|AA ہیں|TA تو|SC یہ|PP بھی|I یہود|ADJ و|CC ہنود|NN کی|P سازش|NN ہے|VB ۔|SM
+یہ|PP وہی|PP تھے|VB جو|REP حماس|NN کو|P مذاکرات|NN کی|P میز|NN پر|P لے|VB کر|VB آئے|AA انہیں|PP رضامند|ADJ کیا|VB کہ|SC وہ|PP اسرائیل|PN پر|P راکٹ|PN داغنا|VB بند|ADJ کریں|VB اور|CC جنگ|NN بندی|NN کے|P لیے|ADV کوششوں|NN میں|P حصہ|NN لیں|VB ۔|SM
+اُن|PP کے|P دادا|NN کا|P نام|NN جناح|ADJ میگجی|NN تھا|VB جوکہ|SC کاٹھیاوار|NN کی|P ریاست|NN گوندل|NN میں|P بھاٹیا|ADJ نسل|NN سے|SE تعلق|NN رکھتے|VB تھے|TA ۔|SM
+مہمان|NN ٹیم|NN کی|P ناکامی|NN کی|P اہم|ADJ ترین|ADJ وجہ|NN یہ|PP رہی|VB کہ|SC گیند|NN بازوں|NN کی|P عمدہ|ADJ کارکردگی|NN کے|P باوجود|NN نیوزی|PN لینڈ|PN بلے|NN باز|NN کم|ADJ ترین|ADJ اسکور|NN پر|P ڈھیر|NN ہو|VB کر|KER مقابلے|NN گنواتے|VB رہے|AA ۔|SM
+چوتھے|OR شاعر|NN میں|P مہدی|NN سے|SE متفق|ADJ پوں|NN ،|PM کیا|QW سے|SE کیا|VB ،|PM اور|CC ‘|PN نیز|CC کہ|SC ‘|NN دونوں|OR کا|P استعمال|NN غلط|ADJ ہے|VB ۔|SM
+یا|CC اُن|PP کی|P مثال|NN بادل|NN سے|SE برسنے|VB والی|WALA بارش|NN کی|P سی|A ہے|VB ،|PM جس|REP میں|P اندھیریاں|NN ہیں|VB اور|CC گرج|NN اور|CC چمک|NN (|NN بھی|I )|EXP ہے|VB ۔|SM
+شام|NN کے|P کھانے|NN میں|P مرچیں|NN ،|PM کدو|NN ،|PM دال|NN ،|PM کباب|NN ،|PM تکے|NN اور|CC مونگ|NN پلی|VB تھیں|TA کباب|NN ،|PM تکے|NN تو|SC نہ|NEG کھاسکی|VB اسلئے|TA وہ|PP رکھ|VB دئے|AA شائد|NN ناشتے|NN میں|P کھاؤں|VB ۔|SM
+فیاض|NN اور|CC سجاد|NN اسے|PP گھورتے|VB رہے|AA ۔|SM
+کیا|QW ہم|PP بتائیں|VB گے|VB آپ|PP کو|P ؟|SM
+کیسی|AKP ویراں|NN ہے|VB تعلق|NN کی|P سڑک|NN
+ملک|NN الشعرانی|PN کا|P سِکہ|NN اس|PP کے|P نام|NN سے|SE موزوں|ADJ ہوا|VB اور|CC اس|PP کے|P طغرائے|ADJ شاہی|PN میں|P یہ|PP نقش|NN ہوا|VB کہ|SC اس|PD پہ|SC نظم|NN اردو|PN کا|P خاتمہ|NN کیا|VB گیا|AA ۔|SM
+محفوظات|NN برائے|ADV ”|EXP کمنٹ|NN رائے|NN تبصرے|NN “|PN ٹیگ|NN
+آنسو|PN ہیں|TA کہ|SC سامان|NN سفر|NN باندھے|VB ہو|TA ئے|VB ہیں|TA
+اس|PD مسلے|NN کا|P کیا|QW حل|NN ہے|VB بتائیے|VB
+آپ|PP تو|I تختی|NN لگائے|VB اور|CC شائید|PN منھ|PN پھلائے|VB بیٹھی|AA ہیں|TA
+محفوظات|NN برائے|ADV ”|PN دروازہ|NN “|PN ٹیگ|PN
+مجازا|ADJ خانقاہ|NN ۔|SM
+اپنی|GR باری|NN کا|P انتظار|NN کرنا|VB کوئی|Q قربانی|NN تو|I نہیں|NEG ،|PM جو|REP پہلے|NN سے|SE کھڑا|VB ہے|VB ‘|NN اس|PP کا|P حق|NN فائق|NN ہے|VB لیکن|SC یہاں|AP یہ|PP بھی|I گوارا|ADJ نہیں|NEG !|SM آج|NN یہ|PP لطیفہ|NN انگریزوں|NN کے|P بارے|NN میں|P مشہور|ADJ ہے|VB کہ|SC ایک|CA بھی|I ہو|VB تو|SC قطار|NN بنا|VB لیتا|AA ہے|TA !|SM کاش|NN یہ|PP ہمارے|G بارے|NN میں|P ہوتا|VB !|SM
+طائرِ|NN دل|NN کو|P وہ|PP شہباز|ADJ کیاہے|NN میں|PP نے|P
+بڑا|ADJ مزہ|NN آتا|VB ہے|TA اڑا|VB کر|VB دیکھیں|AA
+لائل|PN پور|PN سے|SE فیصل|NN آباد|ADJ حصہ|NN دوئم|NN
+سید|NN شاکر|PN القادری|PN ،|PM ساجد|NN ،|PM چئرمین|NN اکادمی|ADJ ادبیات|NN ،|PM الف|PN نظامی|PN
+کی|VB ہیں|TA کس|KD پانی|NN سے|SE یاں|NN یعقوب|PN ؑنے|VB آنکھیں|PN سفید|ADJ
+اس|PP کا|P مطلب|NN یہ|PP ہوا|VB کہ|SC جب|AP نیچے|NN منزلوں|NN پر|P رہنے|VB والوں|WALA کے|P سورج|NN ڈوب|VB جاتا|AA ہے|TA تو|SC اوپر|NN کی|P منزلوں|NN پر|P رہنے|VB والے|WALA افراد|NN سورج|NN دیکھ|VB سکتے|AA ہیں|TA ۔|SM
+ہے|VB تو|SC نہیں|NEG سوچنے|VB والی|WALA بات|NN لیکن|SC بھائی|ADJ سوچ|NN میں|P پڑے|VB ہیں|TA تو|SC کچھ|Q ہو|VB گا|TA سوچنے|VB والا|WALA
+عالیہ|NN بیگم|NN نے|P اس|PD مکان|NN کی|P تعمیر|NN میں|P بہت|ADV دلچسپی|NN لی|VB جس|REP میں|P انتظار|NN حسین|ADJ کا|P قیام|NN ہے|VB ۔|SM
+لگتا|VB ہے|TA کہ|SC بے|PN گناہوں|NN کو|P ذبح|NN کرتے|VB کرتے|VB ان|PP کے|P منہ|NN کو|P وہ|PP خون|NN لگ|VB گیا|AA ہے|TA کہ|SC موقع|NN ملنے|VB پر|P اپنے|GR ساتھیوں|NN کا|P بھی|I یہی|PD حال|NN کیا|VB ۔|SM
+مصر|PN کے|P آثار|NN قدیمہ|NN کے|P وزیر|NN کا|P کہنا|VB ہے|TA کہ|SC تحریر|NN سکوائر|PN کے|P قریب|NN واقع|ADJ مشہور|ADJ عجائب|NN گھر|NN سے|SE قیمتی|ADJ نوادرات|NN کے|P چوری|NN ہونے|VB کا|P انکشاف|NN ہوا|VB ہے|TA ۔|SM
+موت|NN کے|P قدموں|NN کی|P آہٹ|NN پہچانتے|VB ہو|TA
+میرا|G استفسار|NN صرف|ADV اتنا|Q سا|A ہے|VB کہ|SC کیا|KP آپ|PP بتا|VB سکتے|AA ہیں|TA کہ|SC امریکہ|PN کا|P کوئی|Q ایسا|PP ادارہ|NN بھی|I ہے|VB جو|REP یہ|PP معلوم|ADJ کرتا|VB ہو|TA کہ|SC پاکستان|PN کو|P ملنے|VB والی|WALA ترقیاتی|ADJ ،|PM غیر|ADJ ترقیاتی|ADJ ،|PM فوجی|NN اور|CC دہشت|NN گردی|NN کے|P خلاف|NN ملنے|VB جنگ|NN میں|P ملنی|VB والی|WALA امداد|NN کا|P مصرف|NN کیا|VB ہے|TA اور|CC کیا|KP یہ|PP صحیح|ADJ بھی|I ہے|VB کہ|SC یا|CC نہیں|NEG ۔|SM
+اردو|PN شاعری|NN کے|P عشقیہ|NN مضامین|NN میں|P اس|PD خیال|NN سے|SE ملتے|VB جلتے|CA شعر|NN ترقی|NN یافتہ|ADJ صورت|NN میں|P بہت|ADV سے|A ملیں|VB گے|TA اس|PP کی|P ایک|CA مثال|NN مجازؔ|ADJ لکھنوی|NN کا|P یہ|PD شعر|NN بھی|I ہے|VB
+بہت|ADV شکریہ|NN میرا|G مسئلہ|NN حل|NN ہو|VB گیا|AA ۔|SM
+زبردست|ADJ ماشاءاللہ|NN
+خاکسار|NN نے|P دیکھا|VB تو|SC ایک|CA ہی|I وقت|NN میں|P ی|PN و|CC الٹی|PN گنگا|ADJ پانچ|CA کے|P دو|CA دھاگے|NN کھلے|VB ہوئے|AA تھے|TA تو|SC مابدولت|NN نے|P ان|PD دونوں|OR کو|P یکجا|ADJ کر|VB دیا|AA ۔|SM
+ویسے|ADJ نیوز|PN میں|P انکا|PN اسٹینڈر|NN سب|Q سے|SE اچھا|ADJ تھا|VB
+گھبرائیں|NN نہیں|NEG اسکیفولڈ|PN جنریٹر|NN یہ|PD سب|Q کچھ|Q تو|I کرے|VB گا|TA ہی|I اس|PP کے|P علاوہ|NN اور|CC بھی|I بہت|ADV کچھ|Q .|SM
+آپ|PP سنائیں|VB کہ|SC کیسے|AKP ہیں|VB ؟|SM
+ب|NN اور|CC ی|NN کے|P نقطے|NN بالکل|ADV ایک|CA دوسرے|PP کے|P اوپر|NN آنے|VB کی|P وجہ|NN سے|SE 3|CA کے|P بجائے|ADV 2|CA نقطے|NN بن|VB رہے|AA ہیں|TA ۔|SM
+بلال|NN امتیاز|NN صاحب|NN ،|PM بلکل|NN درست|ADJ فرمایا|PN آپ|PP نے|P ،|PM بلاگ|NN پر|P آمد|NN کا|P شکریہ|NN ۔|SM
+بس|NN آپ|PP ہر|Q پھڈے|NN کا|P الزام|NN مجھ|PP پر|P لگا|VB یاکریں|AA ۔|SM
+اور|CC مزید|ADJ مشوروں|NN کے|P لئے|NN بھی|I
+زندگی|NN تو|I جو|REP سنے|VB گی|TA تو|SC ہنسی|NN آئے|VB گی|TA
+"|PM مہارانی|PN نے|P ہنس|VB کر|VB کہا|VB "|PM میں|PP تمہاری|G کون|KP ہوں|VB ؟|SM
+تھی|VB تو|SC وہ|PP لڑکی|NN ہی|I ،|PM پاس|NN جا|VB کر|VB دیکھا|AA تو|SC پاؤں|NN سیدھے|ADJ ہی|I نظر|NN آئے|VB ۔|SM
+اپنے|GR ساتهیوں|NN کو|P لیکر|PN ڈی|PN چوک|PN تک|P پہنچ|VB جائیں|AA پهر|NN .|SM
+بس|PN ٹائپو|PN دیکھ|VB لیں|AA ۔|SM
+اسکا|G سائز|NN کم|ADJ از|P کم|ADJ 14|CA رکھیں|VB تو|SC ٹیکسٹ|NN صحیح|ADJ نظر|NN آتا|VB ہے|TA ۔|SM
+صاحب|NN پکوڑے|NN کھانے|NN کا|P شوق|NN چڑھا|VB ہے|TA تو|SC باہر|NN سے|SE منگوالیجئے|VB ،|PM ایک|CA تو|I بیٹھک|NN میں|P آنے|VB سے|SE منع|NN کرتے|VB ہہیں|AA اوپر|NN سے|SE نوکری|NN واہ|NN بہت|ADV خوب|ADJ جائیے|VB ۔|SM
+ہم|PP نے|P صرف|ADV پہلی|OR بات|NN سے|SE اتفاق|NN کیا|VB تھا|TA کہ|SC زیادہ|Q بلندی|NN پر|P چڑھ|VB بھی|I گئے|VB تو|SC ہماری|G عینک|NN سے|SE کچھ|Q بھی|I نظر|NN آنے|VB والا|WALA نہیں|NEG ہے|VB ۔|SM
+برطانوی|ADJ وزیر|NN داخلہ|NN جان|PN ریڈ|PN نے|P اس|PD بات|NN کی|P تصدیق|NN کی|VB ہے|TA کہ|SC اور|CC کہا|VB ہے|TA کہ|SC اس|PD منصوبے|NN میں|P ملوث|ADJ اہم|ADJ افراد|NN اب|AP حراست|NN میں|P ہیں|VB لیکن|SC اب|AP بھی|I چوکس|ADJ رہنے|VB کی|P اشد|NN ضرورت|NN ہے|VB ۔|SM
+بیسویں|NN صدی|NN کی|P دوسری|ADJ دہائی|NN میں|P ایک|CA بھی|I برئے|ADV نام|NN بھی|I اسلامی|PN ملک|NN نہ|NEG تھا|VB فرق|NN پڑا|PN
+یوں|AP نہ|NEG ہم|PP کو|P تڑپائیے|VB ۔|SM
+اس|PP کے|P بعد|NN تو|I کوئی|Q بھی|I دعوت|NN ان|PP کے|P بغیر|NN ادھوری|ADJ رہتی|VB تھی|TA ۔|SM
+یہ|PD اک|NN حقیقی|ADJ تصویر|NN پیش|NN کی|VB ہے|TA ۔|SM
+میں|PP آپ|PP کی|P تہہِ|NN
+زخوش|ADJ الحانیِ|NN تو|SC داستانہا|VB
+انشاءاللہ|NN پھر|ADV باتیں|NN ہونگی|AA آپ|PP سے|SE ۔|SM
+تو|SC بیا|PN سودی|ADJ شدم|NN من|U پائمال|PN
+کیاکیا|VB کروں|VB وہ|PP بھی|I بنا|VB کچھ|Q کھائے|VB
+ہمیں|PP بھی|I کچھ|Q نہیں|NEG پرواہ|ADJ دل|NN کی|P
+اسی|PD دوران|NN ضیاء|PN الحق|NN نے|P افغانستان|NN کو|P اپنے|GR ساتھ|NN ملانے|VB کی|P کوشش|NN کی|VB تو|I اُسے|PP مع|NN اُس|PP کے|P قریبی|ADJ ساتھیوں|NN کے|P ہوائی|ADJ حادثے|NN میں|P مروا|VB دیا|AA گیا|AA
+رومن|PN ایمپائر|PN میں|P بھوکے|ADJ درندوں|NN کے|P سامنے|NN انسانوں|NN کو|P چھوڑ|VB کر|KER تماشا|NN دیکھا|VB جاتا|AA ۔|SM
+ذرا|ADJ بیویوں|NN والے|WALA بتائے|VB تو|SC کیا|QW ان|PD سب|Q کو|P بھی|I ایسی|AD ہی|I محبت|NN ہے|VB اک|NN دوسرے|PN سے|SE ؟|SM
+اس|PP کی|P تربیت|NN کے|P لئے|NN کچھ|Q اور|CC سوچا|VB جاسکتا|AA ہے|TA ۔|SM
+ترکمانستان|NN سے|SE پاکستان|PN ،|PM افغانستان|PN اور|CC بھارت|NN کو|P گیس|NN کی|P فراہمی|NN کے|P تاریخی|ADJ معاہدے|NN پر|P دستخط|NN ہوگئے|VB ۔|SM
+یہ|PD حضرات|NN سانحہ|NN کربلا|PN ،|PM حرہ|NN اور|CC مکہ|PN کی|P ایسی|AD توجیہ|NN کرتے|VB ہیں|TA جس|REP سے|SE قصور|NN سراسر|ADJ حضرت|I حسین|ADJ اور|CC عبداللہ|NN بن|VB زبیر|ADJ رضی|NN اللہ|NN عنہم|PN کا|P نکلتا|VB ہے|TA ۔|SM
+آئے|VB جب|AP ماضی|NN پہ|SC باشد|PN اے|PN ہمام|NN
+’|ADJ کتاب|NN کی|P ترتیب|NN بھی|I تھوڑی|Q سی|A تفصیل|NN کی|P متقاضی|ADJ ہے|TA یعنی|SC قارئین|PN کی|P خدمت|NN میں|P یہ|PD عرض|NN کردینا|VB ضروری|ADJ ہے|VB کہ|SC کتا|PN ب|PN ملاحظہ|PN فرمانے|VB سے|SE پیشتر|ADJ وہ|PP جان|VB لیں|VB کہ|SC اس|PP کی|P تدوین|NN کن|PN کن|PN مراحل|NN سے|SE گزری|VB ہے|TA ۔|SM
+ذرا|PN سرگودہا|PN ‘|PN جھنگ|PN ‘|PN میانوالی|PN ‘|PN اٹک|VB ‘|PN جہلم|PN ‘|PN راولپنڈی|PN اور|CC ساہیوال|NN کے|P دیہات|NN میں|P جا|VB کر|VB دیکھیں|AA ‘|ADJ خلق|NN خدا|NN تھانے|VB کچہری|NN کے|P جس|REP جال|NN میں|P پھنسی|VB ہوئی|AA ہے|TA ‘|NN اور|CC اتنے|Q عرصہ|NN سے|SE پھنسی|VB ہوئی|AA ہے|TA اور|CC تھانے|VB جس|REP طرح|NN بااثر|ADJ لوگوں|NN کی|P مٹھی|NN میں|P ہیں|VB ‘|CA اس|PP پر|P افسوس|NN ہی|I کیا|VB جا|VB سکتا|AA ہے|TA اور|CC یہ|PD افسوس|NN ناامیدی|NN کے|P کندھے|NN پر|P سوار|ADJ ہے|VB ۔|SM
+میں|P کبھی|AKP ہمت|NN نہیں|NEG ہارتا|VB کیوں|QW کہ|SC مجھے|PP پتا|NN ہے|VB میری|G ماں|NN کی|P دعائیں|NN میرے|G ساتھ|NN ہیں|VB ۔|SM
+یہ|PP تو|I مجھے|PP بھی|I یاد|NN نہیں|NEG ۔|SM
+بعد|NN میں|P حسن|NN ال|NN بنا|VB کو|P انیس|CA سو|CA اڑتالیس|CA ہی|I میں|P ایک|CA نامعلوم|ADJ شخص|NN نے|P گولیاں|NN مار|VB کر|KER ہلاک|ADJ کر|VB دیا|AA جس|REP کے|P بارے|NN میں|P خیال|NN کیا|VB جاتا|AA ہے|TA کہ|SC اس|PP کا|P تعلق|NN سکیورٹی|NN فورسز|NN سے|SE تھا|VB ۔|SM
+مگر|SC مصیبت|NN یہ|PP تھی|VB کہ|SC اس|PD جھروکے|NN میں|P بیٹھ|VB جانے|AA کے|P گناہ|NN کی|P پاداش|NN میں|P مجھے|PP لال|ADJ بابو|NN پاسوان|PN کے|P ‘|PN شیش|PN محل|NN ‘|PN میں|P جھانکنا|VB پڑ|AA جاتا|AA تھا|TA ۔|SM
+کیونکہ|SC یہ|PP ایک|CA تاثراتی|ADJ تحریر|NN ہے|VB اور|CC یہ|PP سارا|ADJ منظر|NN چھوٹے|ADJ بچے|NN کی|P آنکھیں|NN دیکھ|VB اور|CC سنا|VB رہی|AA ہے|TA لہذاٰ|SC بچے|NN کے|P لحاظ|NN سے|SE حقیقی|ADJ ڈرون|NN کی|P پیمائش|NN دکھانا|VB اور|CC سنانا|VB اپنا|GR تاثر|NN نہیں|NEG دے|VB گا|TA ۔|SM
+وہ|PP دستِ|NN مسیحائی|PN
+کیاتم|PN چھٹیوں|NN میں|P باہر|NN نہیں|NEG گئے|VB تھے|TA کہیں|AKP ؟|SM
+ٹھیک|ADJ سے|SE نہیں|NEG پتا|NN شاید|ADV بھانجے|VB ہیں|TA خرم|NN کے|P
+ہاں|INT ناں|NN بھیا|VB اسی|PP لیے|ADV نہیں|NEG جگایا|VB ۔|SM
+دیکھو|PN شفق|PN کے|P چہرے|NN پہ|SC جابجا|ADV لہو|VB ہے|TA
+ابو|PN جہل|PN :|PM ”|PN ہم|PP قوم|NN موسیٰ|NN سے|SE بلند|ADJ اور|CC بڑی|ADJ خواہش|NN رکھتے|VB ہیں|TA ہم|PP ہر|Q گز|U اس|PD وقت|NN تک|P نہیںا|NEG یمان|PN نہیں|NEG لائیں|VB گے|TA جب|AP تک|P تم|PP اپنے|GR خدا|NN اور|CC فرشتوں|NN کو|P ہمارے|G سامنے|NN حاضر|ADJ نہیں|NEG کروگے|VB ،|PM اب|AP تم|PP ہماری|G اس|PD خواہش|NN کی|P بنا|NN پر|P اپنے|GR خدا|NN سے|SE کہو|VB کہ|SC وہ|PP ہمیں|PP جلادے|NN یا|CC نابود|ADJ کردے|NN “|CA ۔|SM
+حاصل|ADJ نہیں|NEG ہوتا|VB ۔|SM
+پوڑی|PN ٹیم|PN ملی|VB ہوئی|AA ہے|TA ۔|SM
+ایڈوکیٹ|PN سجاد|NN احمد|PN کے|P بقول|NN اس|PP کے|P باوجود|NN وہ|PP یہ|PP سمجھتے|VB ہیں|TA کہ|SC بچوں|NN کی|P گھریلو|ADJ مشقت|NN کے|P بارے|NN میں|P قانون|NN سازی|NN ہونی|VB چاہیے|AA ،|PM اس|PP کے|P بعد|NN ہی|I اس|PP پر|P عمل|NN درآمد|NN کی|P کوشش|NN کی|VB جا|VB سکے|AA گی|TA ۔|SM
+لڑیاں|NN از|P :|PM الف|PN عین|PN ,|PM اپریل|PN 9|CA ,|PM 2008|CA ,|PM 23|CA جوابات|NN ,|PM زیر|NN زمرہ|NN :|PM اردو|PN شاعری|NN
+کیلوفورنیا|PN کی|P کمپنی|NN کا|P کہنا|VB ہے|TA کہ|SC یہ|PD کٹوتیاں|NN کمپنی|NN کو|P چھونا|VB اور|CC زیادہ|ADV فائدہ|NN مند|ADJ بنانے|VB کے|P اقدامات|NN کے|P طور|NN پر|P کی|VB گئی|AA ہیں|TA ۔|SM
+جس|REP کسی|KD کو|P اس|PP کا|P الٹ|NN دیکھنا|VB ہو|TA وہ|PP پاکستان|PN کا|P حال|NN دیکھ|VB لے|AA
+301|CA تا|ADV 320|CA از|P 827|CA لڑیوں|NN کی|P نمائش|NN
+2|CA ۔|SM حضرت|NN انس|PN رضی|PN اللہ|PN عنہ|NN سے|SE مروی|ADJ ہے|TA
+جو|REP وہان|VB جاتے|VB ہین|PN اُس|PD طرف|NN سے|SE دنگ|NN آتے|VB ہین|PN
+ہم|PP بھی|I پوچھیں|VB گے|VB ہوئی|AA آپ|PP کی|P دانائی|NN کیا|VB
+ڈانس|PN پارٹی|NN کا|P منظر|NN ہے|VB ،|PM بلانڈا|PN بیٹی|PN کوپانی|PN لینے|VB بھجتی|VB ہے|TA ،|PM اور|CC خود|RP وہاں|AP بیٹھی|VB اپنے|GR بالوں|NN میں|P انگلیاں|NN پھیر|VB رہی|AA ہوتی|VB ہے|TA ،|PM کہ|SC اسی|PD اثنا|NN میں|P کلاریسا|PN آکر|PN بلانڈا|PN کو|P باتوں|NN میں|P مصروف|ADJ کرتی|VB ہے|TA ،|PM اور|CC پیچھے|NN سے|SE بیرن|PN آ|VB کر|KER قینچی|NN سے|SE اس|PP کی|P لٹ|NN کاٹنے|VB لگتا|VB ہے|TA کہ|SC بیٹی|NN جو|REP کہ|SC پانی|NN لے|VB کر|KER آرہی|NN ہوتی|VB ہے|TA شور|NN مچانے|VB لگتی|AA ہے|TA ۔|SM
+الحمدللہ|NN اچھا|ADJ رزلٹ|NN ہے|VB جبکہ|SC میرے|G والدین|NN نے|P پاکستان|PN ہجرت|NN کی|VB تھی|TA ۔|SM
+مختصر|ADJ کیرئیر|NN میں|P انہوں|PP نے|P قابل|ADJ ذکر|NN آل|PN راؤنڈ|PN کارکردگی|NN کا|P مظاہرہ|NN کیا|VB اور|CC 70|CA کی|P دہائی|NN کے|P وسط|NN میں|P انگلش|PN کرکٹ|PN ٹیم|PN کی|P قیادت|NN بھی|I کی|VB ۔|SM
+"|PM ادھر|AP سی|A مون|PN بیگال|PN کے|P ذمہ|NN دار|ADJ لوگوں|NN تک|P پہنچ|VB چکا|AA ہو|AA گا|TA ۔|SM
+اس|PP کے|P علاوہ|NN لڑکوں|NN اور|CC لڑکیوں|NN کے|P چار|CA سرکاری|ADJ سکولوں|NN کو|P بھی|I دھماکہ|ADV خیز|NN مواد|NN سے|SE تباہ|ADJ کیا|VB گیا|AA تھا|TA جن|REP میں|P تین|CA سکول|NN ایک|CA ہی|I رات|NN میں|P نشانہ|NN بنائے|VB گئے|AA تھے|TA ۔|SM
+میرے|G خیال|NN سے|SE چالیس|CA افراد|NN ہلاک|ADJ ہوئے|VB ہیں|TA جبکہ|SC سینکڑوں|NN مکانات|NN تباہ|ADJ ہو|VB گئے|AA ہیں|TA ‘|AA ۔|SM
+سماعت|NN میں|P اترتے|VB اجنبی|NN لہجوں|NN سے|SE
+چلئے|PN جی|PN کوئی|Q بات|NN نہیں|NEG ،|PM خیر|NN و|CC عافیت|NN سے|SE گھر|NN پہنچیں|VB اور|CC مطلع|ADJ کریں|VB ۔|SM
+جواب|NN سننا|VB تھا|TA کہ|SC ساری|Q کلاس|NN ہنسنے|VB لگ|VB گی|TA ۔|SM
+یہ|PP میری|G نظمیں|NN (|PN ای|PN بک|PN کے|P ساتھ|NN (|ADJ
+دعا|NN یہ|PP کریں|VB کہ|SC اس|PD ملک|NN میں|P پیار|NN محبت|NN پیدا|NN ہو|VB یہ|PP تب|AP پیدا|NN ہوگا|VB جب|AP ہر|Q فرد|NN کو|P سستا|ADJ اور|CC فوری|ADJ انصاف|NN ملے|VB گا|TA کسی|KD کی|P حق|NN تلفی|NN کی|P کسی|KD کو|P جراّت|NN نہ|NEG ہو|VB گی|TA اللہ|NN ہم|PP سب|Q پر|P اپنا|GR خاص|ADJ کرم|NN فرمائے|VB (|PN آمین|PN )|PN
+کیا|QW حال|NN ہے|VB پاکستان|PN میں|P دن|NN کیسے|AKP بیت|NN رہے|VB ہیں|TA ؟|SM
+لفظوں|NN کے|P باغیچےجو|NN ہر|Q طرف|NN پیہاں|NN ہیں|TA
+یعنی|SC ایسی|AD کیفیت|NN ہے|VB کہ|SC آپ|PN جو|REP بھی|I کام|NN کر|VB رہے|AA ہیں|TA ،|PM شیخ|NN کی|P عدم|NN موجودگی|NN میں|P بھی|I اس|PP کی|P مرضی|NN کے|P مطابق|NN ہو|VB ۔|SM
+ماں|NN تیرگی|NN میں|P روشنی|NN کا|P آبشار|NN ہے|VB
+شاہ|PN باغ|NN کے|P انتہاپسندوں|NN کے|P خلاف|NN اسلام|NN پسند|NN جماعتوں|NN کے|P مشترکہ|ADJ احتجاجی|NN مظاہرے|NN کا|P ایک|CA منظر|NN
+وعدہ|NN کوئی|Q ثبوت|NN نہیں|NEG چاہیے|VB ۔|SM
+اور|CC پھر|ADV install|CA .|SM php|NN کو|P براؤزر|NN میں|P کل|Q کریں|VB یہ|PP آپ|PP کے|P ڈیٹا|NN بیس|CA میں|P ٹیبل|NN بنا|VB دے|AA گا|TA ۔|SM
+ہاں|INT ہم|PP تو|I جیسے|A مر|VB رہے|AA ہیں|TA اپ|NN سے|SE بات|NN کرنے|VB کو|P جاؤ|PN بی|PN بی|PN سعودیہ|PN میں|P رہ|VB کر|KER اتنا|Q تو|I سیکھا|VB کہ|SC ناراض|ADJ ہونے|VB والے|WALA کو|P منانا|VB اپنا|GR نقصان|NN ہے|VB
+اُس|PP کی|P ٹھوکر|NN میں|P تھا|VB قانون|NN کا|P ساز|NN ِ|CA کُہنہ|NN
+یہ|PP ایک|CA بہت|ADV اچھا|ADJ منظر|NN تھا|VB ،|PM جسے|REP انتظامیہ|NN نے|P ”|PM قائم|ADJ “|NN رکھنے|VB کی|P کافی|ADJ کوشش|NN کی|VB تھی|TA ۔|SM
+(|CA 5|CA )|NN کیا|VB آپ|PP کا|P شوہر|NN مقرو|ADJ ض|NN ہے|TA ؟|SM اگرنہیں|VB تو|SC جلدی|NN کیجئے|VB اسے|PP قرض|NN کے|P جھنجھٹ|NN میں|P پھنسائیے|VB ۔|SM
+مجموعی|ADJ طور|NN پر|P کچی|ADJ پکی|PN غزل|NN ہے|VB ۔|SM
+لالہ|ADJ رخ|NN ,|PM جولائی|PN 3|CA ,|PM 2013|CA
+"|PM ثوبان|NN کو|P رفیدہ|NN کے|P بولنے|VB سے|SE ہمیشہ|ADV تکلیف|NN ہوتی|VB تھی|TA ۔|SM
+آئیے|VB !|SM آپ|PP کا|P انتظار|NN تھا|VB
+اسی|PP لیے|ADV آج|NN ان|PD دونوں|OR مسالک|NN سے|SE پیروکار|NN جس|REP طرح|NN ایک|CA دوسرے|ADJ سے|SE الگ|ADJ اور|CC دور|NN ہوگئے|VB ہیں|TA اسے|PP اسلامی|PN اخلاق|NN کی|P حدود|NN سے|SE بہت|ADV بعید|ADJ تصور|NN کرتا|VB ہوں|TA ۔|SM
+زیادہ|ADV زور|NN مت|ADV دیجئے|AA گا|TA کھانے|NN پر|P ورنہ|SC کچھ|Q بھی|I ہو|VB سکتا|AA ہے|TA ۔|SM
+بہتر|ADJ معلوم|ADJ ہوتا|VB ہے|TA کہ|SC ہم|PP برسرِ|NN مطلب|NN آنے|VB سے|SE پہلے|NN اس|PD ناول|NN کے|P فلیپ|NN پر|P لکھے|VB ہوئے|AA تبصرے|NN اور|CC مختصر|ADJ کہانی|NN کا|P اردو|PN ترجمہ|NN آپ|PP کی|P خدمت|NN میں|P پیش|NN کردیں|VB ۔|SM
+لیکن|SC وہ|PP نہ|NEG گئے|VB اسی|PD اثنا|NN میں|P جولائی|PN دوہزار|PN آٹھ|CA میں|P والد|NN صاحب|I دنیا|NN سے|SE رخصت|NN ہو|VB گئے|AA یکدم|AA یوں|AP لگا|AA کہ|SC دنیا|NN اندھیر|ADJ سی|A ہوگئی|AA ہے|TA پی|PN ایچ|PN ڈی|PN کا|P م|NN ایک|CA اضافی|ADJ کام|NN تھا|VB اس|PP میں|P دل|NN چیسی|NN بالکل|ADV ختم|ADJ ہو|VB گئی|AA پی|PN ایچ|PN ڈی|PN میں|P داخلے|NN کا|P معاملہ|NN میں|PP نے|P نظر|NN انداز|NN کر|VB دیا|AA میرے|G سپروائیزر|PN جناب|I حامد|PN مختار|PN صاحب|I کو|P میرے|G اس|PD غیر|ADJ ذمہ|NN دار|ADJ رویے|NN کا|P دکھ|VB بھی|I ہوا|VB ہو|AA گا|TA لیکن|SC میں|P شرمندگی|NN کے|P مارے|NN ان|PP سے|SE بہت|ADV دور|NN ہو|VB گیا|AA ۔|SM
+اس|PD لیپ|PN ٹاپ|NN کی|P نمایاں|ADJ خصوصیات|NN کچھ|Q یوں|AP ہیں|VB
+کھینچ|VB لے|VB گر|VB نہ|NEG مجھے|PP سایۂ|ADJ رب|NN
+امی|NN کی|P طبیعت|NN ٹھیک|ADJ نہیں|NEG اور|CC ان|PP کی|P مزاج|NN پرسی|NN کے|P لئے|NN ایک|CA کے|P بعد|NN ایک|CA کوئی|Q نہ|NEG کوئی|Q آ|VB رہا|AA ہے|TA ۔|SM
+سماجیات|NN پر|P ؟|SM
+لیکن|SC احسن|PN اقبال|PN کی|P وفاداری|NN کا|P اتنا|Q سا|A تو|I اجر|NN میاں|NN صاحبان|NN دے|VB ہی|I سکتے|AA ہیں|TA کہ|SC پیسہ|NN تو|I پاکستان|PN کا|P ضائع|ADJ ہورہا|AA ہے|TA ۔|SM
+چلیں|NN گلہ|NN کے|P ساتھ|NN ساتھ|NN شکریئے|NN کے|P حق|NN دار|NN بھی|I ٹھہرے|VB ہیں|TA آپ|PP ۔|SM
+کیا|QW ان|PD واقعات|NN میں|P وکلاء|NN برداری|NN کے|P لیے|ADV کوئی|Q پیغام|NN چُھپا|VB ہے|TA ؟|SM
+کیا|QW بات|NN ہے|VB ،|PM اس|PD وقت|NN کیوں|QW پریشان|ADJ کر|VB رہے|AA ہو|TA ؟|SM
+اسی|PD شام|NN کو|P عمران|NN اور|CC فیاض|NN جج|NN صاحب|NN کے|P ڈرائنگ|ADJ روم|NN میں|P بیٹھے|VB ان|PP کا|P انتظار|NN کر|VB رہے|AA تھے|TA ،|PM جج|NN صاحب|NN کی|P لڑکی|NN بھی|I موجود|ADJ تھی|VB اور|CC اس|PP نے|P اُس|PD وقت|NN بھی|I سیاہ|ADJ رنگ|NN کی|P عینک|NN لگا|VB رکھی|VB تھی|TA ۔|SM
+جذبۂ|PN ایثار|NN سے|SE خالی|ADJ ہیں|VB دل|NN
+اصل|NN میں|P تو|I چراغ|NN ہے|TA !|SM
+یا|CC تُو|PP آسمان|NN کو|P ٹکڑے|NN ٹکڑے|NN کرکے|NN ہمارے|G اوپر|NN گرادے|VB جیسا|A کہ|SC تیرا|G دعویٰ|NN ہے|VB ۔|SM
+مگر|SC ہماری|G یہ|PD کیفیت|NN زیادہ|ADV دیر|NN برقرار|ADJ نہ|NEG رہ|VB سکی|AA ،|PM کیوں|QW کہ|SC اس|PD کتاب|NN میں|P شاید|ADV جلد|NN کی|P خرابی|NN کی|P وجہ|NN سے|SE صفحہ|NN نمبر|NN پچاس|CA کے|P فوراً|ADV بعد|NN صفحہ|NN نمبر|NN ایک|CA سو|VB اکیس|CA تھا|VB ۔|SM
+اس|PD دن|NN یعنی|ADV 18|CA اکتوبر|PN کو|P بھی|I چہل|NN پہل|CA تھی|VB ۔|SM
+نصرت|NN ایزدی|PN ہمارے|G ساتھ|NN ہے|VB
+عقل|NN آج|NN کل|Q سیر|NN پر|P گئی|VB ہوئی|AA ہے|TA ۔|SM
+ملائی|NN کہاں|AKP ہوتی|VB ہے|TA ؟|SM
+سڑک|NN کے|P کنارے|NN کھڑے|ADJ کو|P کوئی|Q سڑک|NN پار|NN کرنے|VB نہیں|NEG دیتا|VB
+ہم|PP جب|AP ابتدائی|ADJ عہد|NN کے|P انسانوں|NN کا|P سراغ|NN لگاتے|VB ہیں|TA تو|SC ہمیں|PP ان|PP کے|P قدم|NN آگے|NN بڑھنے|VB کی|P جگہ|NN پیچھے|NN ہٹتے|VB دکھائی|VB دیتے|AA ہیں|TA ۔|SM
+جب|AP سرمحفل|NN سنا|VB کر|KER ہم|PP چلے|VB آئے|AA تھے|TA مدعا|NN
+ہچکیاں|NN موت|NN کی|P آنے|VB لگیں|VB اب|AP تو|I آجا|VB
+ریاض|NN شائد|ADV بھائی|NN اللہ|NN کرے|VB ایسا|PP ہی|I ہو|VB ۔|SM
+سر|NN چڑھ|VB کر|KER
+اس|PP لیے|ADV یہاں|AP موجود|ADJ ہوں|VB ۔|SM
+لیکن|SC جب|AP صرف|ADV 12|CA کھلاڑی|NN سلیکٹ|NN کرنے|VB ہوں|TA تو|SC کچھ|Q اچھے|ADJ کھلاڑی|NN رہ|VB جاتے|AA ہیں|TA ۔|SM
+"|PM یعنی|ADV میں|P ان|PD لوگوں|NN کے|P حق|NN میں|P وصیت|NN کرتا|VB ہوں|TA جن|REP کو|P خدا|NN اور|CC رسول|NN کا|P ذمہ|NN دیا|VB گیا|AA ہے|TA (|PN یعنی|ADV ذمی|PN )|PN کہ|SC ان|PP سے|SE جو|REP عہد|NN ہے|VB وہ|PP پورا|ADJ کیا|VB جائے|AA اور|CC ان|PP کی|P حمایت|NN میں|P لڑا|VB جائے|AA اور|CC ان|PP کو|P ان|PP کی|P طاقت|NN سے|SE زیادہ|ADV تکلیف|NN نہ|NEG دی|VB جائے|AA ۔|SM
+اس|PD حکم|NN کا|P اظہار|NN یوں|AP ہوتا|VB ہے|TA کہ|SC قرآن|PN میں|P وہ|PP وارد|PN کیا|VB جائے|AA یا|CC اس|PD طرح|NN پر|P کہ|SC آنحضرت|PN صلی|PN اللہ|PN علیہ|NN وسلم|PN کے|P اجتہاد|NN ہی|I میں|P تبدیل|NN ہوجائے|VB اور|CC دوسرا|OR اجتہاد|NN آپ|PP کے|P ذہن|NN میں|P قرار|NN پاجائے|NN ۔|SM
+ہمیں|PP عجیب|ADJ لگے|VB شام|NN ہی|I سے|SE گھر|NN جانا|VB
+ویسے|ADJ آپ|PP چاہیں|VB تو|SC comma|PN sepaerated|PN ٹیکسٹ|PN فائل|NN میں|P ڈیٹا|NN محوظ|NN کر|VB سکتے|AA ہیں|TA ۔|SM
+یہ|PP کون|KP سا|A شیر|NN ہے|VB جو|REP مزے|NN کا|P بھی|I ہے|VB
+فراہی|PN صاحب|I کے|P ذکر|NN میں|P حوالوں|NN کی|P درخواست|NN محض|ADV تحقیق|NN کے|P ایک|CA تقاضے|NN کے|P طور|NN پر|P کی|VB ہے|TA ۔|SM
+قیصرانی|NN آپ|PP بھی|I لائن|NN میں|P لگیں|VB اور|CC ناخن|NN چیک|NN کرائیں|AA
+عدیم|ADJ دل|NN کو|P ہر|Q اِک|NN پر|P نہیں|NEG نِثار|VB کِیا|VB
+اجلاس|NN سے|SE قبل|NN وزیراعظم|NN من|U موہن|PN سنگھ|PN نے|P ایک|CA بیان|NN میں|P کہا|VB تھا|TA کہ|SC کشمیر|NN کا|P مسئلہ|NN بات|NN چیت|NN سے|SE حل|NN ہوگا|VB ’|CA لیکن|SC بات|NN چیت|NN تشدد|NN سے|SE آزاد|ADJ ماحول|NN میں|P ہی|I ممکن|ADJ ہے|VB ،|PM تشدد|NN رکنا|VB چاہیے|AA ۔|SM
+بدو|NN نے|P کچھ|Q مرغ|NN پال|PN رکھے|VB تھے|TA جو|REP درخت|NN کی|P اونچی|ADJ شاخ|NN پر|P بیٹھے|VB اونگھ|VB رہے|AA تھے|TA ۔|SM
+اس|PD کونسل|NN کے|P تحت|NN افغانستان|NN میں|P قیامِ|NN امن|NN کے|P لیے|ADV طالبان|NN کے|P ساتھ|NN مذاکرات|NN کیے|VB جاتے|AA ہیں|TA ۔|SM
+اس|PD کاآنسر|NN تو|I ا|Q پ|CA دیں|AA نا|ADV عثمان|PN بھائی|VB ۔|SM
+راؤنڈر|PN ٹیمپلیٹ|PN 4|CA ڈاؤنلوڈ|NN کریں|VB
+سافٹوئیر|PN میں|P بھی|I یہی|PD حال|NN ہے|VB طوالت|NN کے|P ڈر|NN سے|SE ذکر|NN حذف|NN کرتا|VB ہوں|TA وگرنہ|SC خاصے|ADJ مزاحیہ|ADJ اور|CC فکاہیہ|ADJ واقعات|NN بھی|I سنانے|VB کو|P ہیں|VB ۔|SM
+پہلے|NN ظہیر|ADJ عباس|NN ہیں|VB جنھوں|NN نے|P انڈیا|PN کے|P خلاف|NN لگاتار|ADJ تین|CA سنچریز|NN بنائی|VB تھیں|TA ۔|SM
+دیکھتی|VB ہوں|TA اور|CC پروگرام|NN بناتی|VB ہوں|TA ،|PM اگست|PN میں|P اسپین|NN کا|P تو|I پکا|VB ہے|TA ۔|SM
+اب|AP سرجری|NN
+دستور|NN نرالا|PN اے|PN دنیا|NN دا|PN اج|PN کیتیاں|NN تے|VB کل|Q بیتیاں|NN نے|P
+شاہد|NN ہیں|ADV اس|PP میں|P حضرتِ|NN عبّاس|PN نامدار|NN
+ان|PP کی|P بیوہ|NN ذکیہ|NN جعفری|NN کی|P شکایت|NN پر|P ہی|I سپریم|PN کورٹ|PN کے|P حکم|NN پر|P ایس|PN آئی|PN ٹی|PN نے|P مسٹر|PN مودی|NN سے|SE پوجھ|PN گچھ|PN کی|VB ۔|SM
+اوکے|PN باس|PN ،|PM واپس|ADJ ،|PM دیکھ|VB لیں|AA آج|NN یہ|PP ورڈ|PN باس|PN کام|NN آ|VB ہی|I گیا|VB ادھر|AP
+نقل|NN کے|P معیارات|NN کو|P بڑھانا|VB ہوگا|TA :|PM آخری|ADJ تین|CA
+تیرا|G ذکر|NN صبح|NN کا|P نور|NN ہے|VB تیری|ADJ یاد|NN رات|NN کی|P چاندنی|NN
+ہم|PP لوگ|NN اتنے|Q قنوطی|ADJ ہو|VB چکے|AA ہیں|TA کہ|SC خدا|NN کی|P پناہ|NN
+اس|PD عورت|NN کے|P پاس|NN نہ|NEG کوئی|Q خیمہ|NN تھا|VB اور|CC نہ|NEG ہی|I کوئی|Q ایسا|PP سامان|NN جس|REP پر|P بچے|NN کو|P لٹا|VB سکتی|AA ۔|SM
+محب|NN یار|PN کبھی|AKP تو|I کوئی|Q کام|NN خود|RP بھی|I کر|VB لیا|AA کرو|VB ،|PM سب|Q کو|P بڑھاوا|NN دیتے|VB ہو|TA ،|PM کرتے|VB کراتے|AA کچھ|Q بھی|I نہیں|NEG ۔|SM
+میں|PP اپنی|GR ماوں|NN ،|PM ماسیوں|NN کے|P ہوتے|VB ہوئے|AA کسی|KD اور|CC کو|P "|PM آنٹی|NN "|PM بنانے|VB کے|P لئے|NN تیار|ADJ نہیں|NEG ہوں|VB ۔|SM
+چاہے|VB بھارت|CA اور|CC اس|PP کے|P ہمنوا|PN جتنا|Q بھی|I زور|NN لگا|VB لیں|AA ان|PP کو|P منہ|NN کی|P کھانی|VB پڑے|AA گی|TA !|SM
+شمشاد|PN صاحب|I نظر|NN آ|VB رہے|AA ہیں|TA انہیں|PP ہی|I بلا|VB لیتے|AA ہیں|TA پھر|SC
+سارہ|CA خان|NN ,|PM جولائی|PN 29|CA ,|PM 2012|CA
+پاکستان|PN میں|P بچے|NN انگریزی|PN بول|VB بھی|I اس|PP لیے|ADV نہیں|NEG سکتے|AA کہ|SC اس|PP کے|P بولنے|VB کی|P ضرورت|NN ہی|I نہیں|NEG اردو|PN سے|SE کام|NN چل|VB جاتا|AA ہے|TA جبکہ|SC لکھنے|VB میں|P وہ|PP خاصے|ADJ بہتر|ADJ ہوتے|VB ہیں|TA وجہ|NN یہ|PP کہ|SC پرچے|NN میں|P تو|I جواب|NN اردو|PN میں|P لکھ|VB نہیں|NEG سکتے|AA ۔|SM
+آپ|NN کی|P باتیں|NN پیاری|ADJ پیاری|ADJ ماشاء|NN اللہ|NN سبحان|NN اللہ|PN
+اس|PP کی|P آوازروئی|NN تھی|VB ۔|SM
+اجلاس|NN میں|P توانائی|NN کے|P بحران|NN پر|P کابینہ|NN کا|P خصوصی|ADJ اجلاس|NN بلانے|VB کا|P فیصلہ|NN کیا|VB گیا|AA جس|REP میں|P اس|PD بحران|NN سے|SE نمٹنے|VB کے|P لیے|ADV قومی|ADJ حکمت|NN عملی|ADJ تشکیل|NN دی|VB جائے|AA گی|TA ۔|SM
+صرف|ADV ورڈ|NN یا|CC ایکسل|NN کے|P پروگراموں|NN ہی|I کے|P رائٹس|NN اسے|PP حاصل|ADJ ہوں|VB
+بند|ADJ رستوں|NN میں|P حدت|NN گزر|VB گہ|AA بنی|VB
+کل|Q کا|P دن|NN کافی|ADV اچھا|ADJ اور|CC مصروفیت|NN میں|P گزرا|VB !|SM 1|CA
+اب|AP میں|P سونے|VB لگا|AA ہوں|TA کل|Q پھر|ADV حاضر|ADJ ہونا|VB ہے|TA نا|ADV اس|PP لیے|ADV
+ایسے|PP نظام|NN میں|P برائی|NN کی|P راہ|NN پر|P چلنا|VB آسان|ADJ اور|CC بھلائی|NN کی|P راہ|NN پر|P چلنا|VB کیا|AA معنی|NN ،|PM قائم|ADJ رہنا|VB بھی|I مشکل|ADJ ہوتا|VB ہے|TA ۔|SM
+تم|PP سے|SE ہمیشہ|ADV کی|P دوری|NN میں|P برداشت|NN نہ|NEG کر|VB سکوں|NN گا|TA
+ایران|PN پر|P پابندیاں|NN ،|PM تیل|NN کی|P قیمتوں|NN میں|P اضافے|NN کی|P تنبیہہ|NN
+ابو|PN کاشان|PN ,|PM جولائی|PN 31|CA ,|PM 2008|CA
+تقریبا|ADV ً|CA ہر|Q مذہب|NN اور|CC قوم|NN نےاس|PN طریقہ|NN کارکواستعمال|VB کیا|VB ہے|TA ۔|SM
+دودھ|NN بچوں|NN ‘|NN جوانوں|NN ‘|CA دماغی|ADJ کام|NN کرنے|VB والوں|WALA اور|CC سخت|ADJ محنت|NN کرنے|VB والوں|WALA کے|P لیے|ADV اکسیر|NN ہے|VB ۔|SM
+وہی|PP تو|I میں|P کہہ|VB رہی|AA ہوں|TA
+سنا|VB ہے|TA کہ|SC اس|PD نیٹ|PN ورک|NN کو|P اچھے|ADJ طرح|NN سے|SE استعمال|NN کرنے|VB کے|P لیے|ADV سی|A ڈینگ|PN بھی|I کرنا|VB پڑتی|AA ہے|TA ؟|SM
+صاحب|I کمپیوٹر|NN لے|VB کر|KER گھر|NN چلے|VB گئے|AA ۔|SM
